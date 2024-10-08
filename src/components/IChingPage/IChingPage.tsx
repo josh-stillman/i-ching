@@ -1,11 +1,12 @@
 'use client';
-
+import opentype, { Font } from 'opentype.js';
 import styles from './IChingPage.module.css';
 
 import { Hexagram } from '@utils/utils';
 import { Hex } from '@components/Hex/Hex';
 import ReactRough, { Rectangle } from 'rough-react-wrapper';
 import { useViewport } from '../../hooks/useViewport';
+import { useEffect, useState } from 'react';
 
 // Fix types for wrapper to accept children
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -17,6 +18,22 @@ const changingHex = hexagram.getChangingHex();
 
 const IChingPage = () => {
   const { height, width } = useViewport();
+
+  const [font, setFont] = useState<Font>();
+
+  useEffect(() => {
+    const getFont = async () => {
+      const foo = await opentype.load('./ital.otf');
+      console.log({ font: foo });
+      setFont(foo);
+    };
+
+    getFont();
+  }, []);
+
+  if (!font) {
+    return;
+  }
 
   return (
     <main className={styles.iChingPageWrapper}>
