@@ -94,15 +94,15 @@ a {
   padding: 64px;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-}
-
 .background {
   z-index: -1;
   position: fixed;
   top: 0;
   left: 0;
+}
+
+@keyframes rough-animated {
+  to {
+    stroke-dashoffset: 0;
+  }
 }

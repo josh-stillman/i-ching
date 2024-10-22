@@ -2,10 +2,13 @@
 
 import styles from './IChingPage.module.css';
 
+import roughAnimated from 'rough-animated';
+
 import { Hexagram } from '@utils/utils';
 import { Hex } from '@components/Hex/Hex';
 import ReactRough, { Rectangle } from 'rough-react-wrapper';
 import { useViewport } from '../../hooks/useViewport';
+import { useEffect, useRef } from 'react';
 
 // Fix types for wrapper to accept children
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -16,6 +19,28 @@ const hexagram = new Hexagram();
 const changingHex = hexagram.getChangingHex();
 
 const IChingPage = () => {
+  const svgRef = useRef<SVGSVGElement>(null);
+
+  useEffect(() => {
+    resetShape();
+  }, []);
+
+  const resetShape = () => {
+    if (!svgRef.current) {
+      return;
+    }
+
+    const rc = roughAnimated.svg(svgRef.current);
+    svgRef.current.replaceChildren(
+      rc.rectangle(10, 10, 20, 20, {
+        animate: true,
+        animationDuration: 1500,
+        fillStyle: 'hachure',
+        fill: 'red',
+      })
+    );
+  };
+
   const { height, width } = useViewport();
 
   return (
@@ -31,11 +56,14 @@ const IChingPage = () => {
               fill="#d0d7de"
               roughness={5}
               stroke="none"
-              hachureGap={1}
+              hachureGap={0.5}
             />
           </MyReactRough>
         </div>
       )}
+      <div>
+        <svg ref={svgRef} width="100%" height="100%" />
+      </div>
       <section className={styles.hexContainer}>
         <Hex hexagram={hexagram} />
 
