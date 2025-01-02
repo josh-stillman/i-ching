@@ -33,3 +33,8 @@
     font-size: 1.55rem;
   }
 }
+
+.linesHeader {
+  text-decoration: underline;
+  font-size: 1.75rem;
+}

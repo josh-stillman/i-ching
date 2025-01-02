@@ -2,11 +2,8 @@
 
 import styles from './IChingPage.module.css';
 
-import roughAnimated from 'rough-animated';
-
 import { Hexagram } from '@utils/utils';
 import { Hex } from '@components/Hex/Hex';
-import ReactRough, { Rectangle } from 'rough-react-wrapper';
 import { useViewport } from '../../hooks/useViewport';
 
 const hexagram = new Hexagram();
@@ -54,7 +51,7 @@ const IChingPage = () => {
         {changingHex ? (
           <>
             <br />
-            <h1>LINES:</h1>{' '}
+            <p className={styles.linesHeader}>Changing Lines:</p>{' '}
             <ul>
               {hexagram.changingLinesText.map(line => (
                 <li key={line}>
