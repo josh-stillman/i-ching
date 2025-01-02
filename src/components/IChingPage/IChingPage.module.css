@@ -26,4 +26,10 @@
   padding: 64px;
   max-width: 85%;
   background-color: rgba(230, 217, 224, 0.8);
+
+  @media (width <= 500px) {
+    padding: 24px;
+    max-width: unset;
+    font-size: 1.55rem;
+  }
 }
