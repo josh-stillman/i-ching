@@ -19,7 +19,7 @@
 }
 
 .textContainer {
-  font-family: Garamond, serif;
+  font-family: var(--font-serif);
   white-space: pre-wrap;
   text-align: left;
   font-size: 26px;
