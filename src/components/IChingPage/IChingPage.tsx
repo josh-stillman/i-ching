@@ -1,40 +1,52 @@
 'use client';
 
-import styles from './IChingPage.module.css';
+import { useEffect, useRef } from 'react';
+import roughAnimated from 'rough-animated';
 
+import styles from './IChingPage.module.css';
 import { Hexagram } from '@utils/utils';
 import { Hex } from '@components/Hex/Hex';
-import ReactRough, { Rectangle } from 'rough-react-wrapper';
 import { useViewport } from '../../hooks/useViewport';
-
-// Fix types for wrapper to accept children
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-export const MyReactRough = ReactRough as (props: any) => React.JSX.Element;
 
 const hexagram = new Hexagram();
 
 const changingHex = hexagram.getChangingHex();
 
 const IChingPage = () => {
+  const svgRef = useRef<SVGSVGElement>(null);
   const { height, width } = useViewport();
+
+  useEffect(() => {
+    const resetShape = () => {
+      if (!svgRef.current) {
+        return;
+      }
+
+      const rc = roughAnimated.svg(svgRef.current);
+
+      svgRef.current.replaceChildren(
+        rc.rectangle(0, 0, width, height, {
+          animate: false,
+          fillStyle: 'hachure',
+          hachureGap: 1.5,
+          fill: '#e1e5eb',
+          stroke: 'none',
+        })
+      );
+    };
+
+    resetShape();
+  }, [height, width]);
 
   return (
     <main className={styles.iChingPageWrapper}>
       {height && width && (
-        <div className="background">
-          <MyReactRough renderer={'svg'} width={width} height={height}>
-            <Rectangle
-              width={width}
-              height={height}
-              x={0}
-              y={0}
-              fill="#d0d7de"
-              roughness={5}
-              stroke="none"
-              hachureGap={1}
-            />
-          </MyReactRough>
-        </div>
+        <svg
+          className="background"
+          width={width}
+          height={height}
+          ref={svgRef}
+        ></svg>
       )}
       <section className={styles.hexContainer}>
         <Hex hexagram={hexagram} />
@@ -49,7 +61,7 @@ const IChingPage = () => {
         {changingHex ? (
           <>
             <br />
-            <h1>LINES:</h1>{' '}
+            <p className={styles.linesHeader}>Changing Lines:</p>{' '}
             <ul>
               {hexagram.changingLinesText.map(line => (
                 <li key={line}>
@@ -63,13 +75,19 @@ const IChingPage = () => {
           ''
         )}
         <br />
-        <hr />
+        {changingHex && (
+          <>
+            <hr />
+            <br />
+          </>
+        )}
         {changingHex && (
           <>
             {changingHex.hexagramNumber}. {changingHex.hexagramName}
             <br />
             <br />
             {changingHex.text}
+            <br />
           </>
         )}
       </section>

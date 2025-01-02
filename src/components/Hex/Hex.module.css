@@ -1,5 +1,5 @@
 .title {
-  font-family: Garamond, serif;
+  font-family: var(--font-serif);
   font-size: 28px;
   line-height: 100%;
   margin-bottom: 34px;

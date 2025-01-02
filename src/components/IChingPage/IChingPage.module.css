@@ -19,11 +19,23 @@
 }
 
 .textContainer {
-  font-family: Garamond, serif;
-  white-space: pre-wrap;
+  font-family: var(--font-serif);
+  white-space: break-spaces;
   text-align: left;
   font-size: 26px;
   padding: 64px;
   max-width: 85%;
   background-color: rgba(230, 217, 224, 0.8);
+  line-height: 1.3;
+
+  @media (width <= 500px) {
+    padding: 24px;
+    max-width: unset;
+    font-size: 1.4rem;
+  }
+}
+
+.linesHeader {
+  text-decoration: underline;
+  font-size: 1.75rem;
 }

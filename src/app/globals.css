@@ -5,6 +5,8 @@
     'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
     'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
 
+  --font-serif: 'Times New Roman', Times, serif;
+
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
@@ -92,11 +94,9 @@ a {
 
 .app-wrapper {
   padding: 64px;
-}
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+  @media (width <= 500px) {
+    padding: 32px 22px;
   }
 }
 
@@ -105,4 +105,10 @@ a {
   position: fixed;
   top: 0;
   left: 0;
+}
+
+@keyframes rough-animated {
+  to {
+    stroke-dashoffset: 0;
+  }
 }
