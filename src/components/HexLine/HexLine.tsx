@@ -15,6 +15,8 @@ const height = 30;
 
 const FILL_STYLE = 'none';
 
+const CHANGING_FILL_WEIGHT = 2;
+
 const INITIAL_ROUGHNESS = 2;
 
 export const HexLine = ({ line, order, duration }: Props) => {
@@ -32,6 +34,7 @@ export const HexLine = ({ line, order, duration }: Props) => {
       return (
         <BrokenLine
           fill="tomato"
+          fillWeight={CHANGING_FILL_WEIGHT}
           roughness={INITIAL_ROUGHNESS}
           order={order}
           duration={duration}
@@ -51,6 +54,7 @@ export const HexLine = ({ line, order, duration }: Props) => {
       return (
         <StraightLine
           fill="tomato"
+          fillWeight={CHANGING_FILL_WEIGHT}
           roughness={INITIAL_ROUGHNESS}
           order={order}
           duration={duration}
@@ -65,12 +69,14 @@ export const HexLine = ({ line, order, duration }: Props) => {
 const BrokenLine = ({
   roughness,
   fill,
+  fillWeight,
   order,
   className,
   duration,
 }: {
   roughness: number;
   fill: string;
+  fillWeight?: number;
   order: number;
   className?: string;
   duration: number;
@@ -88,6 +94,7 @@ const BrokenLine = ({
         width={width * 0.375}
         height={height}
         fill={fill}
+        fillWeight={fillWeight}
         roughness={roughness}
         fillStyle={FILL_STYLE}
         animationDuration={segmentDuration}
@@ -97,6 +104,7 @@ const BrokenLine = ({
         width={width * 0.375}
         height={height}
         fill={fill}
+        fillWeight={fillWeight}
         roughness={roughness}
         fillStyle={FILL_STYLE}
         animationDuration={segmentDuration}
@@ -109,12 +117,14 @@ const BrokenLine = ({
 const StraightLine = ({
   roughness,
   fill,
+  fillWeight,
   order,
   className,
   duration,
 }: {
   roughness: number;
   fill: string;
+  fillWeight?: number;
   order: number;
   duration: number;
   className?: string;
@@ -127,6 +137,7 @@ const StraightLine = ({
       width={width}
       height={height}
       fill={fill}
+      fillWeight={fillWeight}
       animationDelay={duration * order}
       animationDuration={duration}
       roughness={roughness}

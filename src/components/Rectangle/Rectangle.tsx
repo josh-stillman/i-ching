@@ -6,6 +6,7 @@ interface Props {
   height: number;
   fill?: string;
   fillStyle?: string;
+  fillWeight?: number;
   roughness?: number;
   animationDelay?: number;
   hachureGap?: number;
@@ -18,6 +19,7 @@ export const AnimatedRectangle = ({
   height,
   fill = 'black',
   fillStyle = 'hachure',
+  fillWeight = 1,
   roughness = 1,
   hachureGap = 7,
   animationDelay = 0,
@@ -47,6 +49,7 @@ export const AnimatedRectangle = ({
         animationDuration,
         animationDurationFillPercentage,
         fillStyle,
+        fillWeight,
         hachureGap,
         fill,
       })
