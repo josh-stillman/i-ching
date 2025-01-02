@@ -36,7 +36,7 @@ const IChingPage = () => {
     };
 
     resetShape();
-  }, [height, width]);
+  }, []);
 
   return (
     <main className={styles.iChingPageWrapper}>
