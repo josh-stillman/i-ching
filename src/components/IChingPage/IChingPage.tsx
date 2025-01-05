@@ -61,15 +61,20 @@ const IChingPage = () => {
         {changingHex ? (
           <>
             <br />
-            <p className={styles.linesHeader}>Changing Lines:</p>{' '}
-            <ul>
-              {hexagram.changingLinesText.map(line => (
-                <li key={line}>
-                  {line}
-                  <br />
-                </li>
-              ))}
-            </ul>
+            <p className={styles.linesHeader}>Changing Lines</p> {/* <ul> */}
+            {hexagram.changingLinesText.map((line, i) => (
+              <p key={line}>
+                {line}
+                <br />
+                {i !== hexagram.changingLinesText.length - 1 && (
+                  <>
+                    <br />
+                    <hr style={{ margin: '0 auto', width: '25%' }} />
+                    <br />
+                  </>
+                )}
+              </p>
+            ))}
           </>
         ) : (
           ''
