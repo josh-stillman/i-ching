@@ -18,6 +18,9 @@ export const Hex = ({ hexagram }: Props) => {
 
   const clampedWidth = Math.min(200, hexWidth);
 
+  const finalWidth =
+    !hexagram.isChanged && !hexagram.isChanging ? 200 : clampedWidth;
+
   // animation happens in reverse dom order within each Hex
   const orderOffset = hexagram.isChanged ? 11 : 5;
 
@@ -38,7 +41,7 @@ export const Hex = ({ hexagram }: Props) => {
 
       {hexagram.getLinesDescending().map((line: Line, i: number) => (
         <HexLine
-          width={clampedWidth}
+          width={finalWidth}
           line={line}
           key={hexagram.hexagramNumber + i}
           order={orderOffset - i}
