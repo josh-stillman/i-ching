@@ -8,10 +8,8 @@ interface Props {
   line: Line;
   order: number;
   duration: number;
+  width: number;
 }
-
-const width = 200;
-const height = 30;
 
 const FILL_STYLE = 'none';
 
@@ -19,7 +17,11 @@ const CHANGING_FILL_WEIGHT = 2;
 
 const INITIAL_ROUGHNESS = 2;
 
-export const HexLine = ({ line, order, duration }: Props) => {
+export const HexLine = ({ line, order, duration, width }: Props) => {
+  const ASPECT_RATIO = 30 / 200;
+
+  const height = width * ASPECT_RATIO;
+
   switch (line) {
     case Line.Broken:
       return (
@@ -28,6 +30,8 @@ export const HexLine = ({ line, order, duration }: Props) => {
           roughness={INITIAL_ROUGHNESS}
           order={order}
           duration={duration}
+          width={width}
+          height={height}
         />
       );
     case Line.BrokenPlus:
@@ -38,6 +42,8 @@ export const HexLine = ({ line, order, duration }: Props) => {
           roughness={INITIAL_ROUGHNESS}
           order={order}
           duration={duration}
+          width={width}
+          height={height}
           className="changing"
         />
       );
@@ -48,6 +54,8 @@ export const HexLine = ({ line, order, duration }: Props) => {
           roughness={INITIAL_ROUGHNESS}
           order={order}
           duration={duration}
+          width={width}
+          height={height}
         />
       );
     case Line.StraightPlus:
@@ -59,6 +67,8 @@ export const HexLine = ({ line, order, duration }: Props) => {
           order={order}
           duration={duration}
           className="changing"
+          width={width}
+          height={height}
         />
       );
     default:
@@ -73,6 +83,8 @@ const BrokenLine = ({
   order,
   className,
   duration,
+  width,
+  height,
 }: {
   roughness: number;
   fill: string;
@@ -80,6 +92,8 @@ const BrokenLine = ({
   order: number;
   className?: string;
   duration: number;
+  width: number;
+  height: number;
 }) => {
   const segmentDuration = duration / 2;
   const firstSegmentDelay = duration * order;
@@ -121,6 +135,8 @@ const StraightLine = ({
   order,
   className,
   duration,
+  width,
+  height,
 }: {
   roughness: number;
   fill: string;
@@ -128,6 +144,8 @@ const StraightLine = ({
   order: number;
   duration: number;
   className?: string;
+  width: number;
+  height: number;
 }) => (
   <div
     className={`${styles.line__container} ${className ? className : ''}`}

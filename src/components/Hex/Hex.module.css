@@ -5,4 +5,8 @@
   margin-bottom: 34px;
   text-align: center;
   min-height: 57px;
+
+  @media (width <= 500px) {
+    font-size: 1.5rem;
+  }
 }

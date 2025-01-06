@@ -1,12 +1,23 @@
 import { Hexagram, Line } from '@utils/utils';
 import { HexLine } from '../HexLine/HexLine';
 import styles from './Hex.module.css';
+import { useViewport } from '../../hooks/useViewport';
 
 interface Props {
   hexagram: Hexagram;
 }
 
 export const Hex = ({ hexagram }: Props) => {
+  const { width } = useViewport();
+
+  const gap = width * 0.075;
+  const padding = width * 0.05 * 2;
+  const availableHexWidth = width - gap - padding;
+
+  const hexWidth = availableHexWidth / 2;
+
+  const clampedWidth = Math.min(200, hexWidth);
+
   // animation happens in reverse dom order within each Hex
   const orderOffset = hexagram.isChanged ? 11 : 5;
 
@@ -27,6 +38,7 @@ export const Hex = ({ hexagram }: Props) => {
 
       {hexagram.getLinesDescending().map((line: Line, i: number) => (
         <HexLine
+          width={clampedWidth}
           line={line}
           key={hexagram.hexagramNumber + i}
           order={orderOffset - i}
