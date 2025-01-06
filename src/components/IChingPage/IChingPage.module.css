@@ -8,10 +8,12 @@
 
 .hexContainer {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-column-gap: 100px;
-  grid-row-gap: 50px;
-  min-width: 200px;
+  /* subgrid forces a 2 row, 1-2 column layout */
+  /* The title is the first row, the lines are the second row */
+  /* See Hex.module.css */
+
+  grid-column-gap: 7.5%;
+  grid-row-gap: 7.5%;
   max-width: 700px;
   width: 100%;
   max-height: 100%;
