@@ -31,7 +31,7 @@ export const Hex = ({ hexagram }: Props) => {
   // broken lines get divided into two.
   // delay = duration * order -1
 
-  const TOTAL_DURATION = 10000;
+  const TOTAL_DURATION = 5000;
 
   return (
     <div className={styles.container}>
@@ -39,15 +39,17 @@ export const Hex = ({ hexagram }: Props) => {
         className={styles.title}
       >{`${hexagram.hexagramNumber}: ${hexagram.hexagramName}`}</h1>
 
-      {hexagram.getLinesDescending().map((line: Line, i: number) => (
-        <HexLine
-          width={finalWidth}
-          line={line}
-          key={hexagram.hexagramNumber + i}
-          order={orderOffset - i}
-          duration={TOTAL_DURATION / 6}
-        />
-      ))}
+      <div className={styles.lines}>
+        {hexagram.getLinesDescending().map((line: Line, i: number) => (
+          <HexLine
+            width={finalWidth}
+            line={line}
+            key={hexagram.hexagramNumber + i}
+            order={orderOffset - i}
+            duration={TOTAL_DURATION / 6}
+          />
+        ))}
+      </div>
     </div>
   );
 };
