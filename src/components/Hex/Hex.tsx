@@ -31,7 +31,7 @@ export const Hex = ({ hexagram }: Props) => {
   const TOTAL_DURATION = 10000;
 
   return (
-    <div>
+    <div className={styles.container}>
       <h1
         className={styles.title}
       >{`${hexagram.hexagramNumber}: ${hexagram.hexagramName}`}</h1>
