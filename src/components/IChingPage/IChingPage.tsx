@@ -7,12 +7,28 @@ import styles from './IChingPage.module.css';
 import { Hexagram } from '@utils/utils';
 import { Hex } from '@components/Hex/Hex';
 // import { useViewport } from '../../hooks/useViewport';
-
-const hexagram = new Hexagram();
-
-const changingHex = hexagram.getChangingHex();
+import { useSearchParams } from 'next/navigation';
 
 const IChingPage = () => {
+  const searchParams = useSearchParams();
+
+  // Get a specific parameter
+  const forceHexagramNumber = searchParams.get('hex')
+    ? parseInt(searchParams.get('hex')!)
+    : null;
+
+  const forceChangingLines = searchParams
+    .get('lines')
+    ?.split(',')
+    .map(l => +l)
+    .filter(l => +l >= 1 && +l <= 6);
+
+  const hexagram = new Hexagram({
+    forceHexagramNumber,
+    forceChangingLines,
+  });
+
+  const changingHex = hexagram.getChangingHex();
   // const svgRef = useRef<SVGSVGElement>(null);
   // const { height, width } = useViewport();
 
