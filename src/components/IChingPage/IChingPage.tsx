@@ -70,12 +70,13 @@ const IChingPage = () => {
         {changingHex && <Hex hexagram={changingHex} />}
       </section>
       <section className={styles.textContainer}>
-        {hexagram.hexagramNumber}. {hexagram.hexagramName}
+        {hexagram.hexagramTitleText}
         <br />
         <br />
         {hexagram.text}
         {changingHex ? (
           <>
+            <br />
             <br />
             <p className={styles.linesHeader}>Changing Lines</p> {/* <ul> */}
             {hexagram.changingLinesText.map((line, i) => (
@@ -84,6 +85,7 @@ const IChingPage = () => {
                 <br />
                 {i !== hexagram.changingLinesText.length - 1 && (
                   <>
+                    <br />
                     <br />
                     <hr style={{ margin: '0 auto', width: '25%' }} />
                     <br />

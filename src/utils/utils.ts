@@ -274,6 +274,7 @@ export class Hexagram {
   upperTrigram: Trigram;
   hexagramNumber: number;
   hexagramName: string;
+  hexagramTitleText: string;
   isChanging: boolean;
   isChanged: boolean;
   text: string;
@@ -295,12 +296,13 @@ export class Hexagram {
   } = {}) {
     if (
       forceHexagramNumber &&
-      forceHexagramNumber > 1 &&
+      forceHexagramNumber >= 1 &&
       forceHexagramNumber <= 64
     ) {
       this.hexagramNumber = forceHexagramNumber;
 
       this.hexagramName = HEXAGRAM_NAMES[this.hexagramNumber];
+      this.hexagramTitleText = TEXT[this.hexagramNumber].title;
       this.text = TEXT[this.hexagramNumber].text;
       this.isChanged = false;
 
@@ -358,6 +360,7 @@ export class Hexagram {
       ];
 
     this.hexagramName = HEXAGRAM_NAMES[this.hexagramNumber];
+    this.hexagramTitleText = TEXT[this.hexagramNumber].title;
     this.text = TEXT[this.hexagramNumber].text;
 
     this.isChanging = this.lowerTrigram.changing || this.upperTrigram.changing;
