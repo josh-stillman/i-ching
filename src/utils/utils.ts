@@ -4,6 +4,7 @@ TODO:
 2. SEO
 */
 
+import { ReactElement } from 'react';
 import { TEXT } from './wilhelm';
 
 enum Coin {
@@ -277,9 +278,9 @@ export class Hexagram {
   hexagramTitleText: string;
   isChanging: boolean;
   isChanged: boolean;
-  text: string;
+  text: string | ReactElement;
   changingLines: number[];
-  changingLinesText: string[];
+  changingLinesText: (string | ReactElement)[];
 
   constructor({
     lowerTrigram,

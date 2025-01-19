@@ -107,6 +107,11 @@ a {
   left: 0;
 }
 
+.smallCaps {
+  font-variant: small-caps;
+  font-size: 20px;
+}
+
 @keyframes rough-animated {
   to {
     stroke-dashoffset: 0;
