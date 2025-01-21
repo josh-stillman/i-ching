@@ -3839,81 +3839,210 @@ The difficulties at the beginning are too great for some persons. They get stuck
     ],
   },
   21: {
-    title: '21. Shih Ho / Biting Through',
-    text: `above LI THE CLINGING, FIRE
-below CHêN THE AROUSING, THUNDER
-
-This hexagram represents an open mouth (cf. hexagram 27 with an obstruction (in the fourth place) between the teeth. As a result the lips cannot meet. To bring them together one must bite energetically through the obstacle. Since the hexagram is made up of the trigrams for thunder and for lightning, it indicates how obstacles are forcibly removed in nature.
-Energetic biting through overcomes the obstacle that prevents joining of the lips; the storm with its thunder and lightning overcomes the disturbing tension in nature. Recourse to law and penalties overcomes the disturbances of harmonious social life caused by criminals and slanderers. The theme of this hexagram is a criminal lawsuit, in contradistinction to that of Sung, CONFLICT 6, which refers to civil suits.
-
-THE JUDGMENT
-
-BITING THROUGH has success.
-It is favorable to let justice be administered.
-
-When an obstacle to union arises, energetic biting through brings success. This is true in all situations. Whenever unity cannot be established, the obstruction is due to a talebearer and traitor who is interfering and blocking the way. To prevent permanent injury, vigorous measures must be taken at once. Deliberate obstruction of this sort does not vanish of its own accord. Judgment and punishment are required to deter or obviate it. However, it is important to proceed in the right way. The hexagram combines Li, clarity, and Chên, excitement. Li is yielding, Chên is hard. Unqualified hardness and excitement would be too violent in meting out punishment; unqualified clarity and gentleness would be too weak. The two together create the just measure. It is of moment that the man who makes the decisions (represented by the fifth line) is gentle by nature, while he commands respect by his conduct in his position.
-
-THE IMAGE
-
-Thunder and lighting:
-The image of BITING THROUGH.
-Thus the kings of former times made firm the laws
-Through clearly defined penalties.
-Penalties are the individual applications of the law. The lawsspecify the penalties. Clarity prevails when mild and severepenalties are differentiated, according to the nature of the crimes.This is symbolized by the clarity of lighting. The law is strengthenedby a just application of penalties. This is symbolized by the terrorof thunder. This clarity and severity have the effect of instillingrespect; it is not that the penalties are ends in themselves.The obstructions in the social life of man increase when there is alack of clarity in the penal codes and slackness in executing them.The only to strengthen the law is to make it clear and make penaltiescertain and swift.
-`,
+    title: '21. Shih Ho / Biting Through ䷔',
+    text: (
+      <>
+        This hexagram represents an open mouth (cf. hexagram 27) with an
+        obstruction (in the fourth place) between the teeth. As a result the
+        lips cannot meet. To bring them together one must bite energetically
+        through the obstacle. Since the hexagram is made up of the trigrams for
+        thunder and for lightning, it indicates how obstacles are forcibly
+        removed in nature. Energetic biting through overcomes the obstacle that
+        prevents joining of the lips; the storm with its thunder and lightning
+        overcomes the disturbing tension in nature. Recourse to law and
+        penalties overcomes the disturbances of harmonious social life caused by
+        criminals and slanderers. The theme of this hexagram is a criminal
+        lawsuit, in contradistinction to that of Sung, CONFLICT (6), which
+        refers to civil suits.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;BITING THROUGH has success.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It is favorable to let justice be
+          administered.
+          <br />
+          <br />
+        </p>
+        When an obstacle to union arises, energetic biting through brings
+        success. This is true in all situations. Whenever unity cannot be
+        established, the obstruction is due to a talebearer and traitor who is
+        interfering and blocking the way. To prevent permanent injury, vigorous
+        measures must be taken at once. Deliberate obstruction of this sort does
+        not vanish of its own accord. Judgment and punishment are required to
+        deter or obviate it.
+        <br />
+        <br />
+        However, it is important to proceed in the right way. The hexagram
+        combines Li, clarity, and Chên, excitement. Li is yielding, Chên is
+        hard. Unqualified hardness and excitement would be too violent in meting
+        out punishment; unqualified clarity and gentleness would be too weak.
+        The two together create the just measure. It is of moment that the man
+        who makes the decisions (represented by the fifth line) is gentle by
+        nature, while he commands respect by his conduct in his position.
+        <br />
+        <p>
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thunder and lightning:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The image of BITING THROUGH.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus the kings of former times made firm the
+          laws
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Through clearly defined penalties.
+          <br />
+          <br />
+        </p>
+        Penalties are the individual applications of the law. The laws specify
+        the penalties. Clarity prevails when mild and severe penalties are
+        clearly differentiated, according to the nature of the crimes. This is
+        symbolized by the clarity of lightning. The law is strengthened by a
+        just application of penalties. This is symbolized by the terror of
+        thunder. This clarity and severity have the effect of instilling
+        respect; it is not that the penalties are ends in themselves. The
+        obstructions in the social life of man increase when there is lack of
+        clarity in the penal codes and slackness in executing them. The only way
+        to strengthen the law is to make it clear and to make penalties certain
+        and swift.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Nine at the beginning means:
-
-His feet are fastened in the stocks,
-So that his toes disappear.
-No blame.
-
-If a sentence is imposed the first time a man attempts to do wrong, the penalty is a mild one. Only the toes are put in the stocks. This prevents him from sinning further and thus he becomes free of blame. It is a warning to halt in time on the path of evil.
-`,
-      `Six in the second place means:
-
-Bites through tender meat,
-So that his nose disappears.
-No blame.
-
-It is easy to discriminate between right and wrong in this case;it is like biting through tender meat. But one encounters ahardened sinner, and, aroused by anger, one goes a little toofar. The disappearance of the nose in the course of the bitesignifies that indignation blots out finer sensibility. However,there is no great harm in this, because the penalty as such isjust.
-`,
-      `Six in the third place means:
-
-Bites on old dried meat
-And strikes on something poisonous.
-Slight humiliation. No blame.
-
-Punishment is to be carried out by someone who lacks the power and authority to do so. Therefore the culprits do not submit. The matter at issue is an old one-as symbolized by salted game-and in dealing with it difficulties arise. This old meat is spoiled: by taking up the problem the punisher arouses poisonous hatred against himself, and n this way is put in a somewhat humiliating position. But since punishment was required by the time, he remains free of blame.
-`,
-      `Nine in the fourth place means:
-
-Bites on dried gristly meat.
-Receives metal arrows.
-It furthers one to be mindful of difficulties
-And to be persevering.
-Good fortune.
-
-There are great obstacles to be overcome, powerful opponents are to be punished. Though this is arduous, the effort succeeds. But it is necessary to be hard as metal and straight as an arrow to surmount the difficulties. If one knows these difficulties and remains persevering, he attains good fortune. The difficult task is achieved in the end.
-`,
-      `Six in the fifth place means:
-
-Bites on dried lean meat.
-Receives yellow gold.
-Perseveringly aware of danger.
-
-No blame.
-
-The case to be decided is indeed not easy but perfectly clear. Since we naturally incline to leniency, we must make every effort to be like yellow gold-that is, as true as gold and as impartial as yellow, the color of the middle [the mean]. It is only by remaining conscious of the dangers growing out of the responsibility we have assumed that we can avoid making mistakes.
-`,
-      `Nine at the top means:
-
-His neck is fastened in the wooden cangue,
-So that his ears disappear.
-Misfortune.
-
-In contrast to the first line, this line refers to a man who is incorrigible. His punishment is the wooden cangue, and his ears disappear under it-that is to say, he is deaf to warnings. This obstinacy leads to misfortune.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;His feet are fastened in the stocks,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;So that his toes disappear.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;No blame.
+          <br />
+          <br />
+        </p>
+        If a sentence is imposed the first time a man attempts to do wrong, the
+        penalty is a mild one. Only the toes are put in the stocks. This
+        prevents him from sinning further and thus he becomes free of blame. It
+        is a warning to halt in time on the path of evil.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Bites through tender meat,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;So that his nose disappears.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;No blame.
+          <br />
+          <br />
+        </p>
+        It is easy to discriminate between right and wrong in this case; it is
+        like biting through tender meat. But one encounters a hardened sinner,
+        and, aroused by anger, one goes a little too far. The disappearance of
+        the nose in the course of the bite signifies that indignation blots out
+        finer sensibility. However, there is no great harm in this, because the
+        penalty as such is just.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Bites on old dried meat
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;And strikes on something poisonous.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Slight humiliation. No blame.
+          <br />
+          <br />
+        </p>
+        Punishment is to be carried out by someone who lacks the power and
+        authority to do so. Therefore the culprits do not submit. The matter at
+        issue is an old one—as symbolized by salted game—and in dealing with it
+        difficulties arise. This old meat is spoiled: by taking up the problem
+        the punisher arouses poisonous hatred against himself, and in this way
+        is put in a somewhat humiliating position. But since punishment was
+        required by the time, he remains free of blame.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Bites on dried gristly meat.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Receives metal arrows.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It furthers one to be mindful of difficulties
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;And to be persevering.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Good fortune.
+          <br />
+          <br />
+        </p>
+        There are great obstacles to be overcome, powerful opponents are to be
+        punished. Though this is arduous, the effort succeeds. But it is
+        necessary to be hard as metal and straight as an arrow to surmount the
+        difficulties. If one knows these difficulties and remains persevering,
+        he attains good fortune. The difficult task is achieved in the end.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Bites on dried lean meat.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Receives yellow gold.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Perseveringly aware of danger.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;No blame.
+          <br />
+          <br />
+        </p>
+        The case to be decided is indeed not easy but perfectly clear. Since we
+        naturally incline to leniency, we must make every effort to be like
+        yellow gold—that is, as true as gold and as impartial as yellow, the
+        color of the middle [the mean]. It is only by remaining conscious of the
+        dangers growing out of the responsibility we have assumed that we can
+        avoid making mistakes.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;His neck is fastened in the wooden cangue,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;So that his ears disappear.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Misfortune.
+          <br />
+          <br />
+        </p>
+        In contrast to the first line, this line refers to a man who is
+        incorrigible. His punishment is the wooden cangue, and his ears
+        disappear under it—that is to say, he is deaf to warnings. This
+        obstinacy leads to misfortune.
+        <br />
+      </>,
     ],
   },
   22: {
