@@ -3424,157 +3424,418 @@ The difficulties at the beginning are too great for some persons. They get stuck
     ],
   },
   19: {
-    title: '19. Lin / Approach',
-
-    text: `above K'UN THE RECEPTIVE, EARTH
-below TUI THE JOYOUS, LAKE
-
-The Chinese word lin has a range of meanings that is not exhausted by any single word of another language. The ancient explanations in the Book of Changes give as its first meaning, "becoming great." What becomes great are the two strong lines growing into the hexagram from below; the light-giving power expands with them. The meaning is then further extended to include the concept of approach, especially the approach of what is lower. Finally the meaning includes the attitude of condescension of a man in high position toward the people, and in general the setting to work on affairs. This hexagram is linked with the twelfth month (January-February), when after the winter solstice, the light power begins to ascend again.
-
-THE JUDGMENT
-
-APPROACH has supreme success.
-Perseverance furthers.
-When the eighth month comes,
-
-. There will be misfortune.
-
-The hexagram as a whole points to a time of joyous, hopeful progress. Spring is approaching. Joy and forbearance bring high and low nearer together. Success is certain. But we must work with determination and perseverance to make full use of the propitiousness of the time. And on thing more: spring does not last forever. In the eighth month the aspects are reversed. Then only two strong, light lines are left; these do not advance but are in retreat (see next hexagram). We must take heed of this change in good time. If we meet evil before it becomes reality-before it has even begun to stir-we can master it.
-
-THE IMAGE
-
-The earth above the lake:
-The image of APPROACH.
-Thus the superior man is inexhaustible
-In his will to teach,
-And without limits
-In his tolerance and protection of the people.
-
-The earth borders upon the lake from above. This symbolizes the approach and condescension of the man of higher position to those beneath him. The two parts of the image indicate what his attitude toward these people will be. Just as the lake is inexhaustible in depth, so the sage is inexhaustible in his readiness to teach mankind, and just as the earth is boundlessly wide, sustaining and caring for all creatures on it, so the sage sustains and cares for all people and excludes no part of humanity.
-`,
+    title: '19. Lin / Approach ䷒',
+    text: (
+      <>
+        The Chinese word lin has a range of meanings that is not exhausted by
+        any single word of another language. The ancient explanations in the
+        Book of Changes give as its first meaning, “becoming great.” What
+        becomes great are the two strong lines growing into the hexagram from
+        below; the light-giving power expands with them. The meaning is then
+        further extended to include the concept of approach, especially the
+        approach of what is strong and highly placed in relation to what is
+        lower. Finally the meaning includes the attitude of condescension of a
+        man in high position toward the people, and in general the setting to
+        work on affairs. This hexagram is linked with the twelfth month
+        (January–February), when, after the winter solstice, the light power
+        begins to ascend again.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;APPPROACH has supreme success.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Perseverance furthers.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;When the eighth month comes,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;There will be misfortune.
+          <br />
+          <br />
+        </p>
+        The hexagram as a whole points to a time of joyous, hopeful progress.
+        Spring is approaching. Joy and forbearance bring high and low nearer
+        together. Success is certain. But we must work with determination and
+        perseverance to make full use of the propitiousness of the time. And one
+        thing more: spring does not last forever. In the eighth month the
+        aspects are reversed. Then only two strong, light lines are left; these
+        do not advance but are in retreat (see next hexagram). We must take heed
+        of this change in good time. If we meet evil before it becomes
+        reality—before it has even begun to stir—we can master it.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The earth above the lake:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The image of APPROACH.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus the superior man is inexhaustible
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;In his will to teach,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;And without limits
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;In his tolerance and protection of the people.
+          <br />
+          <br />
+        </p>
+        The earth borders upon the lake from above. This symbolizes the approach
+        and condescension of the man of higher position to those beneath him.
+        The two parts of the image indicate what his attitude toward these
+        people will be. Just as the lake is inexhaustible in depth, so the sage
+        is inexhaustible in his readiness to teach mankind, and just as the
+        earth is boundlessly wide, sustaining and caring for all creatures on
+        it, so the sage sustains and cares for all people and excludes no part
+        of humanity.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Nine at the beginning means:
-
-Joint approach.
-Perseverance brings good fortune.
-
-The good begins to prevail and to find response in influential circles. This in turn is an incentive to men of ability. IT is well to join this upward trend, but we must not let ourselves be carried away by the current of the time; we must adhere perseveringly to what is right. This bring good fortune.
-`,
-      `Nine in the second place means:
-
-Joint approach.
-Good fortune.
-Everything furthers.
-
-When the stimulus to approach comes from a high place, and when a man has the inner strength and consistency that need no admonition, good fortune will ensue. Nor need the future cause any concern. He is well aware that everything earthly is transitory, and that a descent follows upon every rise, but need not be confused by this universal law of fate. Everything serves to further. Therefore he will travel the paths of life swiftly, honestly, and valiantly.
-`,
-      `Six in the third place means:
-
-Comfortable approach.
-Nothing that would further.
-If one is induced to grieve over it,
-One becomes free of blame.
-
-Things are going well for a man: he achieves power and influence. But in this lies the danger that he may relax, and confident of his position, allow the easygoing, careless mood to show itself in his dealings with other people. This would inevitably be harmful. But there is possibility of a change of mood. If he regrets his mistaken attitude and feels the responsibility of an influential position, he frees himself of faults.
-`,
-      `Six in the fourth place means:
-
-Complete approach.
-No blame.
-While the three lower lines indicate rise to power and influence, the three upper lines show the attitude of persons in higher position toward those of lower rank for whom they procure influence. Here is shown the open-minded approach of a person of high rank to a man of ability whom he draws in to his own circle, regardless of class prejudice. This is very favorable.
-`,
-      `Six in the fifth place means:
-
-Wise approach.
-This is right for a great prince.
-Good fortune.
-
-A prince, or anyone in a leading position, must have the wisdom to attract to himself people of ability who are expert in directing affairs. His wisdom consists both in selecting the right people and in allowing those chosen to have a free hand without interference from him. For only through such self-restraint will he find the experts needed to satisfy all of his requirements.
-`,
-      `Six at the top means:
-
-Great hearted approach.
-Good-hearted approach.
-Good fortune. No blame.
-
-A sage who has put the world behind him and who in spirit has already withdrawn from life may, under certain circumstances, decide to return once more to the here and now and to approach other men. This means great good fortune for the men whom he teaches and helps. And for him this great hearted humbling of himself is blameless.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Joint approach.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
+          <br />
+          <br />
+        </p>
+        The good begins to prevail and to find response in influential circles.
+        This in turn is an incentive to men of ability. It is well to join this
+        upward trend, but we must not let ourselves be carried away by the
+        current of the time; we must adhere perseveringly to what is right. This
+        brings good fortune.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Joint approach.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Good fortune.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Everything furthers.
+          <br />
+          <br />
+        </p>
+        When the stimulus to approach comes from a high place, and when a man
+        has the inner strength and consistency that need no admonition, good
+        fortune will ensue. Nor need the future cause any concern. He is well
+        aware that everything earthly is transitory, and that a descent follows
+        upon every rise, but need not be confused by this universal law of fate.
+        Everything serves to further. Therefore he will travel the paths of life
+        swiftly, honestly, and valiantly.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Comfortable approach.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Nothing that would further.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;If one is induced to grieve over it,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;One becomes free of blame.
+          <br />
+          <br />
+        </p>
+        Things are going well for a man: he achieves power and influence. But in
+        this lies the danger that he may relax, and confident of his position,
+        allow the easygoing, careless mood to show itself in his dealings with
+        other people. This would inevitably be harmful. But there is possibility
+        of a change of mood. If he regrets his mistaken attitude and feels the
+        responsibility of an influential position, he frees himself of faults.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Complete approach.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;No blame.
+          <br />
+          <br />
+        </p>
+        While the three lower lines indicate rise to power and influence, the
+        three upper lines show the attitude of persons in higher position toward
+        those of lower rank for whom they procure influence. Here is shown the
+        open-minded approach of a person of high rank to a man of ability whom
+        he draws into his own circle, regardless of class prejudice. This is
+        very favorable.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Wise approach.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;This is right for a great prince.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Good fortune.
+          <br />
+          <br />
+        </p>
+        A prince, or anyone in a leading position, must have the wisdom to
+        attract to himself people of ability who are expert in directing
+        affairs. His wisdom consists both in selecting the right people and in
+        allowing those chosen to have a free hand without interference from him.
+        For only through such self-restraint will he find the experts needed to
+        satisfy all of his requirements.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Greathearted approach.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Good fortune. No blame.
+          <br />
+          <br />
+        </p>
+        A sage who has put the world behind him and who in spirit has already
+        withdrawn from life may, under certain circumstances, decide to return
+        once more to the here and now and to approach other men. This means
+        great good fortune for the men whom he teaches and helps. And for him
+        this greathearted humbling of himself is blameless.
+        <br />
+      </>,
     ],
   },
   20: {
-    title: '20. Kuan / Contemplation (View)',
-    text: `above SUN THE GENTLE, WIND
-below K'UN THE RECEPTIVE, EARTH
-
-A slight variation of tonal stress gives the Chinese name for this hexagram a double meaning. It means both contemplating and being seen, in the sense of being an example. These ideas are suggested by the fact that the hexagram can be understood as picturing a type of tower characteristic of ancient China.
-
-A tower of this kind commanded a wide view of the country; at the same time, when situated on a mountain, it became a landmark that could be seen for miles around. Thus the hexagram shows a ruler who contemplates the law of heaven above him and the ways of the people below, and who, by means of good government, sets a lofty example to the masses. This hexagram is linked with the eight month (September-October). The light-giving power retreats and the dark power is again on the increase. However, this aspect is not material in the interpretation of the hexagram as a whole.
-
-THE JUDGMENT
-
-CONTEMPLATION. The ablution has been made,
-But not yet the offering.
-Full of trust they look up to him.
-
-The sacrificial ritual in China began with an ablution and a libation by which the Deity was invoked, after which the sacrifice was offered. The moment of time between these two ceremonies is the most sacred of all, the moment of deepest inner concentration. If piety is sincere and expressive of real faith, the contemplation of it has a transforming awe-spiring effect on those who witness it. Thus also in nature a holy seriousness is to be seen in the fact that natural occurrences are uniformly subject to law. Contemplation of the divine meaning underlying the workings of the universe gives to the man who is called upon to influence others the means of producing like effects. This requires that power of inner concentration which religious contemplation develops in great men strong in faith. It enables them to apprehend the mysterious and divine laws of life, and by means of profoundest inner concentration they give expression to these laws in their own persons. Thus a hidden spiritual power emanates from them, influencing and dominating others without their being aware of how it happens.
-
-THE IMAGE
-
-The wind blows over the earth:
-The image of CONTEMPLATION.
-Thus the kings of old visited the regions of the world,
-Contemplated the people,
-And gave them instruction.
-
-When the wind blows over the earth it goes far and wide, and the grass must bend to its power. These two occurrences find confirmation in the hexagram. The two images are used to symbolize a practice of the kings of old; in making regular journeys the ruler could, in the first place, survey his realm and make certain that none of the existing usages of the people escaped notice; in the second, he could exert influence through which such customs as were unsuitable could be changed. All of this points to the power possessed by a superior personality. On the one hand, such a man will have a view of the real sentiments of the great mass of humanity and therefore cannot be deceived; on the other, he will impress the people so profoundly, by his mere existence and by the impact of his personality, that they will be swayed by him as the grass by the wind.
-`,
+    title: '20. Kuan / Contemplation (View) ䷓',
+    text: (
+      <>
+        A slight variation of tonal stress gives the Chinese name for this
+        hexagram a double meaning. It means both contemplating and being seen,
+        in the sense of being an example. These ideas are suggested by the fact
+        that the hexagram can be understood as picturing a type of tower
+        characteristic of ancient China.
+        <br />
+        <br />
+        A tower of this kind commanded a wide view of the country; at the same
+        time, when situated on a mountain, it became a landmark that could be
+        seen for miles around. Thus the hexagram shows a ruler who contemplates
+        the law of heaven above him and the ways of the people below, and who,
+        by means of good government, sets a lofty example to the masses.
+        <br />
+        <br />
+        This hexagram is linked with the eighth month (September–October). The
+        light-giving power retreats and the dark power is again on the increase.
+        However, this aspect is not material in the interpretation of the
+        hexagram as a whole.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;CONTEMPLATION. The ablution has been made,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;But not yet the offering.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Full of trust they look up to him.
+          <br />
+          <br />
+        </p>
+        The sacrificial ritual in China began with an ablution and a libation by
+        which the Deity was invoked, after which the sacrifice was offered. The
+        moment of time between these two ceremonies is the most sacred of all,
+        the moment of deepest inner concentration. If piety is sincere and
+        expressive of real faith, the contemplation of it has a transforming and
+        awe-inspiring effect on those who witness it.
+        <br />
+        <br />
+        Thus also in nature a holy seriousness is to be seen in the fact that
+        natural occurrences are uniformly subject to law. Contemplation of the
+        divine meaning underlying the workings of the universe gives to the man
+        who is called upon to influence others the means of producing like
+        effects. This requires that power of inner concentration which religious
+        contemplation develops in great men strong in faith. It enables them to
+        apprehend the mysterious and divine laws of life, and by means of
+        profoundest inner concentration they give expression to these laws in
+        their own persons. Thus a hidden spiritual power emanates from them,
+        influencing and dominating others without their being aware of how it
+        happens.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The wind blows over the earth:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The image of CONTEMPLATION.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus the kings of old visited the regions of
+          the world,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Contemplated the people,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;And gave them instruction.
+          <br />
+          <br />
+        </p>
+        When the wind blows over the earth it goes far and wide, and the grass
+        must bend to its power. These two occurrences find confirmation in the
+        hexagram. The two images are used to symbolize a practice of the kings
+        of old; in making regular journeys the ruler could, in the first place,
+        survey his realm and make certain that none of the existing usages of
+        the people escaped notice; in the second, he could exert influence
+        through which such customs as were unsuitable could be changed.
+        <br />
+        <br />
+        All of this points to the power possessed by a superior personality. On
+        the one hand, such a man will have a view of the real sentiments of the
+        great mass of humanity and therefore cannot be deceived; on the other,
+        he will impress the people so profoundly, by his mere existence and by
+        the impact of his personality, that they will be swayed by him as the
+        grass by the wind.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Six at the beginning means:
-
-Boy like contemplation.
-For an inferior man, no blame.
-For a superior man, humiliation.
-
-This means contemplation from a distance, without comprehension. A man of influence is at hand, abut his influence is not understood by the common people. This matters little in the case of the masses, for they benefit by the actions of the ruling sage whether they understand them or not. But for a superior man it is a disgrace. He must not content himself with a shallow, thoughtless view of prevailing forces; he must contemplate them as a connected whole and try to understand them.
-`,
-      `Six in the second place means:
-
-Contemplation through the crack of the door.
-Furthering for the perseverance of a woman.
-
-Through the crack of the door one has a limited outlook; one looks outward from within. Contemplation is subjectively limited. One tends to relate everything to oneself and cannot put oneself in another's place and understand his motives. This is appropriate for a good housewife. It is not necessary for her to be conversant with the affairs of the world. But for a man who must take active part in public life, such a narrow, egotistic way of contemplating things is of course harmful.
-`,
-      `Six in the third place means:
-
-Contemplation of my life
-Decides the choice
-Between advance and retreat.
-
-This is the place of transition. We no longer look outward to receive pictures that are more or less limited and confused, but direct out contemplation upon ourselves in order to find a guideline for our decisions. This self-contemplation means the overcoming of naive egotism in the person who sees everything solely form his own standpoint. He begins to reflect and in this way acquires objectivity. However, self-knowledge does not mean preoccupation with one's own thoughts; rather, it means concern about the effects one creates. It is only the effects our lives produce that give us the right to judge whether what we have done means progress or regression.
-`,
-      `Six in the fourth place means:
-
-Contemplation of the light of the kingdom.
-It furthers one to exert influence as the guest of a king.
-
-This describes a man who understands the secrets by which a kingdom can be made to flourish. Such a man must be given an authoritative position, in which he can exert influence. He should be, so to speak, a guest-that is, he should be honored and act independently, and should not be used as a tool.
-`,
-      `
-Nine in the fifth place means:
-
-Contemplation of my life.
-The superior man is without blame.
-
-A man in an authoritative position to whom others look up must always be ready for self-examination. The right sort of self-examination, however, consists not in idle brooding over oneself but in examining the effects one produces. Only when these effects are good, and when one’s influence on others is good, will the contemplation of one’s own life bring the satisfaction of knowing oneself to be free of mistakes.
-`,
-
-      `Nine at the top means:
-
-Contemplation of his life.
-The superior man is without blame.
-
-While the preceding line represents a man who contemplates himself, here in the highest place everything that is personal, related to the ego, is excluded. The picture is that of a sage who stands outside the affairs of the world. Liberated from his ego, he contemplates the laws of life and so realizes that knowing how to become free of blame is the highest good.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Boylike contemplation.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;For an inferior man, no blame.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;For a superior man, humiliation.
+          <br />
+          <br />
+        </p>
+        This means contemplation from a distance, without comprehension. A man
+        of influence is at hand, but his influence is not understood by the
+        common people. This matters little in the case of the masses, for they
+        benefit by the actions of the ruling sage whether they understand them
+        or not. But for a superior man it is a disgrace. He must not content
+        himself with a shallow, thoughtless view of prevailing forces; he must
+        contemplate them as a connected whole and try to understand them.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Contemplation through the crack of the door.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Furthering for the perseverance of a woman.
+          <br />
+          <br />
+        </p>
+        Through the crack of the door one has a limited outlook; one looks
+        outward from within. Contemplation is subjectively limited. One tends to
+        relate everything to oneself and cannot put oneself in another’s place
+        and understand his motives. This is appropriate for a good housewife. It
+        is not necessary for her to be conversant with the affairs of the world.
+        But for a man who must take active part in public life, such a narrow,
+        egotistic way of contemplating things is of course harmful.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Contemplation of my life
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Decides the choice
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Between advance and retreat.
+          <br />
+          <br />
+        </p>
+        This is the place of transition. We no longer look outward to receive
+        pictures that are more or less limited and confused, but direct our
+        contemplation upon ourselves in order to find a guideline for our
+        decisions. This self-contemplation means the overcoming of naïve egotism
+        in the person who sees everything solely from his own standpoint. He
+        begins to reflect and in this way acquires objectivity. However,
+        self-knowledge does not mean preoccupation with one’s own thoughts;
+        rather, it means concern about the effects one creates. It is only the
+        effects our lives produce that give us the right to judge whether what
+        we have done means progress or regression.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Contemplation of the light of the kingdom.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It furthers one to exert influence as the
+          guest of a king.
+          <br />
+          <br />
+        </p>
+        This describes a man who understands the secrets by which a kingdom can
+        be made to flourish. Such a man must be given an authoritative position,
+        in which he can exert influence. He should be, so to speak, a guest—that
+        is, he should be honored and allowed to act independently, and should
+        not be used as a tool.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Contemplation of my life.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The superior man is without blame.
+          <br />
+          <br />
+        </p>
+        A man in an authoritative position to whom others look up must always be
+        ready for self-examination. The right sort of self-examination, however,
+        consists not in idle brooding over oneself but in examining the effects
+        one produces. Only when these effects are good, and when one’s influence
+        on others is good, will the contemplation of one’s own life bring the
+        satisfaction of knowing oneself to be free of mistakes.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Contemplation of his life.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The superior man is without blame.
+          <br />
+          <br />
+        </p>
+        While the preceding line represents a man who contemplates himself, here
+        in the highest place everything that is personal, related to the ego, is
+        excluded. The picture is that of a sage who stands outside the affairs
+        of the world. Liberated from his ego, he contemplates the laws of life
+        and so realizes that knowing how to become free of blame is the highest
+        good.
+        <br />
+      </>,
     ],
   },
   21: {
