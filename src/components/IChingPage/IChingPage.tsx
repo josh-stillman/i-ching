@@ -7,12 +7,27 @@ import styles from './IChingPage.module.css';
 import { Hexagram } from '@utils/utils';
 import { Hex } from '@components/Hex/Hex';
 // import { useViewport } from '../../hooks/useViewport';
-
-const hexagram = new Hexagram();
-
-const changingHex = hexagram.getChangingHex();
+import { useSearchParams } from 'next/navigation';
 
 const IChingPage = () => {
+  const searchParams = useSearchParams();
+
+  const forceHexagramNumber = searchParams.get('hex')
+    ? parseInt(searchParams.get('hex')!)
+    : null;
+
+  const forceChangingLines = searchParams
+    .get('lines')
+    ?.split(',')
+    .map(l => +l)
+    .filter(l => +l >= 1 && +l <= 6);
+
+  const hexagram = new Hexagram({
+    forceHexagramNumber,
+    forceChangingLines,
+  });
+
+  const changingHex = hexagram.getChangingHex();
   // const svgRef = useRef<SVGSVGElement>(null);
   // const { height, width } = useViewport();
 
@@ -54,20 +69,23 @@ const IChingPage = () => {
         {changingHex && <Hex hexagram={changingHex} />}
       </section>
       <section className={styles.textContainer}>
-        {hexagram.hexagramNumber}. {hexagram.hexagramName}
+        {hexagram.hexagramTitleText}
         <br />
         <br />
         {hexagram.text}
         {changingHex ? (
           <>
             <br />
+            <br />
             <p className={styles.linesHeader}>Changing Lines</p> {/* <ul> */}
             {hexagram.changingLinesText.map((line, i) => (
-              <p key={line}>
+              // eslint-disable-next-line react/jsx-key
+              <p>
                 {line}
                 <br />
                 {i !== hexagram.changingLinesText.length - 1 && (
                   <>
+                    <br />
                     <br />
                     <hr style={{ margin: '0 auto', width: '25%' }} />
                     <br />
