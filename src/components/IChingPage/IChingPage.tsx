@@ -12,7 +12,6 @@ import { useSearchParams } from 'next/navigation';
 const IChingPage = () => {
   const searchParams = useSearchParams();
 
-  // Get a specific parameter
   const forceHexagramNumber = searchParams.get('hex')
     ? parseInt(searchParams.get('hex')!)
     : null;
@@ -80,7 +79,8 @@ const IChingPage = () => {
             <br />
             <p className={styles.linesHeader}>Changing Lines</p> {/* <ul> */}
             {hexagram.changingLinesText.map((line, i) => (
-              <p key={line}>
+              // eslint-disable-next-line react/jsx-key
+              <p>
                 {line}
                 <br />
                 {i !== hexagram.changingLinesText.length - 1 && (

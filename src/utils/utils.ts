@@ -271,8 +271,8 @@ export class Trigram {
 }
 
 export class Hexagram {
-  lowerTrigram: Trigram;
-  upperTrigram: Trigram;
+  lowerTrigram!: Trigram;
+  upperTrigram!: Trigram;
   hexagramNumber: number;
   hexagramName: string;
   hexagramTitleText: string;

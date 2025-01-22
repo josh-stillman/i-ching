@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { ReactElement } from 'react';
 
 export interface HexText {
