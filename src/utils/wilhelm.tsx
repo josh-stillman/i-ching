@@ -10282,88 +10282,216 @@ The difficulties at the beginning are too great for some persons. They get stuck
     ],
   },
   52: {
-    title: '52. Kên / Keeping Still, Mountain',
+    title: '52. Kên / Keeping Still, Mountain ䷳',
 
-    text: `above KêN KEEPING STILL, MOUNTAIN
-below KêN KEEPING STILL, MOUNTAIN
-
-The image of this hexagram is the mountain, the youngest son of heaven and earth. The male principle is at the top because it strives upward by nature; the female principle is below, since the direction of its movement has come to its normal end. In its application to man, the hexagram turns upon the problem of achieving a quiet heart. It is very difficult to bring quiet to the heart. While Buddhism strives for rest through an ebbing away of all movement in nirvana, the Book of Changes holds that rest is merely a state of polarity that always posits movement as its complement. Possibly the words of the text embody directions for the practice of yoga.
-
-THE JUDGMENT
-
-KEEPING STILL. Keeping his back still
-
-So that he no longer feels his body.
-He goes into his courtyard
-And does not see his people.
-
-No blame.
-
-True quiet means keeping still when the time has come to keep still, and going forward when the time has come to go forward. In this way rest and movement are in agreement with the demands of the time, and thus there is light in life. The hexagram signifies the end and the beginning of all movement. The back is named because in the back are located all the nerve fibers that mediate movement. If the movement of these spinal nerves is brought to a standstill, the ego, with its restlessness, disappears as it were. When a man has thus become calm, he may turn to the outside world. He no longer sees in it the struggle and tumult of individual beings, and therefore he has that true peace of mind which is needed for understanding the great laws of the universe and for acting in harmony with them. Whoever acts from these deep levels makes no mistakes.
-
-THE IMAGE
-
-Mountains standing close together:
-
-The image of KEEPING STILL.
-
-Thus the superior man
-Does not permit his thoughts
-
-To go beyond his situation.
-
-The heart thinks constantly. This cannot be changed, but the movements of the heart-that is, a man's thoughts-should restrict themselves to the immediate situation. All thinking that goes beyond this only makes the heart sore.
-`,
+    text: (
+      <>
+        The image of this hexagram is the mountain, the youngest son of heaven
+        and earth. The male principle is at the top, because it strives upward
+        by nature; the female principle is below, since the direction of its
+        movement is downward. Thus there is rest because the movement has come
+        to its normal end.
+        <br />
+        <br />
+        In its application to man, the hexagram turns upon the problem of
+        achieving a quiet heart. It is very difficult to bring quiet to the
+        heart. While Buddhism strives for rest through an ebbing away of all
+        movement in nirvana, the Book of Changes holds that rest is merely a
+        state of polarity that always posits movement as its complement.
+        Possibly the words of the text embody directions for the practice of
+        yoga.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;KEEPING STILL. Keeping his back still
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;So that he no longer feels his body.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He goes into his courtyard
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;And does not see his people.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;No blame.
+          <br />
+          <br />
+        </p>
+        True quiet means keeping still when the time has come to keep still, and
+        going forward when the time has come to go forward. In this way rest and
+        movement are in agreement with the demands of the time, and thus there
+        is light in life.
+        <br />
+        <br />
+        The hexagram signifies the end and the beginning of all movement. The
+        back is named because in the back are located all the nerve fibers that
+        mediate movement. If the movement of these spinal nerves is brought to a
+        standstill, the ego, with its restlessness, disappears as it were. When
+        a man has thus become calm, he may turn to the outside world. He no
+        longer sees in it the struggle and tumult of individual beings, and
+        therefore he has that true peace of mind which is needed for
+        understanding the great laws of the universe and for acting in harmony
+        with them. Whoever acts from these deep levels makes no mistakes.
+        <br />
+        <p>
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Mountains standing close together:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The image of KEEPING STILL.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus the superior man
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Does not permit his thoughts
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;To go beyond his situation.
+          <br />
+          <br />
+        </p>
+        The heart thinks constantly. This cannot be changed, but the movements
+        of the heart—that is, a man’s thoughts—should restrict themselves to the
+        immediate situation. All thinking that goes beyond this only makes the
+        heart sore.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Six at the beginning means:
-
-Keeping his toes still.
-
-No blame.
-Continued perseverance furthers.
-
-Keeping the toes still means halting before one has even begun to move. The beginning is the time of few mistakes. At that time one is still in harmony with primal innocence. Not yet influenced by obscuring interests and desires, one sees things intuitively as they really are. A man who halts at the beginning, so long as he has not yet abandoned the truth, finds the right way. But persisting firmness is needed to keep one from drifting irresolutely.
-`,
-      `Six in the second place means:
-
-Keeping his calves still.
-He cannot rescue him whom he follows.
-His heart is not glad.
-
-The leg cannot move independently; it depends on the movement of the body. If a leg is suddenly stopped while the whole body is in vigorous motion, the continuing body movement will make one fall. The same is true of a man who serves a master stronger than himself. He is swept along, and even though he may himself halt on the path of wrongdoing, he can no longer check the other in his powerful movement. Where the master presses forward, the servant, no matter how good his intentions, cannot save him.
-`,
-      `Nine in the third place means:
-
-Keeping his hips still.
-Making his sacrum stiff.
-Dangerous. The heart suffocates.
-
-This refers to enforced quiet. The restless heart is to be subdued by forcible means. But fire when it is smothered changes into acrid smoke that suffocates as it spreads. Therefore, in exercises in meditation and concentration, one ought not to try to force results. Rather, calmness must develop naturally out of a state of inner composure. If one tries to induce calmness by means of artificial rigidity, meditation will lead to very unwholesome results.
-`,
-      `Six in the fourth place means:
-
-Keeping his trunk still.
-
-No blame.
-
-As has been pointed out above in the comment on the Judgment, keeping the back at rest means forgetting the ego. This is the highest stage of rest. Here this stage has not yet been reached: the individual in this instance, though able to keep the ego, with its thoughts and impulses, in a state of rest, is not yet quite liberated from its dominance. Nonetheless, keeping the heart at rest is an important function, leading in the end to the complete elimination of egotistic drives. Even though at this point one does not yet remain free from all the dangers of doubt and unrest, this frame of mind is not a mistake, as it leads ultimately to that other, higher level.
-`,
-      `Six in the fifth place means:
-
-Keeping his jaws still.
-
-The words have order.
-Remorse disappears.
-
-A man in a dangerous situation, especially when he is not adequate to it, is inclined to be very free with talk and presumptuous jokes. But injudicious speech easily leads to situations that subsequently give much cause for regret. However, if a man is reserved in speech, his words take ever more definite form, and every occasion for regret vanishes.
-`,
-      `Nine at the top means:
-
-Noblehearted keeping still.
-Good fortune.
-
-This marks the consummation of the effort to attain tranquillity. One is at rest, not merely in a small, circumscribed way in regard to matters of detail, but one has also a general resignation in regard to life as a whole, and this confers peace and good fortune in relation to every individual matter.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Keeping his toes still.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;No blame.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Continued perseverance furthers.
+          <br />
+          <br />
+        </p>
+        Keeping the toes still means halting before one has even begun to move.
+        The beginning is the time of few mistakes. At that time one is still in
+        harmony with primal innocence. Not yet influenced by obscuring interests
+        and desires, one sees things intuitively as they really are. A man who
+        halts at the beginning, so long as he has not yet abandoned truth, finds
+        the right way. But persisting firmness is needed to keep one from
+        drifting irresolutely.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Keeping his calves still.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He cannot rescue him whom he follows.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;His heart is not glad.
+          <br />
+          <br />
+        </p>
+        The leg cannot move independently; it depends on the movement of the
+        body. If a leg is suddenly stopped while the whole body is in vigorous
+        motion, the continuing body movement will make one fall.
+        <br />
+        <br />
+        The same is true of a man who serves a master stronger than himself. He
+        is swept along, and even though he may himself halt on the path of
+        wrongdoing, he can no longer check the other in his powerful movement.
+        Where the master presses forward, the servant, no matter how good his
+        intentions, cannot save him.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Keeping his hips still.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Making his sacrum stiff.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Dangerous. The heart suffocates.
+          <br />
+          <br />
+        </p>
+        This refers to enforced quiet. The restless heart is to be subdued by
+        forcible means. But fire when it is smothered changes into acrid smoke
+        that suffocates as it spreads.
+        <br />
+        <br />
+        Therefore, in exercises in meditation and concentration, one ought not
+        to try to force results. Rather, calmness must develop naturally out of
+        a state of inner composure. If one tries to induce calmness by means of
+        artificial rigidity, meditation will lead to very unwholesome results.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Keeping his trunk still.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;No blame.
+          <br />
+          <br />
+        </p>
+        As has been pointed out above in the comment on the Judgment, keeping
+        the back at rest means forgetting the ego. This is the highest stage of
+        rest. Here this stage has not yet been reached: the individual in this
+        instance, though able to keep the ego, with its thoughts and impulses,
+        in a state of rest, is not yet quite liberated from its dominance.
+        Nonetheless, keeping the heart at rest is an important function, leading
+        in the end to the complete elimination of egotistic drives. Even though
+        at this point one does not yet remain free from all the dangers of doubt
+        and unrest, this frame of mind is not a mistake, as it leads ultimately
+        to that other, higher level.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Keeping his jaws still.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The words have order.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Remorse disappears.
+          <br />
+          <br />
+        </p>
+        A man in a dangerous situation, especially when he is not adequate to
+        it, is inclined to be very free with talk and presumptuous jokes. But
+        injudicious speech easily leads to situations that subsequently give
+        much cause for regret. However, if a man is reserved in speech, his
+        words take ever more definite form, and every occasion for regret
+        vanishes.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Noblehearted keeping still.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Good fortune.
+          <br />
+          <br />
+        </p>
+        This marks the consummation of the effort to attain tranquility. One is
+        at rest, not merely in a small, circumscribed way in regard to matters
+        of detail, but one has also a general resignation in regard to life as a
+        whole, and this confers peace and good fortune in relation to every
+        individual matter.
+        <br />
+      </>,
     ],
   },
   53: {
