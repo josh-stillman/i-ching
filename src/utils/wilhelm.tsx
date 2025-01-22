@@ -8986,80 +8986,190 @@ The difficulties at the beginning are too great for some persons. They get stuck
     ],
   },
   46: {
-    title: '46. Shêng / Pushing Upward',
+    title: '46. Shêng / Pushing Upward ䷭',
 
-    text: `above K'UN THE RECEPTIVE, EARTH
-below SUN THE GENTLE, WIND, WOOD
-
-The lower trigram, Sun, represents wood, and the upper, K'un, means the earth. Linked with this is the idea that wood in the earth grows upward. In contrast to the meaning of Chin, PROGRESS 35, this pushing upward is associated with effort, just as a plant needs energy for pushing upward through the earth. That is why this hexagram, although it is connected with success, is associated with effort of the will. In PROGRESS the emphasis is on expansion; PUSHING UPWARD indicates rather a vertical ascent-direct rise from obscurity and lowliness to power and influence.
-
-THE JUDGMENT
-
-PUSHING UPWARD has supreme success.
-One must see the great man.
-Fear not.
-Departure toward the south
-Brings good fortune.
-
-The pushing upward of the good elements encounters no obstruction and is therefore accompanied by great success. The pushing upward is made possible not by violence but by modesty and adaptability. Since the individual is borne along by the propitiousness of the time, he advances. He must go to see authoritative people. He need not be afraid to do this, because success is assured. But he must set to work, for activity (this is the meaning of "the south") brings good fortune.
-
-THE IMAGE
-
-Within the earth, wood grows:
-
-The image of PUSHING UPWARD.
-
-Thus the superior man of devoted character
-Heaps up small things
-In order to achieve something high and great.
-
-Adapting itself to obstacles and bending around them, wood in the earth grows upward without haste and without rest. Thus too the superior man is devoted in character and never pauses in his progress.
-`,
+    text: (
+      <>
+        The lower trigram, Sun, represents wood, and the upper, K’un, means the
+        earth. Linked with this is the idea that wood in the earth grows upward.
+        In contrast to the meaning of Chin, PROGRESS (35), this pushing upward
+        is associated with effort, just as a plant needs energy for pushing
+        upward through the earth. That is why this hexagram, although it is
+        connected with success, is associated with effort of the will. In
+        PROGRESS the emphasis is on expansion; PUSHING UPWARD indicates rather a
+        vertical ascent—direct rise from obscurity and lowliness to power and
+        influence.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;PUSHING UPWARD has supreme success.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;One must see the great man.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Fear not.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Departure toward the south
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Brings good fortune.
+          <br />
+          <br />
+        </p>
+        The pushing upward of the good elements encounters no obstruction and is
+        therefore accompanied by great success. The pushing upward is made
+        possible not by violence but by modesty and adaptability. Since the
+        individual is borne along by the propitiousness of the time, he
+        advances. He must go to see authoritative people. He need not be afraid
+        to do this, because success is assured. But he must set to work, for
+        activity (this is the meaning of “the south”) brings good fortune.
+        <br />
+        <p>
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Within the earth, wood grows:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The image of PUSHING UPWARD.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus the superior man of devoted character
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Heaps up small things
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;In order to achieve something high and great.
+          <br />
+          <br />
+        </p>
+        Adapting itself to obstacles and bending around them, wood in the earth
+        grows upward without haste and without rest. Thus too the superior man
+        is devoted in character and never pauses in his progress.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Six at the beginning means:
-
-Pushing upward that meets with confidence
-Brings great good fortune.
-
-This situation at the beginning of ascent. Just as wood draws strength for its upward push from the root, which in itself is in the lowest place, so the power to rise comes from this low and obscure station. But there is a spiritual affinity with the rulers above, and this solidarity creates the confidence needed to accomplish something.
-`,
-      `Nine in the second place means:
-
-If one is sincere,
-It furthers one to bring even a small offering.
-
-No blame.
-
-Here a strong man is presupposed. It is true that he does not fit in with his environment, inasmuch as he is too brusque and pays too little attention to form. But as he is upright in character, he meets with response, and his lack of outward form does no harm. Here uprightness is the outcome of sound qualities of character, whereas in the corresponding line of the preceding hexagram it is the result of innate humility.
-`,
-      `Nine in the third place means:
-
-One pushes upward into an empty city.
-All obstructions that generally block progress fall away here. Things proceed with remarkable ease. Unhesitatingly one follows this road, in order to profit by one's success. Seen from without, everything seems to be in the best of order. However, no promise of good fortune is added. It is a question how long such unobstructed success can last. But it is wise not to yield to such misgivings, because they only inhibit one's power. Instead, the point is to profit by the propitiousness of time.
-`,
-      `Six in the fourth place means:
-
-The king offers him Mount Ch'i.
-Good fortune. No blame.
-
-Mount Ch'i is in the western China, the homeland of King Wên, whose son, the Duke of Chou, added the words to the individual lines. The pronouncement takes us back to a time when the Chou dynasty was coming into power. At that time King Wên introduced his illustrious helpers to the god of his native mountain, and they received their places in the halls of the ancestors by the side of the ruler. This indicates a stage in which pushing upward attains its goal. One acquires fame in the sight of gods and men, is received into the circle of those who foster the spiritual life of the nation, and thereby attains a significance that endures beyond time.
-`,
-      `Six in the fifth place means:
-
-Perseverance brings good fortune.
-One pushes upward by steps.
-
-When a man is advancing farther and farther, it is important for him not to become intoxicated by success. Precisely when he experiences great success it is necessary to remain sober and not to try to skip any stages; he must go on slowly, step by step, as though hesitant. Only such calm, steady progress, overleaping nothing, leads to the goal.
-`,
-      `Six at the top means:
-
-Pushing upward in darkness.
-It furthers one
-
-To be unremittingly persevering.
-
-He who pushes upward blindly deludes himself. He knows only advance, not retreat. But this means exhaustion. In such a case it is important to be constantly mindful that one must be conscientious and consistent and must remain so. Only thus does one become free of blind impulse, which is always harmful.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Pushing upward that meets with confidence
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Brings great good fortune.
+          <br />
+          <br />
+        </p>
+        This is the situation at the beginning of ascent. Just as wood draws
+        strength for its upward push from the root, which in itself is in the
+        lowest place, so the power to rise comes from this low and obscure
+        station. But there is a spiritual affinity with the rulers above, and
+        this solidarity creates the confidence needed to accomplish something.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;If one is sincere,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It furthers one to bring even a small
+          offering.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;No blame.
+          <br />
+          <br />
+        </p>
+        Here a strong man is presupposed. It is true that he does not fit in
+        with his environment, inasmuch as he is too brusque and pays too little
+        attention to form. But as he is upright in character, he meets with
+        response, and his lack of outward form does no harm. Here uprightness is
+        the outcome of sound qualities of character, whereas in the
+        corresponding line of the preceding hexagram it is the result of innate
+        humility.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;One pushes upward into an empty city.
+          <br />
+          <br />
+        </p>
+        All obstructions that generally block progress fall away here. Things
+        proceed with remarkable ease. Unhesitatingly one follows this road, in
+        order to profit by one’s success. Seen from without, everything seems to
+        be in the best of order. However, no promise of good fortune is added.
+        It is a question how long such unobstructed success can last. But it is
+        wise not to yield to such misgivings, because they only inhibit one’s
+        power. Instead, the point is to profit by the propitiousness of the
+        time.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The king offers him Mount Ch’i.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Good fortune. No blame.
+          <br />
+          <br />
+        </p>
+        Mount Ch’i is in western China, the homeland of King Wên, whose son, the
+        Duke of Chou, added the words to the individual lines. The pronouncement
+        takes us back to a time when the Chou dynasty was coming into power. At
+        that time King Wên introduced his illustrious helpers to the god of his
+        native mountain, and they received their places in the halls of the
+        ancestors by the side of the ruler. This indicates a stage in which
+        pushing upward attains its goal. One acquires fame in the sight of gods
+        and men, is received into the circle of those who foster the spiritual
+        life of the nation, and thereby attains a significance that endures
+        beyond time.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;One pushes upward by steps.
+          <br />
+          <br />
+        </p>
+        When a man is advancing farther and farther, it is important for him not
+        to become intoxicated by success. Precisely when he experiences great
+        success it is necessary to remain sober and not to try to skip any
+        stages; he must go on slowly, step by step, as though hesitant. Only
+        such calm, steady progress, overleaping nothing, leads to the goal.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Pushing upward in darkness.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It furthers one
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;To be unremittingly persevering.
+          <br />
+          <br />
+        </p>
+        He who pushes upward blindly deludes himself. He knows only advance, not
+        retreat. But this means exhaustion. In such a case it is important to be
+        constantly mindful that one must be conscientious and consistent and
+        must remain so. Only thus does one become free of blind impulse, which
+        is always harmful.
+        <br />
+      </>,
     ],
   },
   47: {
