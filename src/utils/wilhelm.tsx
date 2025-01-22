@@ -6452,89 +6452,189 @@ The difficulties at the beginning are too great for some persons. They get stuck
     ],
   },
   34: {
-    title: '34. Ta Chuang / The Power of the Great',
+    title: '34. Ta Chuang / The Power of the Great ䷡',
 
-    text: `above CHêN THE AROUSING, THUNDER
-below CH'IEN THE CREATIVE, HEAVEN
-
-The great lines, that is, the light, strong lines, are powerful. Four light lines have entered the hexagram from below and are about to ascend higher. The upper trigram is Chên, the Arousing; the lower is ch'ien, the Creative. Ch'ien is strong, Chên produces movement. The union of movement and strength gives the meaning of THE POWER OF THE GREAT. The hexagram is linked with the second month (March-April).
-
-THE JUDGMENT
-
-THE POWER OF THE GREAT. Perseverance furthers.
-
-The hexagram points to a time when inner worth mounts with great force and comes to power. But its strength has already passed beyond the median line, hence there is danger that one may rely entirely on one's own power and forget to ask what is right. There is danger too that, being intent on movement, we may not wait for the right time. Therefore the added statement that perseverance furthers. For that is truly great power which does not degenerate into mere force but remains inwardly united with the fundamental principles of right and of justice. When we understand this point—namely, that greatness and justice must be indissolubly united—we understand the true meaning of all that happens in heaven and on earth.
-
-THE IMAGE
-
-Thunder in heaven above:
-
-The image of THE POWER OF THE GREAT.
-
-Thus the superior man does not tread upon paths
-
-That do not accord with established order.
-
-Thunder—electrical energy—mounts upward in the spring. The direction of this movement is in harmony with that of the movement of heaven. It is therefore a movement in accord with heaven, producing great power. However, true greatness depends on being in harmony with what is right. Therefore in times of great power the superior man avoids doing anything that is not in harmony with the established order.
-`,
+    text: (
+      <>
+        The great lines, that is, the light, strong lines, are powerful. Four
+        light lines have entered the hexagram from below and are about to ascend
+        higher. The upper trigram is Chên, the Arousing; the lower is Ch’ien,
+        the Creative. Ch’ien is strong, Chên produces movement. The union of
+        movement and strength gives the meaning of THE POWER OF THE GREAT. The
+        hexagram is linked with the second month (March–April).
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE POWER OF THE GREAT. Perseverance furthers.
+          <br />
+          <br />
+        </p>
+        The hexagram points to a time when inner worth mounts with great force
+        and comes to power. But its strength has already passed beyond the
+        median line, hence there is danger that one may rely entirely on one’s
+        own power and forget to ask what is right. There is danger too that,
+        being intent on movement, we may not wait for the right time. Therefore
+        the added statement that perseverance furthers. For that is truly great
+        power which does not degenerate into mere force but remains inwardly
+        united with the fundamental principles of right and of justice. When we
+        understand this point—namely, that greatness and justice must be
+        indissolubly united—we understand the true meaning of all that happens
+        in heaven and on earth.
+        <br />
+        <p>
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thunder in heaven above:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The image of THE POWER OF THE GREAT.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus the superior man does not tread upon
+          paths
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;That do not accord with established order.
+          <br />
+          <br />
+        </p>
+        Thunder—electrical energy—mounts upward in the spring. The direction of
+        this movement is in harmony with that of the movement of heaven. It is
+        therefore a movement in accord with heaven, producing great power.
+        However, true greatness depends on being in harmony with what is right.
+        Therefore in times of great power the superior man avoids doing anything
+        that is not in harmony with the established order.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Nine at the beginning means:
-
-Power in the toes.
-Continuing brings misfortune.
-
-This is certainly true.
-
-The toes are in the lowest place and are ready to advance. So likewise great power in lowly station is inclined to effect advance by force. This, if carried further, would certainly lead to misfortune, and therefore by way of advice a warning is added.
-`,
-      `Nine in the second place means:
-
-Perseverance brings good fortune.
-
-The premise here is that the gates to success are beginning to open. Resistance gives way and we forge ahead. This is the point at which, only too easily, we become the prey of exuberant self-confidence. This is why the oracle says that perseverance (i.e., perseverance in inner equilibrium, without excessive use of power) brings good fortune.
-`,
-      `Nine in the third place means:
-
-The inferior man works through power.
-
-The superior man does not act thus.
-
-To continue is dangerous.
-A goat butts against a hedge
-And gets its horns entangled.
-
-Making a boast of power leads to entanglements, just as a goat entangles its horns when it butts against a hedge. Whereas an inferior man revels in power when he comes into possession of it, the superior man never makes this mistake. He is conscious at all times of the danger of pushing ahead regardless of circumstances, and therefore renounces in good time the empty display of force.
-`,
-      `Nine in the fourth place means:
-
-Perseverance brings good fortune.
-Remorse disappears.
-
-The hedge opens; there is no entanglement.
-Power depends upon the axle of a big cart.
-
-If a man goes on quietly and perseveringly working at the removal of resistances, success comes in the end. The obstructions give way and all occasion for remorse arising from excessive use of power disappears.
-
-Such a man's power does not show externally, yet it can move heavy loads, like a big cart whose real strength lies in its axle. The less that power is applied outwardly, the greater its effect.
-`,
-      `Six in the fifth place means:
-
-Loses the goat with ease.
-
-No remorse.
-
-The goat is noted for hardness outwardly and weakness within. Now the situation is such that everything is easy; there is no more resistance. One can give up a belligerent, stubborn way of acting and will not have to regret it.
-`,
-      `Six at the top means:
-
-A goat butts against a hedge.
-It cannot go backward, it cannot go forward.
-
-Nothing serves to further.
-If one notes the difficulty, this brings good fortune.
-
-If we venture too far we come to a deadlock, unable either to advance or to retreat and whatever we do merely serves to complicate thing further. Such obstinacy leads to insuperable difficulties. But if, realizing the situation, we compose ourselves and decide not to continue, everything will right itself in time.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Power in the toes.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Continuing brings misfortune.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;This is certainly true.
+          <br />
+          <br />
+        </p>
+        The toes are in the lowest place and are ready to advance. So likewise
+        great power in lowly station is inclined to effect advance by force.
+        This, if carried further, would certainly lead to misfortune, and
+        therefore by way of advice a warning is added.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
+          <br />
+          <br />
+        </p>
+        The premise here is that the gates to success are beginning to open.
+        Resistance gives way and we forge ahead. This is the point at which,
+        only too easily, we become the prey of exuberant self-confidence. This
+        is why the oracle says that perseverance (i.e., perseverance in inner
+        equilibrium, without excessive use of power) brings good fortune.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The inferior man works through power.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The superior man does not act thus.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;To continue is dangerous.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;A goat butts against a hedge
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;And gets its horns entangled.
+          <br />
+          <br />
+        </p>
+        Making a boast of power leads to entanglements, just as a goat entangles
+        its horns when it butts against a hedge. Whereas an inferior man revels
+        in power when he comes into possession of it, the superior man never
+        makes this mistake. He is conscious at all times of the danger of
+        pushing ahead regardless of circumstances, and therefore renounces in
+        good time the empty display of force.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Remorse disappears.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The hedge opens; there is no entanglement.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Power depends upon the axle of a big cart.
+          <br />
+          <br />
+        </p>
+        If a man goes on quietly and perseveringly working at the removal of
+        resistances, success comes in the end. The obstructions give way and all
+        occasion for remorse arising from excessive use of power disappears.
+        <br />
+        <br />
+        Such a man’s power does not show externally, yet it can move heavy
+        loads, like a big cart whose real strength lies in its axle. The less
+        that power is applied outwardly, the greater its effect.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Loses the goat with ease.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;No remorse.
+          <br />
+          <br />
+        </p>
+        The goat is noted for hardness outwardly and weakness within. Now the
+        situation is such that everything is easy; there is no more resistance.
+        One can give up a belligerent, stubborn way of acting and will not have
+        to regret it.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;A goat butts against a hedge.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It cannot go backward, it cannot go forward.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Nothing serves to further.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;If one notes the difficulty, this brings good
+          fortune.
+          <br />
+          <br />
+        </p>
+        If we venture too far we come to a deadlock, unable either to advance or
+        to retreat, and whatever we do merely serves to complicate things
+        further. Such obstinacy leads to insuperable difficulties. But if,
+        realizing the situation, we compose ourselves and decide not to
+        continue, everything will right itself in time.
+        <br />
+      </>,
     ],
   },
   35: {
