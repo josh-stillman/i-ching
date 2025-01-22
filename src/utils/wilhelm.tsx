@@ -4813,80 +4813,202 @@ The difficulties at the beginning are too great for some persons. They get stuck
     ],
   },
   26: {
-    title: "26. Ta Ch'u / The Taming Power of the Great",
+    title: "26. Ta Ch'u / The Taming Power of the Great ䷙",
 
-    text: `above KêN KEEPING STILL, MOUNTAIN
-below CH'IEN THE CREATIVE, HEAVEN
-
-The Creative is tamed by Kên, Keeping Still. This produces great power, a situation in contrast to that of the ninth hexagram, Hsiao Ch'u, THE TAMING POWER OF THE SMALL, in which the Creative is tamed by the Gentle alone. There one weak line must tame five strong lines, but here four strong lines are restrained by two weak lines; in addition to a minister, there is a prince, and the restraining power therefore is afar stronger. The hexagram has a threefold meaning, expressing different aspects of the concept "Holding firm." Heaven within the mountain gives the idea of holding firm in the sense of holding together; the trigram Kên which holds the trigram ch'ien still, gives the idea of holding firm in the sense of holding back; the third idea is that of holding firm in the sense of caring for and nourishing. This last is suggested by the fact that a strong line at the top, which is the ruler of the hexagram, is honored and tended as a sage. The third of these meanings also attaches specifically to this strong line at the top, which represents the sage.
-
-THE JUDGMENT
-
-THE TAMING POWER OF THE GREAT.
-Perseverance furthers.
-
-Not eating at home brings good fortune.
-It furthers one to cross the great water.
-
-To hold firmly to great creative powers and store them up, as set forth in this hexagram, there is need of a strong, clear-headed man who is honored by the ruler. The trigram Ch'ein points to strong creative power; Kên indicates firmness and truth. Both point to light and clarity and to the daily renewal of character. Only through such daily self-renewal can a man continue at the height of his powers. Force of habit helps to keep order in quiet times; but in periods when there is a great storing up of energy, everything depends on the power of the personality. However, since the worthy are honored, as in the case of the strong personality entrusted with leadership by the ruler, it is an advantage not to eat at home but rather to earn one's bread by entering upon public office. Such a man is in harmony with heaven; therefore even great and difficult undertakings, such as crossing the great water, succeed.
-
-THE IMAGE
-
-Heaven within the mountain:
-
-The image of THE TAMING POWER OF THE GREAT.
-
-Thus the superior man acquaints himself with many sayings of antiquity
-And many deeds of the past,
-In order to strengthen his character thereby.
-
-Heaven within the mountain points to hidden treasures. In the words and deeds of the past there lies hidden a treasure that men may use to strengthen and elevate their own characters. The way to study the past is not to confine oneself to mere knowledge of history but, through application of this knowledge, to give actuality to the past.
-`,
+    text: (
+      <>
+        The Creative is tamed by Kên, Keeping Still. This produces great power,
+        a situation in contrast to that of the ninth hexagram, Hsiao Ch’u, THE
+        TAMING POWER OF THE SMALL, in which the Creative is tamed by the Gentle
+        alone. There one weak line must tame five strong lines, but here four
+        strong lines are restrained by two weak lines; in addition to a
+        minister, there is a prince, and the restraining power therefore is far
+        stronger.
+        <br />
+        <br />
+        The hexagram has a threefold meaning, expressing different aspects of
+        the concept “holding firm.” Heaven within the mountain gives the idea of
+        holding firm in the sense of holding together; the trigram Kên, which
+        holds the trigram Ch’ien still, gives the idea of holding firm in the
+        sense of holding back; the third idea is that of holding firm in the
+        sense of caring for and nourishing. This last is suggested by the fact
+        that a strong line at the top, which is the ruler of the hexagram, is
+        honored and tended as a sage. The third of these meanings also attaches
+        specifically to this strong line at the top, which represents the sage.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE TAMING POWER OF THE GREAT.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Perseverance furthers.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Not eating at home brings good fortune.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It furthers one to cross the great water.
+          <br />
+          <br />
+        </p>
+        To hold firmly to great creative powers and store them up, as set forth
+        in this hexagram, there is need of a strong, clearheaded man who is
+        honored by the ruler. The trigram Ch’ien points to strong creative
+        power; Kên indicates firmness and truth. Both point to light and clarity
+        and to the daily renewal of character. Only through such daily
+        self-renewal can a man continue at the height of his powers. Force of
+        habit helps to keep order in quiet times; but in periods when there is a
+        great storing up of energy, everything depends on the power of the
+        personality. However, since the worthy are honored, as in the case of
+        the strong personality entrusted with leadership by the ruler, it is an
+        advantage not to eat at home but rather to earn one’s bread by entering
+        upon public office. Such a man is in harmony with heaven; therefore even
+        great and difficult undertakings, such as crossing the great water,
+        succeed.
+        <br />
+        <p>
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Heaven within the mountain:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The image of THE TAMING POWER OF THE GREAT.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus the superior man acquaints himself with
+          many sayings of antiquity
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;And many deeds of the past,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;In order to strengthen his character thereby.
+          <br />
+          <br />
+        </p>
+        Heaven within the mountain points to hidden treasures. In the words and
+        deeds of the past there lies hidden a treasure that men may use to
+        strengthen and elevate their own characters. The way to study the past
+        is not to confine oneself to mere knowledge of history but, through
+        application of this knowledge, to give actuality to the past.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Nine at the beginning means:
-
-Danger is at hand. It furthers one to desist.
-
-A man wishes to make vigorous advance, but circumstances present an obstacle. He sees himself held back firmly. If he should attempt to fore an advance, it would lead him into misfortune. Therefore it is better for him to compose himself and to wait until an outlet is offered for release of his stored-up energies.
-`,
-      `Nine in the second place means:
-
-The axletrees are taken from the wagon.
-
-Here advance is checked just as in the third line of THE TAMING POWER OF THE SMALL 9. However, in the later the restraining force is slight; thus a conflict arises between the propulsive and the restraining movement, as a result of which the spokes fall out of the wagon wheels, while here the restraining force is absolutely superior; hence no struggle takes place. One submits and removes the axletrees from the wagon -in other words, contents himself with waiting. In this way energy accumulates for a vigorous advance later on.
-`,
-      `
-Nine in the third place means.
-A good horse that follows others.
-Awareness of danger,
-With perseverance, furthers.
-Practice chariot driving and armed defense daily.
-It furthers one to have somewhere to go.
-
-The way opens; the hindrance has been cleared away. A man is in contact with a strong will acting in the same direction as his own, and goes forward like one good horse following another. But danger still threatens, and he must remain aware of it, or he will be robbed of his firmness. Thus he must acquire skill on the one hand in what will take him forward, and on the other in what will protect him against unforeseen attacks. It is good in such a pass to have a goal toward which to strive.
-`,
-      `Six in the fourth place means:
-
-The headboard of a young bull.
-Great good fortune.
-
-This line and the one following it are the two that tame the forward-pushing lower lines. Before a bull's horns grow out, a headboard is fastened to its forehead, so that later when the horns appear they cannot do harm. A good way to restrain wild force is to forestall it. By so doing one achieves an easy and great success.
-`,
-      `Six in the fifth place means:
-
-The tusk of a gelded boar.
-Good fortune.
-
-Here the restraining of the impetuous forward drive is achieved in an indirect way. A boar's tusk is in itself dangerous, but if the boar's nature is altered, the tusk is no longer a menace. Thus also where men are concerned, wild force should not be combated directly; instead, its roots should be eradicated.
-`,
-      `Nine at the top means:
-
-One attains the way of heaven.
-
-Success.
-
-The time of obstruction is past. The energy long dammed up by inhibition forces its way out and achieves great success. This refers to a man who is honored by the ruler and whose principles now prevail and shape the world.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Danger is at hand. It furthers one to desist.
+          <br />
+          <br />
+        </p>
+        A man wishes to make vigorous advance, but circumstances present an
+        obstacle. He sees himself held back firmly. If he should attempt to
+        force an advance, it would lead him into misfortune. Therefore it is
+        better for him to compose himself and to wait until an outlet is offered
+        for release of his stored-up energies.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The axletrees are taken from the wagon.
+          <br />
+          <br />
+        </p>
+        Here advance is checked just as in the third line of THE TAMING POWER OF
+        THE SMALL (9). However, in the latter the restraining force is slight;
+        thus a conflict arises between the propulsive and the restraining
+        movement, as a result of which the spokes fall out of the wagon wheels,
+        while here the restraining force is absolutely superior; hence no
+        struggle takes place. One submits and removes the axletrees from the
+        wagon—in other words, contents himself with waiting. In this way energy
+        accumulates for a vigorous advance later on.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;A good horse that follows others.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Awareness of danger,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;With perseverance, furthers.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Practice chariot driving and armed defense
+          daily.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It furthers one to have somewhere to go.
+          <br />
+          <br />
+        </p>
+        The way opens; the hindrance has been cleared away. A man is in contact
+        with a strong will acting in the same direction as his own, and goes
+        forward like one good horse following another. But danger still
+        threatens, and he must remain aware of it, or he will be robbed of his
+        firmness. Thus he must acquire skill on the one hand in what will take
+        him forward, and on the other in what will protect him against
+        unforeseen attacks. It is good in such a pass to have a goal toward
+        which to strive.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The headboard of a young bull.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Great good fortune.
+          <br />
+          <br />
+        </p>
+        This line and the one following it are the two that tame the
+        forward-pushing lower lines. Before a bull’s horns grow out, a headboard
+        is fastened to its forehead, so that later when the horns appear they
+        cannot do harm. A good way to restrain wild force is to forestall it. By
+        so doing one achieves an easy and a great success.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The tusk of a gelded boar.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Good fortune.
+          <br />
+          <br />
+        </p>
+        Here the restraining of the impetuous forward drive is achieved in an
+        indirect way. A boar’s tusk is in itself dangerous, but if the boar’s
+        nature is altered, the tusk is no longer a menace. Thus also where men
+        are concerned, wild force should not be combated directly; instead, its
+        roots should be eradicated.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;One attains the way of heaven.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Success.
+          <br />
+          <br />
+        </p>
+        The time of obstruction is past. The energy long dammed up by inhibition
+        forces its way out and achieves great success. This refers to a man who
+        is honored by the ruler and whose principles now prevail and shape the
+        world.
+        <br />
+      </>,
     ],
   },
   27: {
