@@ -7265,93 +7265,220 @@ The difficulties at the beginning are too great for some persons. They get stuck
     ],
   },
   38: {
-    title: "38. K'uei / Opposition",
+    title: "38. K'uei / Opposition ䷥",
 
-    text: `above LI THE CLINGING, FLAME
-below TUI THE JOYOUS, LAKE
-
-This hexagram is composed of the trigram Li above, i.e., flame, which burns upward, and Tui below, i.e., the lake, which seeps downward. These two movements are indirect contrast. Furthermore, LI is the second daughter and Tui the youngest daughter, and although they live in the same house they belong to different men; hence their wills are not the same but are divergently directed.
-
-THE JUDGMENT
-
-OPPOSITION. In small matters, good fortune.
-
-When people live in opposition and estrangement they cannot carry out a great undertaking in common; their points of view diverge too widely. In such circumstances one should above all not proceed brusquely, for that would only increase the existing opposition; instead, one should limit oneself to producing gradual effects in small matters. Here success can still be expected, because the situation is such that the opposition does not preclude all agreement. In general, opposition appears as an obstruction, but when it represents polarity within a comprehensive whole, it has also its useful and important functions. The oppositions of heaven and earth, spirit and nature, man and woman, when reconciled, bring about the creation and reproduction of life. In the world of visible things, the principle of opposites makes possible the differentiation by categories through which order is brought into the world.
-
-THE IMAGE.
-
-Above, fire; below. The lake.
-
-The image of OPPOSITION.
-
-Thus amid all fellowship
-
-The superior man retains his individuality.
-
-The two elements, fire and water, never mingle but even when in contact retain their own natures. So the sutured man is never led into baseness or vulgarity through intercourse or community of interests with persons of another sort; regardless of all commingling, he will always preserve his individuality.
-`,
+    text: (
+      <>
+        This hexagram is composed of the trigram Li above, i.e., flame, which
+        burns upward, and Tui below, i.e., the lake, which seeps downward. These
+        two movements are in direct contrast. Furthermore, Li is the second
+        daughter and Tui the youngest daughter, and although they live in the
+        same house they belong to different men; hence their wills are not the
+        same but are divergently directed.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;OPPOSITION. In small matters, good fortune.
+          <br />
+          <br />
+        </p>
+        When people live in opposition and estrangement they cannot carry out a
+        great undertaking in common; their points of view diverge too widely. In
+        such circumstances one should above all not proceed brusquely, for that
+        would only increase the existing opposition; instead, one should limit
+        oneself to producing gradual effects in small matters. Here success can
+        still be expected, because the situation is such that the opposition
+        does not preclude all agreement.
+        <br />
+        <br />
+        In general, opposition appears as an obstruction, but when it represents
+        polarity within a comprehensive whole, it has also its useful and
+        important functions. The oppositions of heaven and earth, spirit and
+        nature, man and woman, when reconciled, bring about the creation and
+        reproduction of life. In the world of visible things, the principle of
+        opposites makes possible the differentiation by categories through which
+        order is brought into the world.
+        <br />
+        <p>
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Above, fire; below, the lake:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The image of OPPOSITION.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus amid all fellowship
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The superior man retains his individuality.
+          <br />
+          <br />
+        </p>
+        The two elements, fire and water, never mingle but even when in contact
+        retain their own natures. So the cultured man is never led into baseness
+        or vulgarity through intercourse or community of interests with persons
+        of another sort; regardless of all commingling, he will always preserve
+        his individuality.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Nine at the beginning means:
-
-Remorse disappears.
-If you lose your horse, do not run after it;
-It will come back of its own accord.
-When you see evil people,
-Guard yourself against mistakes.
-
-Even in times when oppositions prevail, mistakes can be avoided, so that remorse disappears. When opposition begins to manifest itself, a man must not try to bring about unity by force, for by so doing he would only achieve the contrary, just as a horse goes farther and farther away if one runs after it. It it is one's won horse, one can safely let it go; it will come back of its own accord. So too when someone who belongs with us is momentarily estranged because of a misunderstanding, he will return of his own accord if we leave matters to him. One the other hand, it is well to be cautious when evil men who do not belong with us force themselves upon us, again as the result of a misunderstanding. Here the important thing is to avoid mistakes. We must not try to shake off these evil men by force; this would give rise to real hostility. We must simply endure them. They will eventually withdraw of their own accord.
-`,
-      `Nine in the second place means:
-
-One meets his lord in a narrow street.
-
-No blame.
-
-As a result of misunderstandings, it has become impossible for people who by nature belong together to meet in the correct way. This being so, an accidental meeting under informal circumstances may serve the purpose, provided there is an inner affinity between them.
-`,
-      `Six in the third place means:
-
-One sees the wagon dragged back,
-
-The oxen halted,
-A man's hair and nose cut off.
-
-Not a good beginning, but a good end.
-
-Often it seems tot a man as though everything were conspiring against him. He sees himself checked and hindered in his progress, insulted and dishonored. However, he must not let himself be misled; despite this opposition, he must cleave to the man with whom he knows he belongs. Thus, notwithstanding the bad beginning, the matter will end well.
-`,
-      `Nine in the fourth place means:
-
-Isolated through opposition,
-One meets a like-minded man
-With whom one can associate in good faith.
-Despite the danger, no blame.
-
-If a man finds himself in a company of people from whom he is separated by an inner opposition, he becomes isolated. But if in such a situation a man meets someone who fundamentally by the very law of his being, is kin to him, and whom he can trust completely, he overcomes all the dangers of isolation. His will achieves its aim, and he becomes free of faults.
-`,
-      `Six in the fifth place means:
-
-Remorse disappears.
-
-The companion bits his way through the wrappings.
-If one goes to him,
-How could it be a mistake?
-
-Coming upon a sincere man, one fails to recognize him at first because of the general estrangement. However, he bites his way through the wrappings that are causing the separation. When such a companion thus reveals himself in his true character, it is one's duty to go to meet him and to work with him.
-`,
-      `Nine at the top means:
-
-Isolated through opposition,
-One sees one's companion as a pig covered with dirt,
-As a wagon full of devils.
-First one draws a bow against him,
-
-Then one lays the bow aside.
-He is not a robber; he will woo at the right time.
-As one goes, rain falls; then good fortune comes.
-
-Here the isolation is due to misunderstanding; it is brought about not by outer circumstances but by inner conditions. A man misjudges his best friends, taking them to be as unclean as a dirty pig in and as dangerous as a wagon full of devils. He adopts an attitude of defense. But in the end, realizing his mistake, he lays aside the bow, perceiving that the other is approaching with the best intentions for the purpose of close union. Thus the tension is relieved. The union resolves the tension, just as falling rain relieves the sultriness preceding a thunderstorm. All goes well, for just when opposition reaches its climax it changes over to its antithesis.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Remorse disappears.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;If you lose your horse, do not run after it;
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It will come back of its own accord.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;When you see evil people,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Guard yourself against mistakes.
+          <br />
+          <br />
+        </p>
+        Even in times when oppositions prevail, mistakes can be avoided, so that
+        remorse disappears. When opposition begins to manifest itself, a man
+        must not try to bring about unity by force, for by so doing he would
+        only achieve the contrary, just as a horse goes farther and farther away
+        if one runs after it. If it is one’s own horse, one can safely let it
+        go; it will come back of its own accord. So too when someone who belongs
+        with us is momentarily estranged because of a misunderstanding, he will
+        return of his own accord if we leave matters to him. On the other hand,
+        it is well to be cautious when evil men who do not belong with us force
+        themselves upon us, again as the result of a misunderstanding. Here the
+        important thing is to avoid mistakes. We must not try to shake off these
+        evil men by force; this would give rise to real hostility. We must
+        simply endure them. They will eventually withdraw of their own accord.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;One meets his lord in a narrow street.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;No blame.
+          <br />
+          <br />
+        </p>
+        As a result of misunderstandings, it has become impossible for people
+        who by nature belong together to meet in the correct way. This being so,
+        an accidental meeting under informal circumstances may serve the
+        purpose, provided there is an inner affinity between them.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;One sees the wagon dragged back,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The oxen halted,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;A man’s hair and nose cut off.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Not a good beginning, but a good end.
+          <br />
+          <br />
+        </p>
+        Often it seems to a man as though everything were conspiring against
+        him. He sees himself checked and hindered in his progress, insulted and
+        dishonored. However, he must not let himself be misled; despite this
+        opposition, he must cleave to the man with whom he knows he belongs.
+        Thus, notwithstanding the bad beginning, the matter will end well.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Isolated through opposition,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;One meets a like-minded man
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;With whom one can associate in good faith.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Despite the danger, no blame.
+          <br />
+          <br />
+        </p>
+        If a man finds himself in a company of people from whom he is separated
+        by an inner opposition, he becomes isolated. But if in such a situation
+        a man meets someone who fundamentally, by the very law of his being, is
+        kin to him, and whom he can trust completely, he overcomes all the
+        dangers of isolation. His will achieves its aim, and he becomes free of
+        faults.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Remorse disappears.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The companion bites his way through the
+          wrappings.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;If one goes to him,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;How could it be a mistake?
+          <br />
+          <br />
+        </p>
+        Coming upon a sincere man, one fails to recognize him at first because
+        of the general estrangement. However, he bites his way through the
+        wrappings that are causing the separation. When such a companion thus
+        reveals himself in his true character, it is one’s duty to go to meet
+        him and to work with him.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Isolated through opposition,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;One sees one’s companion as a pig covered with
+          dirt,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;As a wagon full of devils.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;First one draws a bow against him,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Then one lays the bow aside.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He is not a robber; he will woo at the right
+          time.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;As one goes, rain falls; then good fortune
+          comes.
+          <br />
+          <br />
+        </p>
+        Here the isolation is due to misunderstanding; it is brought about not
+        by outer circumstances but by inner conditions. A man misjudges his best
+        friends, taking them to be as unclean as a dirty pig and as dangerous as
+        a wagon full of devils. He adopts an attitude of defense. But in the
+        end, realizing his mistake, he lays aside the bow, perceiving that the
+        other is approaching with the best intentions for the purpose of close
+        union. Thus the tension is relieved. The union resolves the tension,
+        just as falling rain relieves the sultriness preceding a thunderstorm.
+        All goes well, for just when opposition reaches its climax it changes
+        over to its antithesis.
+        <br />
+      </>,
     ],
   },
   39: {
