@@ -11169,78 +11169,204 @@ The difficulties at the beginning are too great for some persons. They get stuck
     ],
   },
   56: {
-    title: '56. Lü / The Wanderer',
+    title: '56. Lü / The Wanderer ䷷',
 
-    text: `above LI THE CLINGING, FIRE
-below KêN KEEPING STILL, MOUNTAIN
-
-the mountain, Kên, stands still; above it fire, Li, flames up and does not tarry. Therefore the two trigrams do not stay together. Strange lands and separation are the wanderer's lot. When a man is a wanderer and stranger, he should not be gruff nor overbearing. He has no large circle of acquaintances, therefore he should not give himself airs. He must be cautious and reserved; in this way he protects himself from evil. If he is obliging toward others, he wins success. A wanderer has no fixed abode; his home is the road. Therefore he must take care to remain upright and steadfast, so that he sojourns only in the proper places, associating only with good people. Then he has good fortune and can go his way unmolested.
-
-THE IMAGE
-
-Fire on the mountain:
-
-The image of THE WANDERER.
-
-Thus the superior man
-Is clear-minded and cautious
-In imposing penalties,
-And protracts no lawsuits.
-
-When grass on a mountain takes fire, there is bright light. However, the fire does not linger in one place, but travels on to new fuel. It is a phenomenon of short duration. This is what penalties and lawsuits should be like. They should be a quickly passing matter, and must not be dragged out indefinitely. Prisons ought to be places where people are lodged only temporarily, as guests are. They must not become dwelling places.
-`,
+    text: (
+      <>
+        The mountain, Kên, stands still; above it fire, Li, flames up and does
+        not tarry. Therefore the two trigrams do not stay together. Strange
+        lands and separation are the wanderer’s lot.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE WANDERER. Success through smallness.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;To the wanderer.
+          <br />
+          <br />
+        </p>
+        When a man is a wanderer and stranger, he should not be gruff nor
+        overbearing. He has no large circle of acquaintances, therefore he
+        should not give himself airs. He must be cautious and reserved; in this
+        way he protects himself from evil. If he is obliging toward others, he
+        wins success.
+        <br />
+        <br />
+        A wanderer has no fixed abode; his home is the road. Therefore he must
+        take care to remain upright and steadfast, so that he sojourns only in
+        the proper places, associating only with good people. Then he has good
+        fortune and can go his way unmolested.
+        <br />
+        <p>
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Fire on the mountain:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The image of THE WANDERER.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus the superior man
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Is clear-minded and cautious
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;In imposing penalties,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;And protracts no lawsuits.
+          <br />
+          <br />
+        </p>
+        When grass on a mountain takes fire, there is bright light. However, the
+        fire does not linger in one place, but travels on to new fuel. It is a
+        phenomenon of short duration. This is what penalties and lawsuits should
+        be like. They should be a quickly passing matter, and must not be
+        dragged out indefinitely. Prisons ought to be places where people are
+        lodged only temporarily, as guests are. They must not become dwelling
+        places.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Six at the beginning means:
-
-If the wanderer busies himself with trivial things,
-He draws down misfortune upon himself.
-
-A wanderer should not demean himself or busy himself with inferior things he meets with along the way. The humbler and more defenseless his outward position, the more should he preserve his inner dignity. For a stranger is mistaken if he hopes to find a friendly reception through lending himself to jokes and buffoonery. The result will be only contempt and insulting treatment.
-`,
-      `Six in the second place means:
-
-The wanderer comes to an inn.
-He has his property with him.
-He wins the steadfastness of a young servant.
-The wanderer her described is modest and reserved. He does not lose touch with his inner being, hence he finds a resting place. In the outside world he does not lose the liking of other people, hence all persons further him, so that he can acquire property. Moreover, he wins the allegiance of a faithful and trustworthy servant-a thing of inestimable value to a wanderer.
-`,
-      `Nine in the third place means:
-
-The wanderer's inn burns down.
-He loses the steadfastness of his young servant.
-Danger.
-
-A truculent stranger does not know how to behave properly. He meddles in affairs and controversies that do not concern him; thus he loses his resting place. He treats his servant with aloofness and arrogance; thus he loses the man's loyalty. When a stranger in a strange land has no one left on whom he can rely, the situation becomes very dangerous.
-`,
-      `Nine in the fourth place means:
-
-The wanderer rests in a shelter.
-He obtains his property and an ax.
-My heart is not glad.
-
-This describes a wanderer who knows how to limit his desires outwardly, though he is inwardly strong and aspiring. Therefore he finds at least a place of shelter in which he can stay. He also succeeds in acquiring property, but even with this he is not secure. He must be always on guard, ready to defend himself with arms. Hence he is not at ease. He is persistently conscious of being a stranger in a strange land.
-`,
-      `Six in the fifth place means:
-
-He shoots a pheasant.
-It drops with the first arrow.
-In the end this brings both praise and office.
-
-Traveling statesman were in the habit of introducing themselves to local princes with the gift of a pheasant, killing it at the first shot. Thus he finds friends who praise and recommend him, and in the end the prince accepts him and confers an office upon him. Circumstances often cause a man to seek a home in foreign parts. If he knows how to meet the situation and how to introduce himself in the right way, he may find a circle of friends and a sphere of activity even in a strange country.
-`,
-      `Nine at the top means:
-
-The bird's nest burns up.
-
-The wanderer laughs at first,
-
-Then must needs lament and weep.
-
-Through carelessness he loses his cow.
-Misfortune.
-
-The picture of a bird whose nest burns up indicates loss of one's resting place. This misfortune may overtake the bird if it is heedless and imprudent when building its nest. It is the same with a wanderer. If he lets himself go, laughing and jesting, and forgets that he is a wanderer, he will later have cause to weep and lament. For if through carelessness a man loses his cow-i.e., his modesty and adaptability-evil will result.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;If the wanderer busies himself with trivial
+          things,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He draws down misfortune upon himself.
+          <br />
+          <br />
+        </p>
+        A wanderer should not demean himself or busy himself with inferior
+        things he meets with along the way. The humbler and more defenseless his
+        outward position, the more should he preserve his inner dignity. For a
+        stranger is mistaken if he hopes to find a friendly reception through
+        lending himself to jokes and buffoonery. The result will be only
+        contempt and insulting treatment.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The wanderer comes to an inn.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He has his property with him.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He wins the steadfastness of a young servant.
+          <br />
+          <br />
+        </p>
+        The wanderer here described is modest and reserved. He does not lose
+        touch with his inner being, hence he finds a resting place. In the
+        outside world he does not lose the liking of other people, hence all
+        persons further him, so that he can acquire property. Moreover, he wins
+        the allegiance of a faithful and trustworthy servant—a thing of
+        inestimable value to a wanderer.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The wanderer’s inn burns down.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He loses the steadfastness of his young
+          servant.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Danger.
+          <br />
+          <br />
+        </p>
+        A truculent stranger does not know how to behave properly. He meddles in
+        affairs and controversies that do not concern him; thus he loses his
+        resting place. He treats his servant with aloofness and arrogance; thus
+        he loses the man’s loyalty. When a stranger in a strange land has no one
+        left on whom he can rely, the situation becomes very dangerous.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The wanderer rests in a shelter.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He obtains his property and an ax.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;My heart is not glad.
+          <br />
+          <br />
+        </p>
+        This describes a wanderer who knows how to limit his desires outwardly,
+        though he is inwardly strong and aspiring. Therefore he finds at least a
+        place of shelter in which he can stay. He also succeeds in acquiring
+        property, but even with this he is not secure. He must be always on
+        guard, ready to defend himself with arms. Hence he is not at ease. He is
+        persistently conscious of being a stranger in a strange land.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He shoots a pheasant.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It drops with the first arrow.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;In the end this brings both praise and office.
+          <br />
+          <br />
+        </p>
+        Traveling statesmen were in the habit of introducing themselves to local
+        princes with the gift of a pheasant. Here the wanderer wants to enter
+        the service of a prince. To this end he shoots a pheasant, killing it at
+        the first shot. Thus he finds friends who praise and recommend him, and
+        in the end the prince accepts him and confers an office upon him.
+        <br />
+        <br />
+        Circumstances often cause a man to seek a home in foreign parts. If he
+        knows how to meet the situation and how to introduce himself in the
+        right way, he may find a circle of friends and a sphere of activity even
+        in a strange country.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The bird’s nest burns up.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The wanderer laughs at first,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Then must needs lament and weep.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Through carelessness he loses his cow.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Misfortune.
+          <br />
+          <br />
+        </p>
+        The picture of a bird whose nest burns up indicates loss of one’s
+        resting place. This misfortune may overtake the bird if it is heedless
+        and imprudent when building its nest. It is the same with a wanderer. If
+        he lets himself go, laughing and jesting, and forgets that he is a
+        wanderer, he will later have cause to weep and lament. For if through
+        carelessness a man loses his cow—i.e., his modesty and adaptability—evil
+        will result.
+        <br />
+      </>,
     ],
   },
   57: {
