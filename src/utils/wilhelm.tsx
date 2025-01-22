@@ -4628,82 +4628,188 @@ The difficulties at the beginning are too great for some persons. They get stuck
     ],
   },
   25: {
-    title: '25. Wu Wang / Innocence (The Unexpected)',
+    title: '25. Wu Wang / Innocence (The Unexpected) ䷘',
 
-    text: `above CH'IEN THE CREATIVE, HEAVEN
-below CHêN THE AROUSING, THUNDER
-
-Ch'ien, heaven is above; Chên, movement, is below. The lower trigram Chên is under the influence of the strong line it has received form above, from heaven. When, in accord with this, movement follows the law of heaven, man is innocent and without guile. His mind is natural and true, unshadowed by reflection or ulterior designs. For wherever conscious purpose is to be seen, there the truth and innocence of nature have been lost. Nature that is not directed by the spirit is not true but degenerate nature. Starting out with the idea of the natural, the train of thought in part goes somewhat further and thus the hexagram includes also the idea of the fundamental or unexpected.
-
-THE JUDGMENT
-
-INNOCENCE. Supreme success.
-Perseverance furthers.
-If someone is not as he should be,
-He has misfortune,
-And it does not further him
-To undertake anything.
-
-Man has received from heaven a nature innately good, to guide him in all his movements. By devotion to this divine spirit within himself, he attains an unsullied innocence that leads him to do right with instinctive sureness and without any ulterior thought of reward and personal advantage. This instinctive certainty brings about supreme success and 'furthers through perseverance". However, not everything instinctive is nature in this higher sense of the word, but only that which is right and in accord with the will of heaven. Without this quality of rightness, an unreflecting, instinctive way of acting brings only misfortune. Confucius says about this: "He who departs from innocence, what does he come to? Heaven's will and blessing do not go with his deeds."
-
-THE IMAGE
-
-Under heaven thunder rolls:
-All things attain the natural state of innocence.
-
-Thus the kings of old,
-Rich in virtue, and in harmony with the time,
-Fostered and nourished all beings.
-
-In springtime when thunder, life energy, begins to move again under the heavens, everything sprouts and grows, and all beings receive for the creative activity of nature the childlike innocence of their original state. So it is with the good rulers of mankind: drawing on the spiritual wealth at their command, they take care of all forms of life and all forms of culture and do everything to further them, and at the proper time.
-`,
+    text: (
+      <>
+        Ch’ien, heaven, is above; Chên, movement, is below. The lower trigram
+        Chên is under the influence of the strong line it has received from
+        above, from heaven. When, in accord with this, movement follows the law
+        of heaven, man is innocent and without guile. His mind is natural and
+        true, unshadowed by reflection or ulterior designs. For wherever
+        conscious purpose is to be seen, there the truth and innocence of nature
+        have been lost. Nature that is not directed by the spirit is not true
+        but degenerate nature. Starting out with the idea of the natural, the
+        train of thought in part goes somewhat further and thus the hexagram
+        includes also the idea of the unintentional or unexpected.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;INNOCENCE. Supreme success.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Perseverance furthers.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;If someone is not as he should be,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He has misfortune,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;And it does not further him
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;To undertake anything.
+          <br />
+          <br />
+        </p>
+        Man has received from heaven a nature innately good, to guide him in all
+        his movements. By devotion to this divine spirit within himself, he
+        attains an unsullied innocence that leads him to do right with
+        instinctive sureness and without any ulterior thought of reward and
+        personal advantage. This instinctive certainty brings about supreme
+        success and “furthers through perseverance.” However, not everything
+        instinctive is nature in this higher sense of the word, but only that
+        which is right and in accord with the will of heaven. Without this
+        quality of rightness, an unreflecting, instinctive way of acting brings
+        only misfortune. K'ung Fu-tzu says about this: “He who departs from
+        innocence, what does he come to? Heaven’s will and blessing do not go
+        with his deeds.”
+        <br />
+        <p>
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Under heaven thunder rolls:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;All things attain the natural state of
+          innocence.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus the kings of old,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Rich in virtue, and in harmony with the time,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Fostered and nourished all beings.
+          <br />
+          <br />
+        </p>
+        In springtime when thunder, life energy, begins to move again under the
+        heavens, everything sprouts and grows, and all beings receive from the
+        creative activity of nature the childlike innocence of their original
+        state. So it is with the good rulers of mankind: drawing on the
+        spiritual wealth at their command, they take care of all forms of life
+        and all forms of culture and do everything to further them, and at the
+        proper time.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Nine at the beginning means:
-
-Innocent behavior brings good fortune.
-
-The original impulses of the heart are always good, so that we may follow them confidently, assured of good fortune and achievement of our aims.
-`,
-      `Six in the second place means:
-
-If one does not count on the harvest while plowing,
-
-Nor on the use of the ground while clearing it,
-It furthers one to undertake something.
-
-We should do every task for its own sake as time and place demand and not with an eye to the result. Then each task turns out well, and anything we undertake succeeds.
-`,
-      `Six in the third place means:
-
-Undeserved misfortune.
-
-The cow that was tethered by someone
-Is the wanderer's gain, the citizen's loss.
-
-Sometimes undeserved misfortune befalls a man at the hands of another, as for instance when someone passes by and takes a tethered cow along with him. His gain is the owner's loss. In all transactions, no matter how innocent, we must accommodate ourselves to the demands of the time, otherwise unexpected misfortune overtakes us.
-`,
-      `Nine in the fourth place means:
-
-He who can be persevering
-Remains without blame.
-We cannot lose what really belongs to us, even if we throw it away. Therefore we need have no anxiety. All that need concern us is that we should remain true to our own natures and not listen to others.
-`,
-      `Nine in the fifth place means:
-
-Use no medicine in an illness
-Incurred through no fault of your own.
-It will pass of itself.
-
-An unexpected evil may come accidentally from without. If it does not originate in one's own nature or have a foothold there, one should not resort to external means to eradicate it, but should quietly let nature take its course. Then improvement will come of itself.
-`,
-      `Nine at the top means:
-
-Innocent action brings misfortune.
-
-Nothing furthers.
-
-When, in a given situation, the time is not ripe for further progress, the best thing to do is to wait quietly, without ulterior designs. If one acts thoughtlessly and tries to push ahead in opposition to fate, success will not be achieved.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Innocent behavior brings good fortune.
+          <br />
+          <br />
+        </p>
+        The original impulses of the heart are always good, so that we may
+        follow them confidently, assured of good fortune and achievement of our
+        aims.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;If one does not count on the harvest while
+          plowing,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Nor on the use of the ground while clearing
+          it,
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It furthers one to undertake something.
+          <br />
+          <br />
+        </p>
+        We should do every task for its own sake as time and place demand and
+        not with an eye to the result. Then each task turns out well, and
+        anything we undertake succeeds.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Undeserved misfortune.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The cow that was tethered by someone
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Is the wanderer’s gain, the citizen’s loss.
+          <br />
+          <br />
+        </p>
+        Sometimes undeserved misfortune befalls a man at the hands of another,
+        as for instance when someone passes by and takes a tethered cow along
+        with him. His gain is the owner’s loss. In all transactions, no matter
+        how innocent, we must accommodate ourselves to the demands of the time,
+        otherwise unexpected misfortune overtakes us.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;He who can be persevering
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Remains without blame.
+          <br />
+          <br />
+        </p>
+        We cannot lose what really belongs to us, even if we throw it away.
+        Therefore we need have no anxiety. All that need concern us is that we
+        should remain true to our own natures and not listen to others.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Use no medicine in an illness
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Incurred through no fault of your own.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;It will pass of itself.
+          <br />
+          <br />
+        </p>
+        An unexpected evil may come accidentally from without. If it does not
+        originate in one’s own nature or have a foothold there, one should not
+        resort to external means to eradicate it, but should quietly let nature
+        take its course. Then improvement will come of itself.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Innocent action brings misfortune.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Nothing furthers.
+          <br />
+          <br />
+        </p>
+        When, in a given situation, the time is not ripe for further progress,
+        the best thing to do is to wait quietly, without ulterior designs. If
+        one acts thoughtlessly and tries to push ahead in opposition to fate,
+        success will not be achieved.
+        <br />
+      </>,
     ],
   },
   26: {
