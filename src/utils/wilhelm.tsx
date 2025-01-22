@@ -10733,90 +10733,231 @@ The difficulties at the beginning are too great for some persons. They get stuck
     ],
   },
   54: {
-    title: '54. Kuei Mei / The Marrying Maiden',
+    title: '54. Kuei Mei / The Marrying Maiden ䷵',
 
-    text: `above CHêN THE AROUSING, THUNDER
-below TUI THE JOYOUS, LAKE
-
-Above we have Chên, the eldest son, and below, Tui, the youngest daughter. The man leads and the girl follows him in gladness. The picture is that of the entrance of the girl into her husband's house. In all, there are four hexagrams depicting the relationship between husband and wife. Hsien, INFLUENCE, 31, describes the attraction that a young couple have for each other; Hêng, DURATION 32, portrays the permanent relationships of marriage; Chien, DEVELOPMENT 53, reflects the protracted, ceremonious procedures attending THE MARRYING MAIDEN, shows a young girl under the guidance of an older man who marries her.
-
-THE JUDGMENT
-
-THE MARRYING MAIDEN.
-Undertakings bring misfortune.
-
-Nothing that would further.
-
-A girl who is taken into the family, but not as the chief wife, must behave with special caution and reserve. She must not take it upon herself to supplant the mistress of the house, for that would mean disorder and lead to untenable relationships. The same is true of all voluntary relationships between human beings. While legally regulated relationships based on personal inclination depend in the long run entirely on tactful reserve. Affection as the essential principle of relatedness is of the greatest importance in all relationships in the world. For the union of heaven and earth is the origin of the whole of nature. Among human beings likewise, spontaneous affection is the all-inclusive principle of union.
-
-THE IMAGE
-
-Thunder over the lake:
-
-The image of THE MARRYING MAIDEN.
-
-Thus the superior man
-Understands the transitory
-In the light of the eternity of the end.
-
-Thunder stirs the water of the lake, which follows it in shimmering waves. This symbolizes the girl who follows the man of her choice. But every relationship between individuals bears within it the danger that wrong turns may be taken, leading to endless misunderstandings and disagreements. Therefore it is necessary constantly to remain mindful of the end. If we permit ourselves to drift along, we come together and are parted again as the day may determine. If on the other hand a man fixes his mind on an end that endures, he will succeed in avoiding the reefs that confront the closer relationships of people.
-`,
+    text: (
+      <>
+        Above we have Chên, the eldest son, and below, Tui, the youngest
+        daughter. The man leads and the girl follows him in gladness. The
+        picture is that of the entrance of the girl into her husband’s house. In
+        all, there are four hexagrams depicting the relationship between husband
+        and wife. Hsien, INFLUENCE (31), describes the attraction that a young
+        couple have for each other; Hêng, DURATION (32), portrays the permanent
+        relationships of marriage; Chien, DEVELOPMENT (53), reflects the
+        protracted, ceremonious procedures attending the arrangement of a proper
+        marriage; finally, Kuei Mei, THE MARRYING MAIDEN, shows a young girl
+        under the guidance of an older man who marries her.
+        <br />
+        <br />
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE MARRYING MAIDEN.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Undertakings bring misfortune.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Nothing that would further.
+          <br />
+          <br />
+        </p>
+        A girl who is taken into the family, but not as the chief wife, must
+        behave with special caution and reserve. She must not take it upon
+        herself to supplant the mistress of the house, for that would mean
+        disorder and lead to untenable relationships.
+        <br />
+        <br />
+        The same is true of all voluntary relationships between human beings.
+        While legally regulated relationships evince a fixed connection between
+        duties and rights, relationships based on personal inclination depend in
+        the long run entirely on tactful reserve.
+        <br />
+        <br />
+        Affection as the essential principle of relatedness is of the greatest
+        importance in all relationships in the world. For the union of heaven
+        and earth is the origin of the whole of nature. Among human beings
+        likewise, spontaneous affection is the all-inclusive principle of union.
+        <br />
+        <p>
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
+          <br />
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thunder over the lake:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The image of THE MARRYING MAIDEN.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus the superior man
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Understands the transitory
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;In the light of the eternity of the end.
+          <br />
+          <br />
+        </p>
+        Thunder stirs the water of the lake, which follows it in shimmering
+        waves. This symbolizes the girl who follows the man of her choice. But
+        every relationship between individuals bears within it the danger that
+        wrong turns may be taken, leading to endless misunderstandings and
+        disagreements. Therefore it is necessary constantly to remain mindful of
+        the end. If we permit ourselves to drift along, we come together and are
+        parted again as the day may determine. If on the other hand a man fixes
+        his mind on an end that endures, he will succeed in avoiding the reefs
+        that confront the closer relationships of people.
+        <br />
+        <br />
+      </>
+    ),
     lines: [
-      `Nine at the beginning means:
-
-The marrying maiden as a concubine.
-A lame man who is able to tread.
-Undertakings bring good fortune.
-
-The princess of ancient China maintained a fixed order of rank among the court ladies, who were subordinated to the queen as are younger sisters to the eldest. Frequently they came from the family of the queen, who herself led them to her husband. The meaning is that a girl entering a family with the consent of the wife will not rank outwardly as the equal of the latter but will withdraw modestly into the background. However, if she understands how to fit herself into the pattern of things, her position will be entirely satisfactory, and she will feel sheltered in the love of the husband to whom she bears children. The same meaning is brought out in the relationships between officials. A man may enjoy the personal friendship of a prince and be taken into his confidence. Outwardly this man must keep tactfully in the background behind the official ministers of state, but, although he is hampered by this status, as if he were lame, he can nevertheless accomplish something through the kindliness of his nature.
-`,
-      `Nine in the second place means:
-
-A one-eyed man who is able to see.
-
-The perseverance of a solitary man furthers.
-
-Here the situation is that of a girl married to a man who has disappointed her. Man and wife ought to work together like a pair of eyes. Here the girl is left behind in loneliness; the man of her choice either has become unfaithful or has died. But she does not lost the inner light of loyalty. Thought the other eye is gone, she maintains her loyalty even in loneliness.
-`,
-      `Six in the third place means:
-
-The marrying maiden as a slave.
-
-She marries as a concubine.
-
-A girl who is in a lowly position and finds no husband may, in some circumstances, still win shelter as a concubine. This pictures the situation of a person who longs too much for joys that cannot be obtained in the usual way. He enters upon a situation not altogether compatible with self-esteem. Neither judgment nor warning is added to this line; it merely lays bare the actual situation, so that everyone may draw a lesson from it.
-`,
-      `Nine in the fourth place means:
-
-The marrying maiden draws out the allotted time.
-A late marriage comes in due course.
-
-The girl is virtuous. She does not wish to throw herself away, and allows the customary time for marriage to slip by. However, there is no harm in this; she is rewarded for her purity and, even though belatedly, finds the husband intended for her.
-
-`,
-      `Six in the fifth place means:
-
-The sovereign I gave his daughter in marriage.
-
-The embroidered garments of the princess
-Were not as gorgeous
-As those of the serving maid.
-
-The moon that is nearly full
-Brings good fortune.
-
-The sovereign I is T'ang the Completer. This ruler decreed that the imperial princesses should be subordinated to their husbands in the same manner as other women (cf. Hexagram 11, six in the fifth place). The emperor does not wait for a suitor to woo his daughter but gives her in marriage when he sees fit. Therefore it is in accord with custom for the girl's family to take the initiative here. We see here a girl of aristocratic birth who marries a man of modest circumstances and understands how to adapt herself with grace to the new situation. She is free of all vanity of outer adornment, and forgetting her rank in her marriage, takes a place below that of her husband, just as the moon, before it is quite full, does not directly face the sun.
-`,
-      `Six at the top means:
-
-The woman holds the basket, but there are no fruits in it.
-
-The man stabs the sheep, but no blood flows.
-
-Nothing that acts to further.
-
-At the sacrifice to the ancestors, the woman had to present harvest offerings in a basket, while the man slaughtered the sacrificial animal with his own hand. Here the ritual is only superficially fulfilled; the woman takes an empty basket and the man stabs a sheep slaughtered beforehand-solely to preserve the forms. This impious, irreverent attitude bodes no good for a marriage.
-`,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The marrying maiden as a concubine.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;A lame man who is able to tread.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Undertakings bring good fortune.
+          <br />
+          <br />
+        </p>
+        The princes of ancient China maintained a fixed order of rank among the
+        court ladies, who were subordinated to the queen as are younger sisters
+        to the eldest. Frequently they came from the family of the queen, who
+        herself led them to her husband.
+        <br />
+        <br />
+        The meaning is that a girl entering a family with the consent of the
+        wife will not rank outwardly as the equal of the latter but will
+        withdraw modestly into the background. However, if she understands how
+        to fit herself into the pattern of things, her position will be entirely
+        satisfactory, and she will feel sheltered in the love of the husband to
+        whom she bears children.
+        <br />
+        <br />
+        The same meaning is brought out in the relationships between officials.
+        A man may enjoy the personal friendship of a prince and be taken into
+        his confidence. Outwardly this man must keep tactfully in the background
+        behind the official ministers of state, but, although he is hampered by
+        this status, as if he were lame, he can nevertheless accomplish
+        something through the kindliness of his nature.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;A one-eyed man who is able to see.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The perseverance of a solitary man furthers.
+          <br />
+          <br />
+        </p>
+        Here the situation is that of a girl married to a man who has
+        disappointed her. Man and wife ought to work together like a pair of
+        eyes. Here the girl is left behind in loneliness; the man of her choice
+        either has become unfaithful or has died. But she does not lose the
+        inner light of loyalty. Though the other eye is gone, she maintains her
+        loyalty even in loneliness.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The marrying maiden as a slave.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;She marries as a concubine.
+          <br />
+          <br />
+        </p>
+        A girl who is in a lowly position and finds no husband may, in some
+        circumstances, still win shelter as a concubine.
+        <br />
+        <br />
+        This pictures the situation of a person who longs too much for joys that
+        cannot be obtained in the usual way. He enters upon a situation not
+        altogether compatible with self-esteem. Neither judgment nor warning is
+        added to this line; it merely lays bare the actual situation, so that
+        everyone may draw a lesson from it.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The marrying maiden draws out the allotted
+          time.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;A late marriage comes in due course.
+          <br />
+          <br />
+        </p>
+        The girl is virtuous. She does not wish to throw herself away, and
+        allows the customary time for marriage to slip by. However, there is no
+        harm in this; she is rewarded for her purity and, even though belatedly,
+        finds the husband intended for her.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The sovereign I gave his daughter in marriage.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The embroidered garments of the princess
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Were not as gorgeous
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;As those of the servingmaid.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The moon that is nearly full
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Brings good fortune.
+          <br />
+          <br />
+        </p>
+        The sovereign I is T’ang the Completer. This ruler decreed that the
+        imperial princesses should be subordinated to their husbands in the same
+        manner as other women (cf. hexagram 11, six in the fifth place). The
+        emperor does not wait for a suitor to woo his daughter but gives her in
+        marriage when he sees fit. Therefore it is in accord with custom for the
+        girl’s family to take the initiative here.
+        <br />
+        <br />
+        We see here a girl of aristocratic birth who marries a man of modest
+        circumstances and understands how to adapt herself with grace to the new
+        situation. She is free of all vanity of outer adornment, and forgetting
+        her rank in her marriage, takes a place below that of her husband, just
+        as the moon, before it is quite full, does not directly face the sun.
+        <br />
+        <br />
+      </>,
+      <>
+        <p>
+          &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The woman holds the basket, but there are no
+          fruits in it.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;The man stabs the sheep, but no blood flows.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Nothing that acts to further.
+          <br />
+          <br />
+        </p>
+        At the sacrifice to the ancestors, the woman had to present harvest
+        offerings in a basket, while the man slaughtered the sacrificial animal
+        with his own hand. Here the ritual is only superficially fulfilled; the
+        woman takes an empty basket and the man stabs a sheep slaughtered
+        beforehand—solely to preserve the forms. This impious, irreverent
+        attitude bodes no good for a marriage.
+        <br />
+      </>,
     ],
   },
   55: {
