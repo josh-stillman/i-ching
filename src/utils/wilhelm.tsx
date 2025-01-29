@@ -1975,7 +1975,11 @@ export const TEXT: { [k: number]: HexText } = {
           <br />
           <br />
         </p>
-        <br />
+        The wind can indeed drive the clouds together in the sky; yet, being
+        nothing but air, without solid body, it does not produce great or
+        lasting effects. So also an individual, in times when he can produce no
+        great effect in the outer world, can do nothing except refine the
+        expression of his nature in small ways.
       </>
     ),
     lines: [

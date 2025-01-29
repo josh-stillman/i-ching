@@ -85,8 +85,6 @@ const IChingPage = () => {
                 <br />
                 {i !== hexagram.changingLinesText.length - 1 && (
                   <>
-                    <br />
-                    <br />
                     <hr style={{ margin: '0 auto', width: '25%' }} />
                     <br />
                   </>
@@ -97,7 +95,7 @@ const IChingPage = () => {
         ) : (
           ''
         )}
-        <br />
+
         {changingHex && (
           <>
             <hr />
@@ -106,7 +104,7 @@ const IChingPage = () => {
         )}
         {changingHex && (
           <>
-            {changingHex.hexagramNumber}. {changingHex.hexagramName}
+            {changingHex.hexagramTitleText}
             <br />
             <br />
             {changingHex.text}
