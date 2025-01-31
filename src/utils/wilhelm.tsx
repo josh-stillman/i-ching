@@ -39,7 +39,7 @@ export const TEXT: { [k: number]: HexText } = {
         nature.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -122,7 +122,7 @@ export const TEXT: { [k: number]: HexText } = {
         course of time this combination of the two systems of thought opened the
         way for an increasingly intricate number symbolism.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -156,7 +156,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Hidden dragon. Do not act.
@@ -186,7 +186,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Dragon appearing in the field.
@@ -207,7 +207,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;All day long the superior man is creatively
@@ -235,7 +235,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Wavering flight over the depths.
@@ -257,7 +257,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Flying dragon in the heavens.
@@ -283,7 +283,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Arrogant dragon will have cause to repent.
@@ -296,7 +296,7 @@ export const TEXT: { [k: number]: HexText } = {
         precipitous fall would follow.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;When all the lines are nines, it means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;There appears a flight of dragons without
@@ -346,7 +346,7 @@ export const TEXT: { [k: number]: HexText } = {
         struggle against the Creative, which is productive of evil to both.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -416,7 +416,7 @@ export const TEXT: { [k: number]: HexText } = {
         the purity of the moment may not be spoiled by factional hates and
         favoritism.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -445,7 +445,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;When there is hoarfrost underfoot,
@@ -469,7 +469,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Straight, square, great.
@@ -505,7 +505,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Hidden lines.
@@ -529,7 +529,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A tied-up sack. No blame, no praise.
@@ -547,7 +547,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A yellow lower garment brings supreme good
@@ -566,7 +566,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Dragons fight in the meadow.
@@ -586,7 +586,7 @@ export const TEXT: { [k: number]: HexText } = {
         both primal powers suffer injury.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;When all the lines are sixes, it means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Lasting perseverance furthers.
@@ -620,7 +620,7 @@ export const TEXT: { [k: number]: HexText } = {
         breathe freely again.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -647,7 +647,7 @@ export const TEXT: { [k: number]: HexText } = {
         passively at what is happening. He must lend his hand and participate
         with inspiration and guidance.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -675,7 +675,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Hesitation and hindrance.
@@ -697,7 +697,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Difficulties pile up.
@@ -739,7 +739,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Whoever hunts deer without the forester
@@ -766,7 +766,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Horse and wagon part.
@@ -790,7 +790,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Difficulties in blessing.
@@ -813,7 +813,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Horse and wagon part.
@@ -1268,7 +1268,7 @@ export const TEXT: { [k: number]: HexText } = {
         outwardly. A person of this character will certainly be quarrelsome.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -1306,7 +1306,7 @@ export const TEXT: { [k: number]: HexText } = {
         conquer danger without.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -1333,7 +1333,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If one does not perpetuate the affair,
@@ -1352,7 +1352,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One cannot engage in conflict;
@@ -1377,7 +1377,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;To nourish oneself on ancient virtue induces
@@ -1403,7 +1403,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One cannot engage in conflict.
@@ -1430,7 +1430,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;To contend before him
@@ -1447,7 +1447,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Even if by chance a leather belt is bestowed
@@ -1489,7 +1489,7 @@ export const TEXT: { [k: number]: HexText } = {
         efficient general, who maintains obedience in the army by his authority.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -1522,7 +1522,7 @@ export const TEXT: { [k: number]: HexText } = {
         perseverance are the basis of action, all goes well.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -1553,7 +1553,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;An army must set forth in proper order.
@@ -1571,7 +1571,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;In the midst of the army.
@@ -1592,7 +1592,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Perchance the army carries corpses in the
@@ -1621,7 +1621,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The army retreats. No blame.
@@ -1637,7 +1637,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;There is game in the field.
@@ -1667,7 +1667,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The great prince issues commands,
@@ -1703,7 +1703,7 @@ export const TEXT: { [k: number]: HexText } = {
         with the others, finding in them the complement of his own nature.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -1750,7 +1750,7 @@ export const TEXT: { [k: number]: HexText } = {
         some other organic fellowship.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -1783,7 +1783,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Hold to him in truth and loyalty;
@@ -1808,7 +1808,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Hold to him inwardly.
@@ -1827,7 +1827,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;You hold together with the wrong people.
@@ -1844,7 +1844,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Hold to him outwardly also.
@@ -1861,7 +1861,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Manifestation of holding together.
@@ -1902,7 +1902,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He finds no head for holding together.
@@ -1935,7 +1935,7 @@ export const TEXT: { [k: number]: HexText } = {
         can have a successful outcome.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -1963,7 +1963,7 @@ export const TEXT: { [k: number]: HexText } = {
         external relations.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -1975,16 +1975,12 @@ export const TEXT: { [k: number]: HexText } = {
           <br />
           <br />
         </p>
-        The wind can indeed drive the clouds together in the sky; yet, being
-        nothing but air, without solid body, it does not produce great or
-        lasting effects. So also an individual, in times when he can produce no
-        great effect in the outer world, can do nothing except refine the
-        expression of his nature in small ways.
+        <br />
       </>
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Return to the way.
@@ -2004,7 +2000,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He allows himself to be drawn into returning.
@@ -2023,7 +2019,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The spokes burst out of the wagon wheels.
@@ -2048,7 +2044,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If you are sincere, blood vanishes and fear
@@ -2068,7 +2064,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If you are sincere and loyally attached,
@@ -2087,7 +2083,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The rain comes, there is rest.
@@ -2140,7 +2136,7 @@ export const TEXT: { [k: number]: HexText } = {
         the strong man is not irritated but takes it all in good part.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -2161,7 +2157,7 @@ export const TEXT: { [k: number]: HexText } = {
         decorum. Pleasant manners succeed even with irritable people.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -2192,7 +2188,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Simple conduct. Progress without blame.
@@ -2221,7 +2217,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Treading a smooth, level course.
@@ -2241,7 +2237,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A one-eyed man is able to see,
@@ -2270,7 +2266,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He treads on the tail of the tiger.
@@ -2291,7 +2287,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Resolute conduct.
@@ -2309,7 +2305,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Look to your conduct and weigh the favorable
@@ -2341,7 +2337,7 @@ export const TEXT: { [k: number]: HexText } = {
         prepare the new spring.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -2378,7 +2374,7 @@ export const TEXT: { [k: number]: HexText } = {
         This brings good fortune and success.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -2413,7 +2409,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;When ribbon grass is pulled up, the sod comes
@@ -2435,7 +2431,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Bearing with the uncultured in gentleness,
@@ -2468,7 +2464,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;No plain not followed by a slope.
@@ -2498,7 +2494,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He flutters down, not boasting of his wealth,
@@ -2518,7 +2514,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The sovereign I<br />
@@ -2538,7 +2534,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The wall falls back into the moat.
@@ -2575,7 +2571,7 @@ export const TEXT: { [k: number]: HexText } = {
         autumnal decay is setting in.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -2598,7 +2594,7 @@ export const TEXT: { [k: number]: HexText } = {
         faithful to their principles and withdraw into seclusion.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -2629,7 +2625,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;When ribbon grass is pulled up, the sod comes
@@ -2654,7 +2650,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;They bear and endure;
@@ -2676,7 +2672,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;They bear shame.
@@ -2691,7 +2687,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He who acts at the command of the highest
@@ -2713,7 +2709,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Standstill is giving way.
@@ -2746,7 +2742,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The standstill comes to an end.
@@ -2784,7 +2780,7 @@ export const TEXT: { [k: number]: HexText } = {
         yielding nature among many firm persons.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -2810,7 +2806,7 @@ export const TEXT: { [k: number]: HexText } = {
         strength.)
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -2837,7 +2833,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Fellowship with men at the gate.
@@ -2855,7 +2851,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Fellowship with men in the clan.
@@ -2873,7 +2869,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He hides weapons in the thicket;
@@ -2897,7 +2893,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He climbs up on his wall; he cannot attack.
@@ -2915,7 +2911,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Men bound in fellowship first weep and lament,
@@ -2937,7 +2933,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;“Life leads the thoughtful man on a path of
           many windings.
           <br />
@@ -2992,7 +2988,7 @@ export const TEXT: { [k: number]: HexText } = {
         to the man who is modest and kind in a high position.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -3011,7 +3007,7 @@ export const TEXT: { [k: number]: HexText } = {
         supreme success and wealth.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -3039,7 +3035,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;No relationship with what is harmful;
@@ -3062,7 +3058,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A big wagon for loading.
@@ -3085,7 +3081,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A prince offers it to the Son of Heaven.
@@ -3105,7 +3101,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He makes a difference
@@ -3124,7 +3120,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He whose truth is accessible, yet dignified,
@@ -3143,7 +3139,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He is blessed by heaven.
@@ -3186,7 +3182,7 @@ export const TEXT: { [k: number]: HexText } = {
         lifted up by it.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -3217,7 +3213,7 @@ export const TEXT: { [k: number]: HexText } = {
         out his work to the end without boasting of what he has achieved.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -3248,7 +3244,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A superior man modest about his modesty
@@ -3270,7 +3266,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Modesty that comes to expression.
@@ -3287,7 +3283,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A superior man of modesty and merit
@@ -3308,7 +3304,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Nothing that would not further modesty
@@ -3331,7 +3327,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;No boasting of wealth before one’s neighbor.
@@ -3353,7 +3349,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Modesty that comes to expression.
@@ -3391,7 +3387,7 @@ export const TEXT: { [k: number]: HexText } = {
         enunciated as the law for natural events and for human life.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -3421,7 +3417,7 @@ export const TEXT: { [k: number]: HexText } = {
         achieve victory.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -3478,7 +3474,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Enthusiasm that expresses itself
@@ -3495,7 +3491,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Firm as a rock. Not a whole day.
@@ -3529,7 +3525,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT can be known.
           <br />
           <br />
@@ -3557,7 +3553,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The source of enthusiasm.
@@ -3582,7 +3578,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Persistently ill, and still does not die.
@@ -3597,7 +3593,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Deluded enthusiasm.
@@ -3627,7 +3623,7 @@ export const TEXT: { [k: number]: HexText } = {
         girl and shows her consideration. By this he moves her to follow him.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -3655,7 +3651,7 @@ export const TEXT: { [k: number]: HexText } = {
         judgment is so favorable.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -3684,7 +3680,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The standard is changing.
@@ -3711,7 +3707,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If one clings to the little boy,
@@ -3729,7 +3725,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If one clings to the strong man,
@@ -3752,7 +3748,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Following creates success.
@@ -3778,7 +3774,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Sincere in the good. Good fortune.
@@ -3792,7 +3788,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He meets with firm allegiance
@@ -3834,7 +3830,7 @@ export const TEXT: { [k: number]: HexText } = {
         “work on what has been spoiled.”
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -3868,7 +3864,7 @@ export const TEXT: { [k: number]: HexText } = {
         followed by a new beginning.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -3898,7 +3894,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Setting right what has been spoiled by the
@@ -3922,7 +3918,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Setting right what has been spoiled by the
@@ -3941,7 +3937,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Setting right what has been spoiled by the
@@ -3976,7 +3972,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Setting right what has been spoiled by the
@@ -3994,7 +3990,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He does not serve kings and princes,
@@ -4033,7 +4029,7 @@ export const TEXT: { [k: number]: HexText } = {
         begins to ascend again.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -4058,7 +4054,7 @@ export const TEXT: { [k: number]: HexText } = {
         reality—before it has even begun to stir—we can master it.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -4090,7 +4086,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Joint approach.
@@ -4108,7 +4104,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Joint approach.
@@ -4130,7 +4126,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Comfortable approach.
@@ -4153,7 +4149,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Complete approach.
@@ -4172,7 +4168,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Wise approach.
@@ -4193,7 +4189,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Greathearted approach.
@@ -4235,7 +4231,7 @@ export const TEXT: { [k: number]: HexText } = {
         hexagram as a whole.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -4268,7 +4264,7 @@ export const TEXT: { [k: number]: HexText } = {
         happens.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
           <br />
@@ -4306,7 +4302,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Boylike contemplation.
@@ -4328,7 +4324,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Contemplation through the crack of the door.
@@ -4348,7 +4344,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Contemplation of my life
@@ -4373,7 +4369,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Contemplation of the light of the kingdom.
@@ -4392,7 +4388,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Contemplation of my life.
@@ -4411,7 +4407,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Contemplation of his life.
@@ -4448,7 +4444,7 @@ export const TEXT: { [k: number]: HexText } = {
         refers to civil suits.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -4476,7 +4472,7 @@ export const TEXT: { [k: number]: HexText } = {
         who makes the decisions (represented by the fifth line) is gentle by
         nature, while he commands respect by his conduct in his position.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -4509,7 +4505,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;His feet are fastened in the stocks,
@@ -4528,7 +4524,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Bites through tender meat,
@@ -4549,7 +4545,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Bites on old dried meat
@@ -4571,7 +4567,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Bites on dried gristly meat.
@@ -4595,7 +4591,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Bites on dried lean meat.
@@ -4618,7 +4614,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;His neck is fastened in the wooden cangue,
@@ -4648,7 +4644,7 @@ export const TEXT: { [k: number]: HexText } = {
         is to be well ordered and pleasing rather than disordered and chaotic.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -4676,7 +4672,7 @@ export const TEXT: { [k: number]: HexText } = {
         understand time and its changing demands. Through contemplation of the
         forms existing in human society it becomes possible to shape the world.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -4705,7 +4701,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He lends grace to his toes, leaves the
@@ -4722,7 +4718,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Lends grace to the beard on his chin.
@@ -4738,7 +4734,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Graceful and moist.
@@ -4756,7 +4752,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Grace or simplicity?
@@ -4781,7 +4777,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Grace in hills and gardens.
@@ -4802,7 +4798,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Simple grace. No blame.
@@ -4836,7 +4832,7 @@ export const TEXT: { [k: number]: HexText } = {
         the yang power altogether.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -4862,7 +4858,7 @@ export const TEXT: { [k: number]: HexText } = {
         emptiness. It is impossible to counteract these conditions of the time.
         Hence it is not cowardice but wisdom to submit and avoid action.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -4890,7 +4886,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The leg of the bed is split.
@@ -4910,7 +4906,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The bed is split at the edge.
@@ -4932,7 +4928,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He splits with them. No blame.
@@ -4948,7 +4944,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The bed is split up to the skin.
@@ -4964,7 +4960,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A shoal of fishes. Favor comes through the
@@ -4987,7 +4983,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;There is a large fruit still uneaten.
@@ -5026,7 +5022,7 @@ export const TEXT: { [k: number]: HexText } = {
         (December–January).
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -5069,7 +5065,7 @@ export const TEXT: { [k: number]: HexText } = {
         the great darkness, is increased by one. In this way the state of rest
         gives place to movement.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -5107,7 +5103,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Return from a short distance.
@@ -5127,7 +5123,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Quiet return. Good fortune.
@@ -5141,7 +5137,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Repeated return. Danger. No blame.
@@ -5158,7 +5154,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Walking in the midst of others,
@@ -5176,7 +5172,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Noblehearted return. No remorse.
@@ -5191,7 +5187,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Missing the return. Misfortune.
@@ -5236,7 +5232,7 @@ export const TEXT: { [k: number]: HexText } = {
         includes also the idea of the unintentional or unexpected.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -5267,7 +5263,7 @@ export const TEXT: { [k: number]: HexText } = {
         innocence, what does he come to? Heaven’s will and blessing do not go
         with his deeds.”
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -5298,7 +5294,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Innocent behavior brings good fortune.
@@ -5312,7 +5308,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If one does not count on the harvest while
@@ -5332,7 +5328,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Undeserved misfortune.
@@ -5352,7 +5348,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He who can be persevering
@@ -5368,7 +5364,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Use no medicine in an illness
@@ -5387,7 +5383,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Innocent action brings misfortune.
@@ -5429,7 +5425,7 @@ export const TEXT: { [k: number]: HexText } = {
         specifically to this strong line at the top, which represents the sage.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -5458,7 +5454,7 @@ export const TEXT: { [k: number]: HexText } = {
         great and difficult undertakings, such as crossing the great water,
         succeed.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -5487,7 +5483,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Danger is at hand. It furthers one to desist.
@@ -5503,7 +5499,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The axletrees are taken from the wagon.
@@ -5522,7 +5518,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A good horse that follows others.
@@ -5550,7 +5546,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The headboard of a young bull.
@@ -5568,7 +5564,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The tusk of a gelded boar.
@@ -5586,7 +5582,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One attains the way of heaven.
@@ -5616,7 +5612,7 @@ export const TEXT: { [k: number]: HexText } = {
         represent nourishment and care of others, in a higher, spiritual sense.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -5649,7 +5645,7 @@ export const TEXT: { [k: number]: HexText } = {
         cultivates the inferior parts of his nature is an inferior man. He who
         cultivates the superior parts of his nature is a superior man.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -5684,7 +5680,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
@@ -5709,7 +5705,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Turning to the summit for nourishment,
@@ -5734,7 +5730,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Turning away from nourishment.
@@ -5756,7 +5752,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Turning to the summit
@@ -5784,7 +5780,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Turning away from the path.
@@ -5807,7 +5803,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The source of nourishment.
@@ -5842,7 +5838,7 @@ export const TEXT: { [k: number]: HexText } = {
         pass, or misfortune will result.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -5871,7 +5867,7 @@ export const TEXT: { [k: number]: HexText } = {
         real superiority; therefore the time when the great preponderates is a
         momentous time.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -5904,7 +5900,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;To spread white rushes underneath.
@@ -5923,7 +5919,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A dry poplar sprouts at the root.
@@ -5948,7 +5944,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The ridgepole sags to the breaking point.
@@ -5967,7 +5963,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The ridgepole is braced. Good fortune.
@@ -5985,7 +5981,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A withered poplar puts forth flowers.
@@ -6010,7 +6006,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One must go through the water.
@@ -6058,7 +6054,7 @@ export const TEXT: { [k: number]: HexText } = {
         correctly.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -6091,7 +6087,7 @@ export const TEXT: { [k: number]: HexText } = {
         danger to protect themselves against attacks from without and against
         turmoil within.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -6119,7 +6115,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Repetition of the Abysmal.
@@ -6137,7 +6133,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The abyss is dangerous.
@@ -6157,7 +6153,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Forward and backward, abyss on abyss.
@@ -6180,7 +6176,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A jug of wine, a bowl of rice with it;
@@ -6210,7 +6206,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The abyss is not filled to overflowing,
@@ -6230,7 +6226,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Bound with cords and ropes,
@@ -6268,7 +6264,7 @@ export const TEXT: { [k: number]: HexText } = {
         radiance.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -6297,7 +6293,7 @@ export const TEXT: { [k: number]: HexText } = {
         dependence, man acquires clarity without sharpness and finds his place
         in the world.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -6325,7 +6321,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The footprints run crisscross.
@@ -6347,7 +6343,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Yellow light. Supreme good fortune.
@@ -6362,7 +6358,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;In the light of the setting sun,
@@ -6388,7 +6384,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Its coming is sudden;
@@ -6408,7 +6404,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Tears in floods, sighing and lamenting.
@@ -6428,7 +6424,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The king uses him to march forth and chastise.
@@ -6471,7 +6467,7 @@ export const TEXT: { [k: number]: HexText } = {
         social relationship
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -6497,7 +6493,7 @@ export const TEXT: { [k: number]: HexText } = {
         men’s hearts, and thus the world attains peace. From the attractions
         they exert we can learn the nature of all beings in heaven and on earth.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -6525,7 +6521,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The influence shows itself in the big toe.
@@ -6541,7 +6537,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The influence shows itself in the calves of
@@ -6561,7 +6557,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The influence shows itself in the thighs.
@@ -6587,7 +6583,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
@@ -6622,7 +6618,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The influence shows itself in the back of the
@@ -6643,7 +6639,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The influence shows itself in the jaws,
@@ -6680,7 +6676,7 @@ export const TEXT: { [k: number]: HexText } = {
         outside, while the wife, inside, is gentle and submissive.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -6713,7 +6709,7 @@ export const TEXT: { [k: number]: HexText } = {
         duration, we can come to understand the nature of all beings in heaven
         and on earth.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -6739,7 +6735,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Seeking duration too hastily brings misfortune
@@ -6758,7 +6754,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Remorse disappears.
@@ -6774,7 +6770,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He who does not give duration to his character
@@ -6795,7 +6791,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;No game in the field.
@@ -6811,7 +6807,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Giving duration to one’s character through
@@ -6833,7 +6829,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Restlessness as an enduring condition brings
@@ -6866,7 +6862,7 @@ export const TEXT: { [k: number]: HexText } = {
         influence.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -6892,7 +6888,7 @@ export const TEXT: { [k: number]: HexText } = {
         laws of a constructive retreat of this sort is not easy. The meaning
         that lies hidden in such a time is important.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -6922,7 +6918,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;At the tail in retreat. This is dangerous.
@@ -6941,7 +6937,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He holds him fast with yellow oxhide.
@@ -6964,7 +6960,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A halted retreat
@@ -6988,7 +6984,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Voluntary retreat brings good fortune to the
@@ -7008,7 +7004,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Friendly retreat. Perseverance brings good
@@ -7026,7 +7022,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Cheerful retreat. Everything serves to
@@ -7056,7 +7052,7 @@ export const TEXT: { [k: number]: HexText } = {
         hexagram is linked with the second month (March–April).
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -7076,7 +7072,7 @@ export const TEXT: { [k: number]: HexText } = {
         indissolubly united—we understand the true meaning of all that happens
         in heaven and on earth.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -7104,7 +7100,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Power in the toes.
@@ -7123,7 +7119,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
@@ -7139,7 +7135,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The inferior man works through power.
@@ -7164,7 +7160,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
@@ -7189,7 +7185,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Loses the goat with ease.
@@ -7206,7 +7202,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A goat butts against a hedge.
@@ -7239,7 +7235,7 @@ export const TEXT: { [k: number]: HexText } = {
         widening expansion and clarity.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -7267,7 +7263,7 @@ export const TEXT: { [k: number]: HexText } = {
         to his court. An enlightened ruler and an obedient servant—this is the
         condition on which great progress depends.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -7294,7 +7290,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Progressing, but turned back.
@@ -7319,7 +7315,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Progressing, but in sorrow.
@@ -7342,7 +7338,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;All are in accord. Remorse disappears.
@@ -7357,7 +7353,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Progress like a hamster.
@@ -7375,7 +7371,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Remorse disappears.
@@ -7400,7 +7396,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Making progress with the horns is permissible
@@ -7442,7 +7438,7 @@ export const TEXT: { [k: number]: HexText } = {
         authority and brings harm to the wise and able man.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -7465,7 +7461,7 @@ export const TEXT: { [k: number]: HexText } = {
         discernible from without. Only thus is a man able to maintain his will
         in the face of difficulties.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -7493,7 +7489,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Darkening of the light during flight.
@@ -7521,7 +7517,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Darkening of the light injures him in the left
@@ -7543,7 +7539,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Darkening of the light during the hunt in the
@@ -7565,7 +7561,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He penetrates the left side of the belly.
@@ -7585,7 +7581,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Darkening of the light as with Prince Chi.
@@ -7610,7 +7606,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Not light but darkness.
@@ -7654,7 +7650,7 @@ export const TEXT: { [k: number]: HexText } = {
         fire.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -7690,7 +7686,7 @@ export const TEXT: { [k: number]: HexText } = {
         created, and this is later widened to include human relationships in
         general.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -7724,7 +7720,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Firm seclusion within the family.
@@ -7748,7 +7744,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;She should not follow her whims.
@@ -7775,7 +7771,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;When tempers flare up in the family,
@@ -7801,7 +7797,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;She is the treasure of the house.
@@ -7819,7 +7815,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;As a king he approaches his family.
@@ -7838,7 +7834,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;His work commands respect.
@@ -7869,7 +7865,7 @@ export const TEXT: { [k: number]: HexText } = {
         same but are divergently directed.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -7894,7 +7890,7 @@ export const TEXT: { [k: number]: HexText } = {
         opposites makes possible the differentiation by categories through which
         order is brought into the world.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -7920,7 +7916,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Remorse disappears.
@@ -7952,7 +7948,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One meets his lord in a narrow street.
@@ -7969,7 +7965,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One sees the wagon dragged back,
@@ -7991,7 +7987,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Isolated through opposition,
@@ -8014,7 +8010,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Remorse disappears.
@@ -8037,7 +8033,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Isolated through opposition,
@@ -8087,7 +8083,7 @@ export const TEXT: { [k: number]: HexText } = {
         directed to overcoming them.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -8113,7 +8109,7 @@ export const TEXT: { [k: number]: HexText } = {
         end. An obstruction that lasts only for a time is useful for
         self-development. This is the value of adversity.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -8140,7 +8136,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Going leads to obstructions,
@@ -8158,7 +8154,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The king’s servant is beset by obstruction
@@ -8180,7 +8176,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Going leads to obstructions;
@@ -8199,7 +8195,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Going leads to obstructions,
@@ -8221,7 +8217,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;In the midst of the greatest obstructions,
@@ -8240,7 +8236,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Going leads to obstructions,
@@ -8276,7 +8272,7 @@ export const TEXT: { [k: number]: HexText } = {
         its various stages.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -8307,7 +8303,7 @@ export const TEXT: { [k: number]: HexText } = {
         ought to be attended to, it should be done as quickly as possible, so
         that a clean sweep is made and no retardations occur.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -8335,7 +8331,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Without blame.
@@ -8350,7 +8346,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One kills three foxes in the field
@@ -8374,7 +8370,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If a man carries a burden on his back
@@ -8405,7 +8401,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Deliver yourself from your great toe.
@@ -8429,7 +8425,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If only the superior man can deliver himself,
@@ -8449,7 +8445,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The prince shoots at a hawk on a high wall.
@@ -8494,7 +8490,7 @@ export const TEXT: { [k: number]: HexText } = {
         classes to fail.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -8528,7 +8524,7 @@ export const TEXT: { [k: number]: HexText } = {
         presenting false appearances to God. Even with slender means, the
         sentiment of the heart can be expressed.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -8558,7 +8554,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Going quickly when one’s tasks are finished
@@ -8581,7 +8577,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Perseverance furthers.
@@ -8604,7 +8600,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;When three people journey together,
@@ -8625,7 +8621,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If a man decreases his faults,
@@ -8646,7 +8642,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Someone does indeed increase him.
@@ -8665,7 +8661,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If one is increased without depriving others,
@@ -8708,7 +8704,7 @@ export const TEXT: { [k: number]: HexText } = {
         has power to help the world.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -8731,7 +8727,7 @@ export const TEXT: { [k: number]: HexText } = {
         forming and bringing forth living beings. The time of INCREASE does not
         endure, therefore it must be utilized while it lasts.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -8758,7 +8754,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;It furthers one to accomplish great deeds.
@@ -8776,7 +8772,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Someone does indeed increase him;
@@ -8804,7 +8800,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One is enriched through unfortunate events.
@@ -8826,7 +8822,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If you walk in the middle
@@ -8853,7 +8849,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If in truth you have a kind heart, ask not.
@@ -8873,7 +8869,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He brings increase to no one.
@@ -8920,7 +8916,7 @@ export const TEXT: { [k: number]: HexText } = {
         linked with the third month [April–May].
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -8962,7 +8958,7 @@ export const TEXT: { [k: number]: HexText } = {
         wrestle with them, they continue victorious. Finally, the best way to
         fight evil is to make energetic progress in the good.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -8994,7 +8990,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Mighty in the forward-striding toes.
@@ -9015,7 +9011,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A cry of alarm. Arms at evening and at night.
@@ -9038,7 +9034,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;To be powerful in the cheekbones
@@ -9075,7 +9071,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;There is no skin on his thighs,
@@ -9104,7 +9100,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;In dealing with weeds,
@@ -9127,7 +9123,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;No cry.
@@ -9166,7 +9162,7 @@ export const TEXT: { [k: number]: HexText } = {
         again.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -9198,7 +9194,7 @@ export const TEXT: { [k: number]: HexText } = {
         one another halfway. But the coming together must be free of dishonest
         ulterior motives, otherwise harm will result.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -9230,7 +9226,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;It must be checked with a brake of bronze.
@@ -9255,7 +9251,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;There is a fish in the tank. No blame.
@@ -9272,7 +9268,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;There is no skin on his thighs,
@@ -9294,7 +9290,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;No fish in the tank.
@@ -9312,7 +9308,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A melon covered with willow leaves.
@@ -9337,7 +9333,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He comes to meet with his horns.
@@ -9372,7 +9368,7 @@ export const TEXT: { [k: number]: HexText } = {
         strong line (the fifth) stands in the midst of weak lines.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -9409,7 +9405,7 @@ export const TEXT: { [k: number]: HexText } = {
         made. In the secular sphere likewise there is need of great deeds in the
         time of GATHERING TOGETHER.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -9438,7 +9434,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If you are sincere, but not to the end,
@@ -9467,7 +9463,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Letting oneself be drawn
@@ -9492,7 +9488,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Gathering together amid sighs.
@@ -9516,7 +9512,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Great good fortune. No blame.
@@ -9531,7 +9527,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If in gathering together one has position,
@@ -9559,7 +9555,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Lamenting and sighing, floods of tears.
@@ -9593,7 +9589,7 @@ export const TEXT: { [k: number]: HexText } = {
         influence.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -9617,7 +9613,7 @@ export const TEXT: { [k: number]: HexText } = {
         to do this, because success is assured. But he must set to work, for
         activity (this is the meaning of “the south”) brings good fortune.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -9643,7 +9639,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Pushing upward that meets with confidence
@@ -9661,7 +9657,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If one is sincere,
@@ -9684,7 +9680,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One pushes upward into an empty city.
@@ -9703,7 +9699,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The king offers him Mount Ch’i.
@@ -9726,7 +9722,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
@@ -9744,7 +9740,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Pushing upward in darkness.
@@ -9777,7 +9773,7 @@ export const TEXT: { [k: number]: HexText } = {
         in restraint by inferior men.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -9806,7 +9802,7 @@ export const TEXT: { [k: number]: HexText } = {
         Therefore in times of adversity it is important to be strong within and
         sparing of words.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -9832,7 +9828,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One sits oppressed under a bare tree
@@ -9854,7 +9850,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One is oppressed while at meat and drink.
@@ -9883,7 +9879,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A man permits himself to be oppressed by
@@ -9917,7 +9913,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He comes very quietly, oppressed in a golden
@@ -9939,7 +9935,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;His nose and feet are cut off.
@@ -9965,7 +9961,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He is oppressed by creeping vines.
@@ -10007,7 +10003,7 @@ export const TEXT: { [k: number]: HexText } = {
         inexhaustible dispensing of nourishment.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -10059,7 +10055,7 @@ export const TEXT: { [k: number]: HexText } = {
         convention—a partial education of this sort is as bad as none—or he may
         suddenly collapse and neglect his self-development.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -10084,7 +10080,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One does not drink the mud of the well.
@@ -10101,7 +10097,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;At the wellhole one shoots fishes.
@@ -10124,7 +10120,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The well is cleaned, but no one drinks from
@@ -10148,7 +10144,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The well is being lined. No blame.
@@ -10166,7 +10162,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;In the well there is a clear, cold spring
@@ -10187,7 +10183,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;One draws from the well
@@ -10231,7 +10227,7 @@ export const TEXT: { [k: number]: HexText } = {
         destroy the other. Hence the idea of revolution.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -10262,7 +10258,7 @@ export const TEXT: { [k: number]: HexText } = {
         autumn in the life of peoples and nations, and these call for social
         transformations.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -10293,7 +10289,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Wrapped in the hide of a yellow cow.
@@ -10310,7 +10306,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;When one’s own day comes, one may create
@@ -10334,7 +10330,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Starting brings misfortune.
@@ -10362,7 +10358,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Remorse disappears. Men believe him.
@@ -10383,7 +10379,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The great man changes like a tiger.
@@ -10403,7 +10399,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The superior man changes like a panther.
@@ -10461,7 +10457,7 @@ export const TEXT: { [k: number]: HexText } = {
         the idea of preparing food.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -10489,7 +10485,7 @@ export const TEXT: { [k: number]: HexText } = {
         brings inner enlightenment and true understanding of the world, and this
         leads to great good fortune and success.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -10517,7 +10513,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A ting with legs upturned.
@@ -10545,7 +10541,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;There is food in the ting.
@@ -10567,7 +10563,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The handle of the ting is altered.
@@ -10599,7 +10595,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The legs of the ting are broken.
@@ -10625,7 +10621,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The ting has yellow handles, golden carrying
@@ -10644,7 +10640,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The ting has rings of jade.
@@ -10679,7 +10675,7 @@ export const TEXT: { [k: number]: HexText } = {
         shock causes fear and trembling.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -10709,7 +10705,7 @@ export const TEXT: { [k: number]: HexText } = {
         men—a profound inner seriousness from which all outer terrors glance off
         harmlessly.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -10735,7 +10731,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Shock comes—oh, oh!
@@ -10755,7 +10751,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Shock comes bringing danger.
@@ -10784,7 +10780,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Shock comes and makes one distraught.
@@ -10806,7 +10802,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Shock is mired.
@@ -10821,7 +10817,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Shock goes hither and thither.
@@ -10842,7 +10838,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Shock brings ruin and terrified gazing around.
@@ -10894,7 +10890,7 @@ export const TEXT: { [k: number]: HexText } = {
         yoga.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -10926,7 +10922,7 @@ export const TEXT: { [k: number]: HexText } = {
         understanding the great laws of the universe and for acting in harmony
         with them. Whoever acts from these deep levels makes no mistakes.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -10953,7 +10949,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Keeping his toes still.
@@ -10975,7 +10971,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Keeping his calves still.
@@ -11000,7 +10996,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Keeping his hips still.
@@ -11024,7 +11020,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Keeping his trunk still.
@@ -11047,7 +11043,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Keeping his jaws still.
@@ -11068,7 +11064,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Noblehearted keeping still.
@@ -11100,7 +11096,7 @@ export const TEXT: { [k: number]: HexText } = {
         and progress possible.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -11137,7 +11133,7 @@ export const TEXT: { [k: number]: HexText } = {
         perseverance, for perseverance alone prevents slow progress from
         dwindling to nothing.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -11168,7 +11164,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The wild goose gradually draws near the shore.
@@ -11196,7 +11192,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The wild goose gradually draws near the cliff.
@@ -11222,7 +11218,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The wild goose gradually draws near the
@@ -11255,7 +11251,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The wild goose gradually draws near the tree.
@@ -11275,7 +11271,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The wild goose gradually draws near the
@@ -11301,7 +11297,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The wild goose gradually draws near the cloud
@@ -11341,7 +11337,7 @@ export const TEXT: { [k: number]: HexText } = {
         under the guidance of an older man who marries her.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -11370,7 +11366,7 @@ export const TEXT: { [k: number]: HexText } = {
         and earth is the origin of the whole of nature. Among human beings
         likewise, spontaneous affection is the all-inclusive principle of union.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -11402,7 +11398,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The marrying maiden as a concubine.
@@ -11437,7 +11433,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A one-eyed man who is able to see.
@@ -11456,7 +11452,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The marrying maiden as a slave.
@@ -11478,7 +11474,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The marrying maiden draws out the allotted
@@ -11496,7 +11492,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The sovereign I gave his daughter in marriage.
@@ -11530,7 +11526,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The woman holds the basket, but there are no
@@ -11564,7 +11560,7 @@ export const TEXT: { [k: number]: HexText } = {
         condition of abundance cannot be maintained permanently.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -11587,7 +11583,7 @@ export const TEXT: { [k: number]: HexText } = {
         abundance. He must be like the sun at midday, illuminating and
         gladdening everything under heaven.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -11614,7 +11610,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;When a man meets his destined ruler,
@@ -11637,7 +11633,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The curtain is of such fullness
@@ -11667,7 +11663,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The underbrush is of such abundance
@@ -11693,7 +11689,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The curtain is of such fullness
@@ -11716,7 +11712,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Lines are coming,
@@ -11734,7 +11730,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;His house is in a state of abundance.
@@ -11770,7 +11766,7 @@ export const TEXT: { [k: number]: HexText } = {
         lands and separation are the wanderer’s lot.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -11794,7 +11790,7 @@ export const TEXT: { [k: number]: HexText } = {
         the proper places, associating only with good people. Then he has good
         fortune and can go his way unmolested.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -11826,7 +11822,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If the wanderer busies himself with trivial
@@ -11846,7 +11842,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The wanderer comes to an inn.
@@ -11867,7 +11863,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The wanderer’s inn burns down.
@@ -11888,7 +11884,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The wanderer rests in a shelter.
@@ -11909,7 +11905,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He shoots a pheasant.
@@ -11935,7 +11931,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The bird’s nest burns up.
@@ -11982,7 +11978,7 @@ export const TEXT: { [k: number]: HexText } = {
         light of day.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -12004,7 +12000,7 @@ export const TEXT: { [k: number]: HexText } = {
         by subordinating itself to an eminent man who is capable of creating
         order.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -12034,7 +12030,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;In advancing and in retreating,
@@ -12053,7 +12049,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Penetration under the bed.
@@ -12079,7 +12075,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Repeated penetration. Humiliation.
@@ -12095,7 +12091,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Remorse vanishes.
@@ -12116,7 +12112,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
@@ -12151,7 +12147,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Penetration under the bed.
@@ -12189,7 +12185,7 @@ export const TEXT: { [k: number]: HexText } = {
         itself outwardly as yielding and gentle.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -12210,7 +12206,7 @@ export const TEXT: { [k: number]: HexText } = {
         themselves willingly, and if need be will not shun death itself, so
         great is the power of joy over men.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -12240,7 +12236,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Contented joyousness. Good fortune.
@@ -12255,7 +12251,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Sincere joyousness. Good fortune.
@@ -12276,7 +12272,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Coming joyousness. Misfortune.
@@ -12294,7 +12290,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Joyousness that is weighed is not at peace.
@@ -12315,7 +12311,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Sincerity toward disintegrating influences is
@@ -12332,7 +12328,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Seductive joyousness.
@@ -12361,7 +12357,7 @@ export const TEXT: { [k: number]: HexText } = {
         gentleness serves to break up and dissolve the blockage.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -12401,7 +12397,7 @@ export const TEXT: { [k: number]: HexText } = {
         considerations, and who perseveres in justice and steadfastness, is
         capable of so dissolving the hardness of egotism.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -12432,7 +12428,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He brings help with the strength of a horse.
@@ -12451,7 +12447,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;At the dissolution
@@ -12473,7 +12469,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He dissolves his self. No remorse.
@@ -12490,7 +12486,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He dissolves his bond with his group.
@@ -12514,7 +12510,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;His loud cries are as dissolving as sweat.
@@ -12533,7 +12529,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He dissolves his blood.
@@ -12572,7 +12568,7 @@ export const TEXT: { [k: number]: HexText } = {
         of loyalty and disinterestedness.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -12598,7 +12594,7 @@ export const TEXT: { [k: number]: HexText } = {
         would rebel. Therefore it is necessary to set limits even upon
         limitation.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -12634,7 +12630,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Not going out of the door and the courtyard
@@ -12661,7 +12657,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Not going out of the gate and the courtyard
@@ -12681,7 +12677,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He who knows no limitation
@@ -12702,7 +12698,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Contented limitation. Success.
@@ -12720,7 +12716,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Sweet limitation brings good fortune.
@@ -12741,7 +12737,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Galling limitation.
@@ -12792,7 +12788,7 @@ export const TEXT: { [k: number]: HexText } = {
         speculations can be linked with these ideas.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -12830,7 +12826,7 @@ export const TEXT: { [k: number]: HexText } = {
         into hate. Only when the bond is based on what is right, on
         steadfastness, will it remain so firm that it triumphs over everything.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -12860,7 +12856,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Being prepared brings good fortune.
@@ -12882,7 +12878,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;A crane calling in the shade.
@@ -12929,7 +12925,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He finds a comrade.
@@ -12953,7 +12949,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The moon nearly at the full.
@@ -12978,7 +12974,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He possesses truth, which links together.
@@ -12998,7 +12994,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Cockcrow penetrating to heaven.
@@ -13035,7 +13031,7 @@ export const TEXT: { [k: number]: HexText } = {
         inadequate, extraordinary prudence is necessary.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -13076,7 +13072,7 @@ export const TEXT: { [k: number]: HexText } = {
         the sun; it should descend to the earth, where its nest is. In this way
         it gives the message conveyed by the hexagram.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -13116,7 +13112,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The bird meets with misfortune through flying.
@@ -13132,7 +13128,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;She passes by her ancestor
@@ -13170,7 +13166,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;If one is not extremely careful,
@@ -13195,7 +13191,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;No blame. He meets him without passing by.
@@ -13216,7 +13212,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Dense clouds,
@@ -13243,7 +13239,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He passes him by, not meeting him.
@@ -13287,7 +13283,7 @@ export const TEXT: { [k: number]: HexText } = {
         which necessitate the utmost caution.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -13315,7 +13311,7 @@ export const TEXT: { [k: number]: HexText } = {
         inescapable law. He who understands it is in position to avoid its
         effects by dint of unremitting perseverance and caution.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -13349,7 +13345,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He brakes his wheels.
@@ -13374,7 +13370,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The woman loses the curtain of her carriage.
@@ -13407,7 +13403,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The Illustrious Ancestor
@@ -13442,7 +13438,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The finest clothes turn to rags.
@@ -13463,7 +13459,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;The neighbor in the east who slaughters an ox
@@ -13489,7 +13485,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He gets his head in the water. Danger.
@@ -13522,7 +13518,7 @@ export const TEXT: { [k: number]: HexText } = {
         outlook the Book of Changes comes to its close.
         <br />
         <br />
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;THE JUDGMENT
           <br />
           <br />
@@ -13551,7 +13547,7 @@ export const TEXT: { [k: number]: HexText } = {
         in times “before completion,” deliberation and caution are the
         prerequisites of success.
         <br />
-        <p>
+        <p className="smallCaps">
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;THE IMAGE
           <br />
@@ -13583,7 +13579,7 @@ export const TEXT: { [k: number]: HexText } = {
     ),
     lines: [
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six at the beginning means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He gets his tail in the water.
@@ -13601,7 +13597,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the second place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;He brakes his wheels.
@@ -13623,7 +13619,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the third place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Before completion, attack brings misfortune.
@@ -13642,7 +13638,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine in the fourth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
@@ -13666,7 +13662,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Six in the fifth place means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;Perseverance brings good fortune.
@@ -13692,7 +13688,7 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
       </>,
       <>
-        <p>
+        <p className="smallCaps">
           &nbsp;&nbsp;&nbsp;&nbsp;Nine at the top means:
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;There is drinking of wine
