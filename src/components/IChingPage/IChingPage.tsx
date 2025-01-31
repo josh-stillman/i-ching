@@ -75,20 +75,17 @@ const IChingPage = () => {
         {hexagram.text}
         {changingHex ? (
           <>
-            <br />
-            <br />
             <p className={styles.linesHeader}>Changing Lines</p> {/* <ul> */}
             {hexagram.changingLinesText.map((line, i) => (
               // eslint-disable-next-line react/jsx-key
               <p>
                 {line}
-                <br />
                 {i !== hexagram.changingLinesText.length - 1 && (
                   <>
                     <hr style={{ margin: '0 auto', width: '25%' }} />
-                    <br />
                   </>
                 )}
+                <br />
               </p>
             ))}
           </>
