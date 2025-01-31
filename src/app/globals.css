@@ -109,6 +109,10 @@ a {
 
 .smallCaps {
   font-variant: small-caps;
+
+  @media (width >= 500px) {
+    margin-left: 1.75rem;
+  }
 }
 
 @keyframes rough-animated {
