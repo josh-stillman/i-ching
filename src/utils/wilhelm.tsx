@@ -149,8 +149,6 @@ export const TEXT: { [k: number]: HexText } = {
         way, by consciously casting out all that is inferior and degrading. Thus
         he attains that tirelessness which depends upon consciously limiting the
         fields of his activity.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -181,8 +179,6 @@ export const TEXT: { [k: number]: HexText } = {
         lest strong will should not prevail; the main thing is not to expend
         one’s powers prematurely in an attempt to obtain by force something for
         which the time is not yet ripe.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -202,8 +198,6 @@ export const TEXT: { [k: number]: HexText } = {
         reliability, and the influence he exerts on his environment without
         conscious effort. Such a man is destined to gain great influence and to
         set the world in order. Therefore it is favorable to see him.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -228,8 +222,6 @@ export const TEXT: { [k: number]: HexText } = {
         temptations. He who remains in touch with the time that is dawning, and
         with its demands, is prudent enough to avoid all pitfalls, and remains
         blameless.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -250,8 +242,6 @@ export const TEXT: { [k: number]: HexText } = {
         choice according to the inner law of his being. If the individual acts
         consistently and is true to himself, he will find the way that is
         appropriate for him. This way is right for him and without blame.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -276,8 +266,6 @@ export const TEXT: { [k: number]: HexText } = {
         arises, and all creatures follow him with their eyes. What is born of
         heaven feels related to what is above. What is born of earth feels
         related to what is below. Each follows its kind.”
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -308,7 +296,6 @@ export const TEXT: { [k: number]: HexText } = {
         the Receptive unite. Strength is indicated by the flight of dragons,
         mildness by the fact that their heads are hidden. This means that
         mildness in action joined to strength of decision brings good fortune.
-        <br />
       </>,
     ],
   },
@@ -432,8 +419,6 @@ export const TEXT: { [k: number]: HexText } = {
         same way the superior man gives to his character breadth, purity, and
         sustaining power, so that he is able both to support and to bear with
         people and things.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -458,8 +443,6 @@ export const TEXT: { [k: number]: HexText } = {
         have appeared, they go on increasing until final dissolution comes. But
         in life precautions can be taken by heeding the first signs of decay and
         checking them in time.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -494,8 +477,6 @@ export const TEXT: { [k: number]: HexText } = {
         right for all without artifice or special intentions. Man achieves the
         height of wisdom when all that he does is as self-evident as what nature
         does.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -518,8 +499,6 @@ export const TEXT: { [k: number]: HexText } = {
         not seek to have credited to himself things that stand accomplished, but
         hopes to release active forces; that is, he completes his works in such
         a manner that they may bear fruit for the future.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -536,8 +515,6 @@ export const TEXT: { [k: number]: HexText } = {
         is complaisant. Therefore a man ought to maintain reserve, be it in
         solitude or in the turmoil of the world, for there too he can hide
         himself so well that no one knows him.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -554,8 +531,6 @@ export const TEXT: { [k: number]: HexText } = {
         depends on the utmost discretion. A man’s genuineness and refinement
         should not reveal themselves directly; they should express themselves
         only indirectly as an effect from within.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -589,7 +564,6 @@ export const TEXT: { [k: number]: HexText } = {
         into the hexagram of THE CREATIVE. By holding fast to what is right, it
         gains the power of enduring. There is indeed no advance, but neither is
         there retrogression.
-        <br />
       </>,
     ],
   },
@@ -660,8 +634,6 @@ export const TEXT: { [k: number]: HexText } = {
         silk threads from a knotted tangle and binds them into skeins. In order
         to find one’s place in the infinity of being, one must be able both to
         separate and to unite.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -684,8 +656,6 @@ export const TEXT: { [k: number]: HexText } = {
         assistants, but he can find them only if he avoids arrogance and
         associates with his fellows in a spirit of humility. Only then will he
         attract those with whose help he can combat the difficulties.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -726,8 +696,6 @@ export const TEXT: { [k: number]: HexText } = {
         help; otherwise our freedom of decision is impaired. If we bide our
         time, things will quiet down again, and we shall attain what we have
         hoped for.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -752,8 +720,6 @@ export const TEXT: { [k: number]: HexText } = {
         disgrace. Therefore the superior man, discerning the seeds of coming
         events, prefers to renounce a wish rather than to provoke failure and
         humiliation by trying to force its fulfillment.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -776,8 +742,6 @@ export const TEXT: { [k: number]: HexText } = {
         a certain degree of self-abnegation, is a sign of inner clarity. To
         accept help in a difficult situation is not a disgrace. If the right
         helper is found, all goes well.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -799,8 +763,6 @@ export const TEXT: { [k: number]: HexText } = {
         when general confidence already prevails. It is only through faithful
         and conscientious work, unobtrusively carried on, that the situation
         gradually clears up and the hindrance disappears.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -817,7 +779,6 @@ export const TEXT: { [k: number]: HexText } = {
         up the struggle. Such resignation is the saddest of all things.
         Therefore K'ung Fu-tzu says of this line: “Bloody tears flow: one should
         not persist in this.”
-        <br />
       </>,
     ],
   },
@@ -1022,7 +983,6 @@ export const TEXT: { [k: number]: HexText } = {
         transgressions. Governmental interference should always be merely
         preventive and should have as its sole aim the establishment of public
         security and peace.
-        <br />
       </>,
     ],
   },
@@ -1096,8 +1056,6 @@ export const TEXT: { [k: number]: HexText } = {
         future by interfering in things before the time is ripe. We should
         quietly fortify the body with food and drink and the mind with gladness
         and good cheer. Fate comes when it will, and thus we are ready.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -1119,7 +1077,6 @@ export const TEXT: { [k: number]: HexText } = {
         Only in this way does one guard against a premature waste of strength,
         keep free of blame and error that would become a source of weakness
         later on.
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1138,8 +1095,6 @@ export const TEXT: { [k: number]: HexText } = {
         easily develop in such times, and we lay the blame on one another. He
         who stays calm will succeed in making things go well in the end. Slander
         will be silenced if we do not gratify it with injured retorts.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1158,8 +1113,6 @@ export const TEXT: { [k: number]: HexText } = {
         enemies from without, who naturally take advantage of it. Caution and a
         sense of the seriousness of the situation are all that can keep one from
         injury.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1177,8 +1130,6 @@ export const TEXT: { [k: number]: HexText } = {
         stand fast and let fate take its course. This composure, which keeps us
         from aggravating the trouble by anything we might do, is the only way of
         getting out of the dangerous pit.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1204,8 +1155,6 @@ export const TEXT: { [k: number]: HexText } = {
         Chien, OBSTRUCTION (39), in the fact that in this instance, while
         waiting, we are sure of our cause and therefore do not lose the serenity
         born of inner cheerfulness.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1229,7 +1178,6 @@ export const TEXT: { [k: number]: HexText } = {
         the new turn with respect. Thus he ultimately escapes the danger, and
         all goes well. Even happy turns of fortune often come in a form that at
         first seems strange to us.
-        <br />
       </>,
     ],
   },
@@ -1311,8 +1259,6 @@ export const TEXT: { [k: number]: HexText } = {
         and duties are exactly defined, or if, in a group, the spiritual trends
         of the individuals harmonize, the cause of conflict is removed in
         advance.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -1332,8 +1278,6 @@ export const TEXT: { [k: number]: HexText } = {
         drop the issue. Especially when the adversary is stronger, it is not
         advisable to risk pushing the conflict to a decision. It may come to a
         slight dispute, but in the end all goes well.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1357,8 +1301,6 @@ export const TEXT: { [k: number]: HexText } = {
         unequal conflict, he would be drawing down disaster upon himself. In
         such a case a wise and conciliatory attitude benefits the whole
         community, which will then not be drawn into the conflict.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1382,8 +1324,6 @@ export const TEXT: { [k: number]: HexText } = {
         be lost. If one enters the service of a superior, one can avoid conflict
         only by not seeking works for the sake of prestige. It is enough if the
         work is done: let the honor go to the other.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1409,8 +1349,6 @@ export const TEXT: { [k: number]: HexText } = {
         side, he cannot justify the conflict to his conscience. Therefore he
         turns back and accepts his fate. He changes his mind and finds lasting
         peace in being at one with eternal law. This brings good fortune.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1426,8 +1364,6 @@ export const TEXT: { [k: number]: HexText } = {
         strong enough to lend weight to the right side. A dispute can be turned
         over to him with confidence. If one is in the right, one attains great
         good fortune.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1445,7 +1381,6 @@ export const TEXT: { [k: number]: HexText } = {
         has triumphed. He is granted a decoration, but his happiness does not
         last. He is attacked again and again, and the result is conflict without
         end.
-        <br />
       </>,
     ],
   },
@@ -1529,8 +1464,6 @@ export const TEXT: { [k: number]: HexText } = {
         this invisible bond between government and people, so that the people
         are sheltered by their government as ground water is sheltered by the
         earth, is it possible to wage a victorious war.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -1548,8 +1481,6 @@ export const TEXT: { [k: number]: HexText } = {
         and valid cause must exist, and the obedience and coordination of the
         troops must be well organized, otherwise the result is inevitably
         failure.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1569,8 +1500,6 @@ export const TEXT: { [k: number]: HexText } = {
         The decorations he receives are justified, because there is no question
         of personal preferment here: the whole army, whose center he is, is
         honored in his person.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1597,8 +1526,6 @@ export const TEXT: { [k: number]: HexText } = {
         may have been misread as shih, which means “corpse.” Allowing for this
         error, the meaning would be that if the multitude assumes leadership of
         the army (rides in the wagon), misfortune will ensue.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1613,8 +1540,6 @@ export const TEXT: { [k: number]: HexText } = {
         will save the army from defeat and disintegration. It is by no means a
         sign of courage or strength to insist upon engaging in a hopeless
         struggle regardless of circumstances.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1643,8 +1568,6 @@ export const TEXT: { [k: number]: HexText } = {
         a matter of waging war, not of permitting the mob to slaughter all who
         fall into their hands; if they do, defeat will be the result, and
         despite all perseverance there is danger of misfortune.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1663,7 +1586,6 @@ export const TEXT: { [k: number]: HexText } = {
         inferior people should not come into power. If they have helped, let
         them be paid off with money, but they should not be awarded lands or the
         privileges of rulers, lest power be abused.
-        <br />
       </>,
     ],
   },
@@ -1756,8 +1678,6 @@ export const TEXT: { [k: number]: HexText } = {
         power of a social organization must see to it that every member finds
         that his true interest lies in holding together with it, as was the case
         in the paternal relationship between king and vassals in ancient China.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -1783,8 +1703,6 @@ export const TEXT: { [k: number]: HexText } = {
         not in clever words but through the strength of what lies within the
         speaker. This strength is so great that it has power to attract good
         fortune to itself from without.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1802,8 +1720,6 @@ export const TEXT: { [k: number]: HexText } = {
         with others as if he were an obsequious office hunter, he throws himself
         away. He does not follow the path of the superior man, who never loses
         his dignity.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1819,8 +1735,6 @@ export const TEXT: { [k: number]: HexText } = {
         sociability without intimacy is the only right attitude toward such
         people, because otherwise we should not be free to enter into
         relationship with people of our own kind later on.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1836,8 +1750,6 @@ export const TEXT: { [k: number]: HexText } = {
         established. Then we may, and indeed we should, show our attachment
         openly. But we must remain constant and not allow ourselves to be led
         astray.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1876,8 +1788,6 @@ export const TEXT: { [k: number]: HexText } = {
         woo favor from people. If a man cultivates within himself the purity and
         the strength that are necessary for one who is the center of a
         fellowship, those who are meant for him come of their own accord.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1893,7 +1803,6 @@ export const TEXT: { [k: number]: HexText } = {
         hope of a right ending. If we have missed the right moment for union and
         go on hesitating to give complete and full devotion, we shall regret the
         error when it is too late.
-        <br />
       </>,
     ],
   },
@@ -1958,8 +1867,6 @@ export const TEXT: { [k: number]: HexText } = {
         lasting effects. So also an individual, in times when he can produce no
         great effect in the outer world, can do nothing except refine the
         expression of his nature in small ways.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -1980,8 +1887,6 @@ export const TEXT: { [k: number]: HexText } = {
         situation, where he is free to advance or to retreat. In the nature of
         things this will bring good fortune, for it is wise and reasonable not
         to try to obtain anything by force.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -1999,8 +1904,6 @@ export const TEXT: { [k: number]: HexText } = {
         reasonable and resolute man will not expose himself to a personal
         rebuff, but will retreat with others of like mind. This brings good
         fortune, because he does not needlessly jeopardize himself.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2024,8 +1927,6 @@ export const TEXT: { [k: number]: HexText } = {
         consequence even the strong man cannot so use his power as to exert the
         right influence on those around him. He experiences a rebuff where he
         expected an easy victory, and he thus compromises his dignity.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2043,8 +1944,6 @@ export const TEXT: { [k: number]: HexText } = {
         bloodshed may arise. Nonetheless, the power of disinterested truth is
         greater than all these obstacles. It carries such weight that the end is
         achieved, and all danger of bloodshed and all fear disappear.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2062,8 +1961,6 @@ export const TEXT: { [k: number]: HexText } = {
         of mutual reinforcement leads to a true wealth that is all the more
         apparent because it is not selfishly hoarded but is shared with friends.
         Pleasure shared is pleasure doubled.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2095,7 +1992,6 @@ export const TEXT: { [k: number]: HexText } = {
         circumstances one must be content with what has been achieved. To
         advance any further, before the appropriate time has come, would lead to
         misfortune.
-        <br />
       </>,
     ],
   },
@@ -2162,8 +2058,6 @@ export const TEXT: { [k: number]: HexText } = {
         external differences in rank correspond with differences in inner worth,
         and if inner worth forms the criterion of external rank, people
         acquiesce and order reigns in society.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -2193,8 +2087,6 @@ export const TEXT: { [k: number]: HexText } = {
         the other hand, a man who is good at his work is content to behave
         simply. He wishes to make progress in order to accomplish something.
         When he attains his goal, he does something worthwhile, and all is well.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2213,8 +2105,6 @@ export const TEXT: { [k: number]: HexText } = {
         not dazzled by enticing goals. He is true to himself and travels through
         life unassailed, on a level road. Since he is content and does not
         challenge fate, he remains free of entanglements.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2241,8 +2131,6 @@ export const TEXT: { [k: number]: HexText } = {
         something beyond his strength. This reckless way of plunging ahead,
         regardless of the adequacy of one’s powers, can be justified only in the
         case of a warrior battling for his prince.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2262,8 +2150,6 @@ export const TEXT: { [k: number]: HexText } = {
         preceding line, which is weak within but outwardly presses forward. Here
         one is sure of ultimate success, which consists in achieving one’s
         purpose, that is, in overcoming danger by going forward.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2280,8 +2166,6 @@ export const TEXT: { [k: number]: HexText } = {
         conscious of the danger connected with such resoluteness, especially if
         it is to be persevered in. Only awareness of the danger makes success
         possible.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2298,7 +2182,6 @@ export const TEXT: { [k: number]: HexText } = {
         are good, then good fortune is certain. No one knows himself. It is only
         by the consequences of his actions, by the fruit of his labors, that a
         man can judge what he is to expect.
-        <br />
       </>,
     ],
   },
@@ -2378,8 +2261,6 @@ export const TEXT: { [k: number]: HexText } = {
         products to the right time and the right place, which increases the
         natural yield. This controlling and furthering activity of man in his
         relation to nature is the work on nature that rewards him.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -2401,8 +2282,6 @@ export const TEXT: { [k: number]: HexText } = {
         their roots. In such times, when it is possible to extend influence
         widely, the mind of an able man is set upon going out into life and
         accomplishing something.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2434,8 +2313,6 @@ export const TEXT: { [k: number]: HexText } = {
         four ways in which one can overcome the hidden danger of a gradual
         slackening that always lurks in any time of peace. And that is how one
         finds the middle way for action.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2464,8 +2341,6 @@ export const TEXT: { [k: number]: HexText } = {
         long as a man’s inner nature remains stronger and richer than anything
         offered by external fortune, as long as he remains inwardly superior to
         fate, fortune will not desert him.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2484,8 +2359,6 @@ export const TEXT: { [k: number]: HexText } = {
         is not due to the force of circumstances but corresponds with their
         inmost sentiment. The approach is made quite spontaneously, because it
         is based on inner conviction.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2504,8 +2377,6 @@ export const TEXT: { [k: number]: HexText } = {
         princesses, although higher in rank than their husbands, had to obey
         them like all other wives. Here too we are shown a truly modest union of
         high and low that brings happiness and blessings.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2529,7 +2400,6 @@ export const TEXT: { [k: number]: HexText } = {
         intimate circle. Should we persevere in trying to resist the evil in the
         usual way, our collapse would only be more complete, and humiliation
         would be the result.
-        <br />
       </>,
     ],
   },
@@ -2591,8 +2461,6 @@ export const TEXT: { [k: number]: HexText } = {
         dazzling offers to take part in public activities. This would only
         expose him to danger, since he cannot assent to the meanness of the
         others. He therefore hides his worth and withdraws into seclusion.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -2617,8 +2485,6 @@ export const TEXT: { [k: number]: HexText } = {
         our influence count, it is only by retirement that we spare ourselves
         humiliation. Success in a higher sense can be ours, because we know how
         to safeguard the value of our personalities.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2638,8 +2504,6 @@ export const TEXT: { [k: number]: HexText } = {
         the consequences of the standstill. He does not mingle with the crowd of
         the inferior; that is not his place. By his willingness to suffer
         personally he insures the success of his fundamental principles.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2653,8 +2517,6 @@ export const TEXT: { [k: number]: HexText } = {
         to the responsibility they have taken upon themselves. In their hearts
         they begin to be ashamed, although at first they do not show it
         outwardly. This marks a turn for the better.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2675,8 +2537,6 @@ export const TEXT: { [k: number]: HexText } = {
         in failure. But the man who is truly called to the task is favored by
         the conditions of the time, and all those of like mind will share in his
         blessing.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2706,8 +2566,6 @@ export const TEXT: { [k: number]: HexText } = {
         in his security, nor ruin when he is well established, nor confusion
         when his affairs are in order. In this way he gains personal safety and
         is able to protect the empire.”
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2727,7 +2585,6 @@ export const TEXT: { [k: number]: HexText } = {
         not change back automatically to a condition of peace and prosperity;
         effort must be put forth in order to end it. This shows the creative
         attitude that man must take if the world is to be put in order.
-        <br />
       </>,
     ],
   },
@@ -2795,8 +2652,6 @@ export const TEXT: { [k: number]: HexText } = {
         not be a mere mingling of individuals or of things—that would be chaos,
         not fellowship. If fellowship is to lead to order, there must be
         organization within diversity.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -2815,8 +2670,6 @@ export const TEXT: { [k: number]: HexText } = {
         and one makes no mistakes. The basic principles of any kind of union
         must be equally accessible to all concerned. Secret agreements bring
         misfortune.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2833,8 +2686,6 @@ export const TEXT: { [k: number]: HexText } = {
         and, instead of welcoming all men, must condemn one group in order to
         unite the others, originate from low motives and therefore lead in the
         course of time to humiliation.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2857,8 +2708,6 @@ export const TEXT: { [k: number]: HexText } = {
         suspecting the same wiles in his opponent and trying to ferret them out.
         The result is that one departs further and further from true fellowship.
         The longer this goes on, the more alienated one becomes.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2875,8 +2724,6 @@ export const TEXT: { [k: number]: HexText } = {
         another. But the difficulties are too great. We get into straits, and
         this brings us to our senses. We cannot fight, and therein lies our good
         fortune.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2897,8 +2744,6 @@ export const TEXT: { [k: number]: HexText } = {
         costs them a severe struggle to overcome the obstacles, they will
         succeed. When they come together their sadness will change to joy. K'ung
         Fu-tzu says of this:
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -2934,7 +2779,6 @@ export const TEXT: { [k: number]: HexText } = {
         the entrance to the town. At this stage, the ultimate goal of the union
         of mankind has not yet been attained, but we need not reproach
         ourselves. We join the community without separate aims of our own.
-        <br />
       </>,
     ],
   },
@@ -2987,8 +2831,6 @@ export const TEXT: { [k: number]: HexText } = {
         light of day. Man must combat and curb the evil, and must favor and
         promote the good. Only in this way does he fulfill the benevolent will
         of God, who desires only good and not evil.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -3012,8 +2854,6 @@ export const TEXT: { [k: number]: HexText } = {
         only by remaining conscious of these difficulties that one can keep
         inwardly free of possible arrogance and wastefulness, and thus in
         principle overcome all cause for blame.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3035,8 +2875,6 @@ export const TEXT: { [k: number]: HexText } = {
         helpers who give their support and are equal to their task. One can load
         great responsibility upon such persons, and this is necessary in
         important undertakings.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3055,8 +2893,6 @@ export const TEXT: { [k: number]: HexText } = {
         endure. A petty man is incapable of this. He is harmed by great
         possessions, because instead of sacrificing them, he would keep them for
         himself.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3074,8 +2910,6 @@ export const TEXT: { [k: number]: HexText } = {
         neighbors. It is a dangerous position. He must look neither to the right
         nor to the left, and must shun envy and the temptation to vie with
         others. In this way he remains free of mistakes.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3093,8 +2927,6 @@ export const TEXT: { [k: number]: HexText } = {
         time of POSSESSION IN GREAT MEASURE. For insolence might begin to
         spread. Insolence must be kept in bounds by dignity; then good fortune
         is assured.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3119,7 +2951,6 @@ export const TEXT: { [k: number]: HexText } = {
         the man who is true. He who walks in truth and is devoted in his
         thinking, and furthermore reveres the worthy, is blessed by heaven. He
         has good fortune, and there is nothing that would not further.”
-        <br />
       </>,
     ],
   },
@@ -3195,8 +3026,6 @@ export const TEXT: { [k: number]: HexText } = {
         modesty. The superior man does the same thing when he establishes order
         in the world; he equalizes the extremes that are the source of social
         discontent and thereby creates just and equable conditions.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -3219,8 +3048,6 @@ export const TEXT: { [k: number]: HexText } = {
         with modesty fits a man to accomplish even difficult undertakings: he
         imposes no demands or stipulations but settles matters easily and
         quickly. Where no claims are put forward, no resistances arise.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3236,8 +3063,6 @@ export const TEXT: { [k: number]: HexText } = {
         attitude of mind is so modest that this expresses itself in his outward
         behavior, it is a source of good fortune to him. For the possibility of
         exerting a lasting influence arises of itself, and no one can interfere.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3257,8 +3082,6 @@ export const TEXT: { [k: number]: HexText } = {
         difficulties will arise. If, on the contrary, he remains modest despite
         his merit, he makes himself beloved and wins the support necessary for
         carrying his work through to the end.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3280,8 +3103,6 @@ export const TEXT: { [k: number]: HexText } = {
         giving its equivalent in work, and bear empty titles. This is the
         opposite of what is meant here by modesty. In such a position, modesty
         is shown by interest in one’s work.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3302,8 +3123,6 @@ export const TEXT: { [k: number]: HexText } = {
         of the people around him. The measures taken should be purely objective
         and in no way personally offensive. Thus modesty manifests itself even
         in severity.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3326,7 +3145,6 @@ export const TEXT: { [k: number]: HexText } = {
         ego and one’s immediate circle. Only through having the courage to
         marshal one’s armies against oneself, will something forceful really be
         achieved.
-        <br />
       </>,
     ],
   },
@@ -3425,8 +3243,6 @@ export const TEXT: { [k: number]: HexText } = {
         said of the great sacrifice at which these rites were performed: “He who
         could wholly comprehend this sacrifice could rule the world as though it
         were spinning on his hand.”
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -3444,8 +3260,6 @@ export const TEXT: { [k: number]: HexText } = {
         he boasts enthusiastically. This arrogance inevitably invites
         misfortune. Enthusiasm should never be an egotistic emotion; it is
         justified only when it is a general feeling that unites one with others.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3478,8 +3292,6 @@ export const TEXT: { [k: number]: HexText } = {
         <br />
         <br />
         Firm as a rock, what need of a whole day?
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3505,8 +3317,6 @@ export const TEXT: { [k: number]: HexText } = {
         If a man hesitates too long, this also will bring remorse. The right
         moment for approach must be seized: only then will he do the right
         thing.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3530,8 +3340,6 @@ export const TEXT: { [k: number]: HexText } = {
         their enthusiastic cooperation and attains success. Just as a clasp
         draws the hair together and holds it, so he draws men together by the
         support he gives them.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3545,8 +3353,6 @@ export const TEXT: { [k: number]: HexText } = {
         prevents him from breathing freely. However, this pressure has its
         advantage—it prevents him from consuming his powers in empty enthusiasm.
         Thus constant pressure can actually serve to keep one alive.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3564,7 +3370,6 @@ export const TEXT: { [k: number]: HexText } = {
         if this delusion has run its course, and he is still capable of
         changing, he is freed of error. A sober awakening from false enthusiasm
         is quite possible and very favorable.
-        <br />
       </>,
     ],
   },
@@ -3630,8 +3435,6 @@ export const TEXT: { [k: number]: HexText } = {
         active all day, allows himself rest and recuperation at night. No
         situation can become favorable until one is able to adapt to it and does
         not wear himself out with mistaken resistance.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -3659,8 +3462,6 @@ export const TEXT: { [k: number]: HexText } = {
         people who share our views or with members of our own party; instead, we
         must go out and mingle freely with all sorts of people, friends or foes.
         That is the only way to achieve something.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3677,8 +3478,6 @@ export const TEXT: { [k: number]: HexText } = {
         cannot have both at once. If he throws himself away on unworthy friends
         he loses connection with people of intellectual power who could further
         him in the good.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3700,8 +3499,6 @@ export const TEXT: { [k: number]: HexText } = {
         will find what he seeks and needs for the development of his
         personality. The important thing is to remain firm. He must know what he
         wants and not be led astray by momentary inclinations.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3726,8 +3523,6 @@ export const TEXT: { [k: number]: HexText } = {
         completely free from his ego, and intent, by conviction, upon what is
         right and essential, does he acquire the clarity that enables him to see
         through such people, and become free of blame.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3740,8 +3535,6 @@ export const TEXT: { [k: number]: HexText } = {
         Every man must have something he follows—something that serves him as a
         lodestar. He who follows with conviction the beautiful and the good may
         feel himself strengthened by this saying.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3768,7 +3561,6 @@ export const TEXT: { [k: number]: HexText } = {
         place in the royal family’s temple of ancestors on the Western Mountain.
         In this way they were regarded as sharing in the destiny of the ruling
         family.
-        <br />
       </>,
     ],
   },
@@ -3844,8 +3636,6 @@ export const TEXT: { [k: number]: HexText } = {
         everything, and must then strengthen and tranquillize the character of
         the people, as the mountain gives tranquility and nourishment to all
         that grows in its vicinity.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -3869,8 +3659,6 @@ export const TEXT: { [k: number]: HexText } = {
         Then no blame attaches to the father. However, one must not overlook the
         danger or take the matter too lightly. Only if one is conscious of the
         danger connected with every reform will everything go well in the end.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3887,8 +3675,6 @@ export const TEXT: { [k: number]: HexText } = {
         setting things right in such a case, a certain gentle consideration is
         called for. In order not to wound, one should not attempt to proceed too
         drastically.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3905,8 +3691,6 @@ export const TEXT: { [k: number]: HexText } = {
         annoyances will surely develop. But too much energy is better than too
         little. Therefore, although he may at times have some slight cause for
         regret, he remains free of any serious blame.
-        <br />
-        <br />
       </>,
       <>
         Six in the fourth place means:
@@ -3920,8 +3704,6 @@ export const TEXT: { [k: number]: HexText } = {
         decay that has its roots in the past and is just beginning to manifest
         itself. It is allowed to run its course. If this continues, humiliation
         will result.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3937,8 +3719,6 @@ export const TEXT: { [k: number]: HexText } = {
         former times. He lacks the power to ward it off alone, but with able
         helpers he can at least bring about a thorough reform, if he cannot
         create a new beginning, and this also is praiseworthy.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -3958,7 +3738,6 @@ export const TEXT: { [k: number]: HexText } = {
         justified only when we strive to realize in ourselves the higher aims of
         mankind. For although the sage remains distant from the turmoil of daily
         life, he creates incomparable human values for the future.
-        <br />
       </>,
     ],
   },
@@ -4031,8 +3810,6 @@ export const TEXT: { [k: number]: HexText } = {
         earth is boundlessly wide, sustaining and caring for all creatures on
         it, so the sage sustains and cares for all people and excludes no part
         of humanity.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -4051,8 +3828,6 @@ export const TEXT: { [k: number]: HexText } = {
         upward trend, but we must not let ourselves be carried away by the
         current of the time; we must adhere perseveringly to what is right. This
         brings good fortune.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4073,8 +3848,6 @@ export const TEXT: { [k: number]: HexText } = {
         upon every rise, but need not be confused by this universal law of fate.
         Everything serves to further. Therefore he will travel the paths of life
         swiftly, honestly, and valiantly.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4096,8 +3869,6 @@ export const TEXT: { [k: number]: HexText } = {
         other people. This would inevitably be harmful. But there is possibility
         of a change of mood. If he regrets his mistaken attitude and feels the
         responsibility of an influential position, he frees himself of faults.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4115,8 +3886,6 @@ export const TEXT: { [k: number]: HexText } = {
         open-minded approach of a person of high rank to a man of ability whom
         he draws into his own circle, regardless of class prejudice. This is
         very favorable.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4136,8 +3905,6 @@ export const TEXT: { [k: number]: HexText } = {
         allowing those chosen to have a free hand without interference from him.
         For only through such self-restraint will he find the experts needed to
         satisfy all of his requirements.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4154,7 +3921,6 @@ export const TEXT: { [k: number]: HexText } = {
         once more to the here and now and to approach other men. This means
         great good fortune for the men whom he teaches and helps. And for him
         this greathearted humbling of himself is blameless.
-        <br />
       </>,
     ],
   },
@@ -4246,8 +4012,6 @@ export const TEXT: { [k: number]: HexText } = {
         he will impress the people so profoundly, by his mere existence and by
         the impact of his personality, that they will be swayed by him as the
         grass by the wind.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -4270,8 +4034,6 @@ export const TEXT: { [k: number]: HexText } = {
         or not. But for a superior man it is a disgrace. He must not content
         himself with a shallow, thoughtless view of prevailing forces; he must
         contemplate them as a connected whole and try to understand them.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4290,8 +4052,6 @@ export const TEXT: { [k: number]: HexText } = {
         is not necessary for her to be conversant with the affairs of the world.
         But for a man who must take active part in public life, such a narrow,
         egotistic way of contemplating things is of course harmful.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4315,8 +4075,6 @@ export const TEXT: { [k: number]: HexText } = {
         rather, it means concern about the effects one creates. It is only the
         effects our lives produce that give us the right to judge whether what
         we have done means progress or regression.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4333,8 +4091,6 @@ export const TEXT: { [k: number]: HexText } = {
         in which he can exert influence. He should be, so to speak, a guest—that
         is, he should be honored and allowed to act independently, and should
         not be used as a tool.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4352,8 +4108,6 @@ export const TEXT: { [k: number]: HexText } = {
         one produces. Only when these effects are good, and when one’s influence
         on others is good, will the contemplation of one’s own life bring the
         satisfaction of knowing oneself to be free of mistakes.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4371,7 +4125,6 @@ export const TEXT: { [k: number]: HexText } = {
         of the world. Liberated from his ego, he contemplates the laws of life
         and so realizes that knowing how to become free of blame is the highest
         good.
-        <br />
       </>,
     ],
   },
@@ -4446,8 +4199,6 @@ export const TEXT: { [k: number]: HexText } = {
         clarity in the penal codes and slackness in executing them. The only way
         to strengthen the law is to make it clear and to make penalties certain
         and swift.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -4467,8 +4218,6 @@ export const TEXT: { [k: number]: HexText } = {
         penalty is a mild one. Only the toes are put in the stocks. This
         prevents him from sinning further and thus he becomes free of blame. It
         is a warning to halt in time on the path of evil.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4488,8 +4237,6 @@ export const TEXT: { [k: number]: HexText } = {
         the nose in the course of the bite signifies that indignation blots out
         finer sensibility. However, there is no great harm in this, because the
         penalty as such is just.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4510,8 +4257,6 @@ export const TEXT: { [k: number]: HexText } = {
         the punisher arouses poisonous hatred against himself, and in this way
         is put in a somewhat humiliating position. But since punishment was
         required by the time, he remains free of blame.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4534,8 +4279,6 @@ export const TEXT: { [k: number]: HexText } = {
         necessary to be hard as metal and straight as an arrow to surmount the
         difficulties. If one knows these difficulties and remains persevering,
         he attains good fortune. The difficult task is achieved in the end.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4557,8 +4300,6 @@ export const TEXT: { [k: number]: HexText } = {
         color of the middle [the mean]. It is only by remaining conscious of the
         dangers growing out of the responsibility we have assumed that we can
         avoid making mistakes.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4576,7 +4317,6 @@ export const TEXT: { [k: number]: HexText } = {
         incorrigible. His punishment is the wooden cangue, and his ears
         disappear under it—that is to say, he is deaf to warnings. This
         obstinacy leads to misfortune.
-        <br />
       </>,
     ],
   },
@@ -4641,8 +4381,6 @@ export const TEXT: { [k: number]: HexText } = {
         and to throw light upon matters of lesser moment, but important
         questions cannot be decided in this way. They require greater
         earnestness.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -4659,8 +4397,6 @@ export const TEXT: { [k: number]: HexText } = {
         way—symbolized by the carriage—but a self-contained man scorns help
         gained in a dubious fashion. He thinks it more graceful to go on foot
         than to drive in a carriage under false pretenses.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4675,8 +4411,6 @@ export const TEXT: { [k: number]: HexText } = {
         attribute of content. The beard is a superfluous ornament. To devote
         care to it for its own sake, without regard for the inner content of
         which it is an ornament, would bespeak a certain vanity.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4693,8 +4427,6 @@ export const TEXT: { [k: number]: HexText } = {
         it can also swamp us. Hence the warning not to sink into convivial
         indolence but to remain constant in perseverance. Good fortune depends
         on this.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4718,8 +4450,6 @@ export const TEXT: { [k: number]: HexText } = {
         comforts that might have been obtained, yet one finds peace of mind in a
         true relationship with the friend who courts him. The winged horse is
         the symbol of the thoughts that transcend all limits of space and time.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4739,8 +4469,6 @@ export const TEXT: { [k: number]: HexText } = {
         as a friend. But the gifts he has to offer are poor and few, so that he
         feels ashamed. However, it is not the material gifts that count, but
         sincerity of feeling, and so all goes well in the end.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4754,7 +4482,6 @@ export const TEXT: { [k: number]: HexText } = {
         no longer conceals content but brings out its value to the full. Perfect
         grace consists not in exterior ornamentation of the substance, but in
         the simple fitness of its form.
-        <br />
       </>,
     ],
   },
@@ -4825,8 +4552,6 @@ export const TEXT: { [k: number]: HexText } = {
         should be generous and benevolent, like the earth that carries all. Then
         they will make their position as secure as a mountain is in its
         tranquility.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -4847,8 +4572,6 @@ export const TEXT: { [k: number]: HexText } = {
         man rests. Those followers of the ruler who remain loyal are destroyed
         by slander and intrigue. The situation bodes disaster, yet there is
         nothing to do but wait.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4869,8 +4592,6 @@ export const TEXT: { [k: number]: HexText } = {
         this isolation. One must adjust to the time and promptly avoid the
         danger. Stubborn perseverance in maintaining one’s standpoint would lead
         to downfall.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4885,8 +4606,6 @@ export const TEXT: { [k: number]: HexText } = {
         superior man, and through this he attains the stability to free himself
         from the way of the inferior people around him. This brings him into
         opposition to them of course, but that is not wrong.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4901,8 +4620,6 @@ export const TEXT: { [k: number]: HexText } = {
         Here the disaster affects not only the resting place but even the
         occupant. No warning or other comment is added. Misfortune has reached
         its peak: it can no longer be warded off.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4923,8 +4640,6 @@ export const TEXT: { [k: number]: HexText } = {
         as the lower element thus voluntarily places itself under the higher, it
         attains happiness and the higher also receives its due. Therefore all
         goes well.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -4949,7 +4664,6 @@ export const TEXT: { [k: number]: HexText } = {
         negation, cannot continue to exist on its own strength alone. The
         inferior man himself fares best when held under control by a superior
         man.
-        <br />
       </>,
     ],
   },
@@ -5041,8 +4755,6 @@ export const TEXT: { [k: number]: HexText } = {
         understanding after an estrangement: everything must be treated tenderly
         and with care at the beginning, so that the return may lead to a
         flowering.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -5063,8 +4775,6 @@ export const TEXT: { [k: number]: HexText } = {
         development of character; every faintly evil thought must be put aside
         immediately, before it goes too far and takes root in the mind. Then
         there is no cause for remorse, and all goes well.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5077,8 +4787,6 @@ export const TEXT: { [k: number]: HexText } = {
         Return always calls for a decision and is an act of self-mastery. It is
         made easier if a man is in good company. If he can bring himself to put
         aside pride and follow the example of good men, good fortune results.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5094,8 +4802,6 @@ export const TEXT: { [k: number]: HexText } = {
         of a better resolution. However, since this does not lead to habituation
         in evil, a general inclination to overcome the defect is not wholly
         excluded.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5112,8 +4818,6 @@ export const TEXT: { [k: number]: HexText } = {
         alone. Although nothing is said of reward and punishment, this return is
         certainly favorable, for such a resolve to choose the good brings its
         own reward.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5127,8 +4831,6 @@ export const TEXT: { [k: number]: HexText } = {
         trivial excuses, but should look within and examine himself. And if he
         has done something wrong he should make a noblehearted resolve to
         confess his fault. No one will regret having taken this road.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5155,7 +4857,6 @@ export const TEXT: { [k: number]: HexText } = {
         misfortune coming upon him from without results from this wrong
         attitude. What is pictured here is blind obstinacy and the judgment that
         is visited upon it.
-        <br />
       </>,
     ],
   },
@@ -5231,8 +4932,6 @@ export const TEXT: { [k: number]: HexText } = {
         spiritual wealth at their command, they take care of all forms of life
         and all forms of culture and do everything to further them, and at the
         proper time.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -5247,8 +4946,6 @@ export const TEXT: { [k: number]: HexText } = {
         The original impulses of the heart are always good, so that we may
         follow them confidently, assured of good fortune and achievement of our
         aims.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5265,8 +4962,6 @@ export const TEXT: { [k: number]: HexText } = {
         We should do every task for its own sake as time and place demand and
         not with an eye to the result. Then each task turns out well, and
         anything we undertake succeeds.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5285,8 +4980,6 @@ export const TEXT: { [k: number]: HexText } = {
         with him. His gain is the owner’s loss. In all transactions, no matter
         how innocent, we must accommodate ourselves to the demands of the time,
         otherwise unexpected misfortune overtakes us.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5301,8 +4994,6 @@ export const TEXT: { [k: number]: HexText } = {
         We cannot lose what really belongs to us, even if we throw it away.
         Therefore we need have no anxiety. All that need concern us is that we
         should remain true to our own natures and not listen to others.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5320,8 +5011,6 @@ export const TEXT: { [k: number]: HexText } = {
         originate in one’s own nature or have a foothold there, one should not
         resort to external means to eradicate it, but should quietly let nature
         take its course. Then improvement will come of itself.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5337,7 +5026,6 @@ export const TEXT: { [k: number]: HexText } = {
         the best thing to do is to wait quietly, without ulterior designs. If
         one acts thoughtlessly and tries to push ahead in opposition to fate,
         success will not be achieved.
-        <br />
       </>,
     ],
   },
@@ -5417,8 +5105,6 @@ export const TEXT: { [k: number]: HexText } = {
         strengthen and elevate their own characters. The way to study the past
         is not to confine oneself to mere knowledge of history but, through
         application of this knowledge, to give actuality to the past.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -5435,8 +5121,6 @@ export const TEXT: { [k: number]: HexText } = {
         force an advance, it would lead him into misfortune. Therefore it is
         better for him to compose himself and to wait until an outlet is offered
         for release of his stored-up energies.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5454,8 +5138,6 @@ export const TEXT: { [k: number]: HexText } = {
         struggle takes place. One submits and removes the axletrees from the
         wagon—in other words, contents himself with waiting. In this way energy
         accumulates for a vigorous advance later on.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5481,8 +5163,6 @@ export const TEXT: { [k: number]: HexText } = {
         him forward, and on the other in what will protect him against
         unforeseen attacks. It is good in such a pass to have a goal toward
         which to strive.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5499,8 +5179,6 @@ export const TEXT: { [k: number]: HexText } = {
         is fastened to its forehead, so that later when the horns appear they
         cannot do harm. A good way to restrain wild force is to forestall it. By
         so doing one achieves an easy and a great success.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5517,8 +5195,6 @@ export const TEXT: { [k: number]: HexText } = {
         nature is altered, the tusk is no longer a menace. Thus also where men
         are concerned, wild force should not be combated directly; instead, its
         roots should be eradicated.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5534,7 +5210,6 @@ export const TEXT: { [k: number]: HexText } = {
         forces its way out and achieves great success. This refers to a man who
         is honored by the ruler and whose principles now prevail and shape the
         world.
-        <br />
       </>,
     ],
   },
@@ -5613,8 +5288,6 @@ export const TEXT: { [k: number]: HexText } = {
         out of the mouth from exceeding proper measure, and keeps the food that
         goes into the mouth from exceeding its proper measure. Thus character is
         cultivated.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -5639,8 +5312,6 @@ export const TEXT: { [k: number]: HexText } = {
         and discontent at others who are outwardly in better circumstances. But
         such base envy only arouses derision and contempt in those others. This
         has bad results.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5664,8 +5335,6 @@ export const TEXT: { [k: number]: HexText } = {
         favor from those in higher place. This is unworthy, for he is deviating
         from his true nature. Kept up indefinitely, this course leads to
         misfortune.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5686,8 +5355,6 @@ export const TEXT: { [k: number]: HexText } = {
         pleasure for the satisfaction of the senses never brings one to the
         goal. One should never (ten years is a complete cycle of time) follow
         this path, for nothing good can come of it.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5714,8 +5381,6 @@ export const TEXT: { [k: number]: HexText } = {
         greed of a hungry tiger he is on the lookout for the right people. Since
         he is not working for himself but for the good of all, there is no wrong
         in such zeal.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5737,8 +5402,6 @@ export const TEXT: { [k: number]: HexText } = {
         and good fortune are his. But he must remain aware of his dependence. He
         must not put his own person forward nor attempt great labors, such as
         crossing the great water.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5758,7 +5421,6 @@ export const TEXT: { [k: number]: HexText } = {
         has good fortune and may confidently undertake even great and difficult
         labors, such as crossing the great water. These undertakings bring
         general happiness for him and for all others.
-        <br />
       </>,
     ],
   },
@@ -5832,8 +5494,6 @@ export const TEXT: { [k: number]: HexText } = {
         exceptional times: the symbol of the trigram Sun is the tree, which
         stands firm even though it stands alone, and the attribute of Tui is
         joyousness, which remains undaunted even if it must renounce the world.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -5853,8 +5513,6 @@ export const TEXT: { [k: number]: HexText } = {
         nothing will break. This caution, though it may seem exaggerated, is not
         a mistake. Exceptional enterprises cannot succeed unless utmost caution
         is observed in their beginnings and in the laying of their foundations.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5878,8 +5536,6 @@ export const TEXT: { [k: number]: HexText } = {
         From the point of view of politics, the meaning is that in exceptional
         times one does well to join with the lowly, for this affords a
         possibility of renewal.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5897,8 +5553,6 @@ export const TEXT: { [k: number]: HexText } = {
         this the burden grows, until the structure of things bends or breaks.
         Plunging willfully ahead in times of danger only hastens the
         catastrophe.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5914,8 +5568,6 @@ export const TEXT: { [k: number]: HexText } = {
         succeeds in becoming master of the situation. But if, instead of working
         for the rescue of the whole, he were to misuse his connections to obtain
         personal power and success, it would lead to humiliation.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5939,8 +5591,6 @@ export const TEXT: { [k: number]: HexText } = {
         we give up alliance with those below us and keep up only the
         relationships we have with people of higher rank, an unstable situation
         is created.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -5960,7 +5610,6 @@ export const TEXT: { [k: number]: HexText } = {
         misfortune. But one incurs no blame in giving up one’s life that the
         good and the right may prevail. There are things that are more important
         than life.
-        <br />
       </>,
     ],
   },
@@ -6044,8 +5693,6 @@ export const TEXT: { [k: number]: HexText } = {
         character rather than an accidental and isolated occurrence. So likewise
         in teaching others everything depends on consistency, for it is only
         through repetition that the pupil makes the material his own.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -6064,8 +5711,6 @@ export const TEXT: { [k: number]: HexText } = {
         By growing used to what is dangerous, a man can easily allow it to
         become part of him. He is familiar with it and grows used to evil. With
         this he has lost the right way, and misfortune is the natural result.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6084,8 +5729,6 @@ export const TEXT: { [k: number]: HexText } = {
         the time being a great success cannot be attained. A spring flows only
         sparingly at first, and tarries for some time before it makes its way
         into the open.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6106,8 +5749,6 @@ export const TEXT: { [k: number]: HexText } = {
         result of which we should only bog down deeper into the danger;
         disagreeable as it may be to remain in such a situation, we must wait
         until a way out shows itself.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6136,8 +5777,6 @@ export const TEXT: { [k: number]: HexText } = {
         light enters the room. If in difficult times we want to enlighten
         someone, we must begin with that which is in itself lucid and proceed
         quite simply from that point on.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6156,8 +5795,6 @@ export const TEXT: { [k: number]: HexText } = {
         likewise a man when in danger has only to proceed along the line of
         least resistance; thus he reaches the goal. Great labors cannot be
         accomplished in such times; it is enough to get out of the danger.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6176,7 +5813,6 @@ export const TEXT: { [k: number]: HexText } = {
         A man who in the extremity of danger has lost the right way and is
         irremediably entangled in his sins has no prospect of escape. He is like
         a criminal who sits shackled behind thorn-hedged prison walls.
-        <br />
       </>,
     ],
   },
@@ -6248,8 +5884,6 @@ export const TEXT: { [k: number]: HexText } = {
         in the human world. Through the clarity of his nature he causes the
         light to spread farther and farther and to penetrate the nature of man
         ever more deeply.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -6272,8 +5906,6 @@ export const TEXT: { [k: number]: HexText } = {
         terms with the innumerable impressions that pour in. It is precisely at
         the beginning that serious concentration is important, because the
         beginning holds the seed of all that is to follow.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6287,8 +5919,6 @@ export const TEXT: { [k: number]: HexText } = {
         of measure and mean. Yellow light is therefore a symbol of the highest
         culture and art, whose consummate harmony consists in holding to the
         mean.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6313,8 +5943,6 @@ export const TEXT: { [k: number]: HexText } = {
         age. Both attitudes are wrong. To the superior man it makes no
         difference whether death comes early or late. He cultivates himself,
         awaits his allotted time, and in this way secures his fate.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6333,8 +5961,6 @@ export const TEXT: { [k: number]: HexText } = {
         man who is excitable and restless may rise quickly to prominence but
         produces no lasting effects. Thus matters end badly when a man spends
         himself too rapidly and consumes himself like a meteor.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6353,8 +5979,6 @@ export const TEXT: { [k: number]: HexText } = {
         fortune will come from this grief. For here we are dealing not with a
         passing mood, as in the nine in the third place, but with a real change
         of heart.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6374,7 +5998,6 @@ export const TEXT: { [k: number]: HexText } = {
         followers. In educating oneself it is best to root out bad habits and
         tolerate those that are harmless. For asceticism that is too strict,
         like sentences of undue severity, fails in its purpose.
-        <br />
       </>,
     ],
   },
@@ -6447,8 +6070,6 @@ export const TEXT: { [k: number]: HexText } = {
         humble and free, so that it may remain receptive to good advice. People
         soon give up counseling a man who thinks that he knows everything better
         than anyone else.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -6465,8 +6086,6 @@ export const TEXT: { [k: number]: HexText } = {
         immediately apparent to others. As long as the intention has no visible
         effect, it is of no importance to the outside world and leads neither to
         good nor to evil.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6484,8 +6103,6 @@ export const TEXT: { [k: number]: HexText } = {
         neither go forward nor stand still. Since the movement is not
         self-governed, it bodes ill. One should wait quietly until one is
         impelled to action by a real influence. Then one remains uninjured.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6510,8 +6127,6 @@ export const TEXT: { [k: number]: HexText } = {
         service he stands. Finally, where the moods of his own heart are
         concerned, he should never ignore the possibility of inhibition, for
         this is the basis of human freedom.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6545,8 +6160,6 @@ export const TEXT: { [k: number]: HexText } = {
         becomes wrought up and is exhausted by the eternal stress and strain.
         Moreover, the effects produced are then limited to those on whom one’s
         thoughts are consciously fixed.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6565,8 +6178,6 @@ export const TEXT: { [k: number]: HexText } = {
         the unconscious, can neither be called forth nor prevented by the
         conscious mind. It is true that if we cannot be influenced ourselves, we
         cannot influence the outside world.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6580,7 +6191,6 @@ export const TEXT: { [k: number]: HexText } = {
         that has nothing real behind it. The influence produced by such mere
         tongue wagging must necessarily remain insignificant. Hence no
         indication is added regarding good or bad fortune.
-        <br />
       </>,
     ],
   },
@@ -6658,8 +6268,6 @@ export const TEXT: { [k: number]: HexText } = {
         based on rigidity and immobility of character. He always keeps abreast
         of the time and changes with it. What endures is the unswerving
         directive, the inner law of his being, which determines all his actions.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -6678,8 +6286,6 @@ export const TEXT: { [k: number]: HexText } = {
         compress something, we must first let it fully expand.” He who demands
         too much at once is acting precipitately, and because he attempts too
         much, he ends by succeeding in nothing.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6694,8 +6300,6 @@ export const TEXT: { [k: number]: HexText } = {
         himself to attempt something beyond his strength. However, since it is
         the time of DURATION, it is possible for him to control his inner
         strength and so to avoid excess. Cause for remorse then disappears.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6715,8 +6319,6 @@ export const TEXT: { [k: number]: HexText } = {
         humiliations often come from an unforeseen quarter. Such experiences are
         not merely effects produced by the external world, but logical
         consequences evoked by his own nature.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6731,8 +6333,6 @@ export const TEXT: { [k: number]: HexText } = {
         place where there is none may wait forever without finding any.
         Persistence in search is not enough. What is not sought in the right way
         is not found.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6751,8 +6351,6 @@ export const TEXT: { [k: number]: HexText } = {
         conservatively to tradition, but a man must always be flexible and
         adaptable and allow himself to be guided solely by what his duty
         requires of him at the moment.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6766,7 +6364,6 @@ export const TEXT: { [k: number]: HexText } = {
         attaining inner composure. Restlessness not only prevents all
         thoroughness but actually becomes a danger if it is dominant in places
         of authority.
-        <br />
       </>,
     ],
   },
@@ -6836,8 +6433,6 @@ export const TEXT: { [k: number]: HexText } = {
         hatred is a form of subjective involvement by which we are bound to the
         hated object. The superior man shows strength (heaven) in that he brings
         the inferior man to a standstill (mountain) by his dignified reserve.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -6857,8 +6452,6 @@ export const TEXT: { [k: number]: HexText } = {
         immediate contact with the pursuing enemy. This is dangerous, and under
         such circumstances it is not advisable to undertake anything. Keeping
         still is the easiest way of escaping from the threatening danger.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6880,8 +6473,6 @@ export const TEXT: { [k: number]: HexText } = {
         quest of what is right and so strong in purpose, he reaches his goal.
         Thus the line confirms what is said in the Judgment: “In what is
         small”—here equivalent to “in the inferior man”—“perseverance furthers.”
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6904,8 +6495,6 @@ export const TEXT: { [k: number]: HexText } = {
         initiative and not fall helplessly under their domination. But even with
         this expedient the situation is far from satisfactory—for what can one
         hope to accomplish with such servants?
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6923,8 +6512,6 @@ export const TEXT: { [k: number]: HexText } = {
         convictions. The only one who suffers is the inferior man from whom he
         retreats, who will degenerate when deprived of the guidance of the
         superior man.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6940,8 +6527,6 @@ export const TEXT: { [k: number]: HexText } = {
         necessity of disagreeable discussions. Yet, for all the observance of
         amenities, absolute firmness of decision is necessary if one is not to
         be led astray by irrelevant considerations.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -6956,7 +6541,6 @@ export const TEXT: { [k: number]: HexText } = {
         clearly, free of all doubt, a cheerful mood sets in, and one chooses
         what is right without further thought. Such a clear path ahead always
         leads to the good.
-        <br />
       </>,
     ],
   },
@@ -7014,8 +6598,6 @@ export const TEXT: { [k: number]: HexText } = {
         However, true greatness depends on being in harmony with what is right.
         Therefore in times of great power the superior man avoids doing anything
         that is not in harmony with the established order.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -7035,8 +6617,6 @@ export const TEXT: { [k: number]: HexText } = {
         great power in lowly station is inclined to effect advance by force.
         This, if carried further, would certainly lead to misfortune, and
         therefore by way of advice a warning is added.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7051,8 +6631,6 @@ export const TEXT: { [k: number]: HexText } = {
         only too easily, we become the prey of exuberant self-confidence. This
         is why the oracle says that perseverance (i.e., perseverance in inner
         equilibrium, without excessive use of power) brings good fortune.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7076,8 +6654,6 @@ export const TEXT: { [k: number]: HexText } = {
         makes this mistake. He is conscious at all times of the danger of
         pushing ahead regardless of circumstances, and therefore renounces in
         good time the empty display of force.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7101,8 +6677,6 @@ export const TEXT: { [k: number]: HexText } = {
         Such a man’s power does not show externally, yet it can move heavy
         loads, like a big cart whose real strength lies in its axle. The less
         that power is applied outwardly, the greater its effect.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7118,8 +6692,6 @@ export const TEXT: { [k: number]: HexText } = {
         situation is such that everything is easy; there is no more resistance.
         One can give up a belligerent, stubborn way of acting and will not have
         to regret it.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7140,7 +6712,6 @@ export const TEXT: { [k: number]: HexText } = {
         further. Such obstinacy leads to insuperable difficulties. But if,
         realizing the situation, we compose ourselves and decide not to
         continue, everything will right itself in time.
-        <br />
       </>,
     ],
   },
@@ -7202,8 +6773,6 @@ export const TEXT: { [k: number]: HexText } = {
         nature of man is likewise originally good, but it becomes clouded by
         contact with earthly things and therefore needs purification before it
         can shine forth in its native clarity.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -7228,8 +6797,6 @@ export const TEXT: { [k: number]: HexText } = {
         confidence. In this case we ought not to try to win confidence
         regardless of the situation, but should remain calm and cheerful and
         refuse to be roused to anger. Thus we remain free of mistakes.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7250,8 +6817,6 @@ export const TEXT: { [k: number]: HexText } = {
         This happiness comes to him—and is well deserved—because in this case
         mutual attraction does not rest on selfish or partisan motives but on
         firm and correct principles.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7265,8 +6830,6 @@ export const TEXT: { [k: number]: HexText } = {
         encourages him. This dispels any cause for regret over the fact that he
         does not have enough independence to triumph unaided over every hostile
         turn of fate.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7283,8 +6846,6 @@ export const TEXT: { [k: number]: HexText } = {
         times of progress are also always times in which dubious procedures are
         inevitably brought to light, perseverance in such action always leads to
         danger.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7308,8 +6869,6 @@ export const TEXT: { [k: number]: HexText } = {
         to heart; they are minor considerations. What matters much more is the
         fact that in this way he has assured himself of opportunities for
         successful and beneficent influence.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7335,7 +6894,6 @@ export const TEXT: { [k: number]: HexText } = {
         out to do. On the other hand, perseverance in such overenergetic
         behavior, especially toward persons with whom there is no close
         connection, will lead to humiliation.
-        <br />
       </>,
     ],
   },
@@ -7397,8 +6955,6 @@ export const TEXT: { [k: number]: HexText } = {
         others; neither should one drag them censoriously into the light. In
         social intercourse one should not try to be all-knowing. One should let
         many things pass, without being duped.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -7427,8 +6983,6 @@ export const TEXT: { [k: number]: HexText } = {
         but insists on remaining true to his principles, he suffers deprivation.
         Nevertheless he has a fixed goal to strive for, even though the people
         with whom he lives do not understand him and speak ill of him.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7448,8 +7002,6 @@ export const TEXT: { [k: number]: HexText } = {
         he thinks only of saving the others who are also in danger. Therefore he
         tries with all his strength to save all that can be saved. There is good
         fortune in thus acting according to duty.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7469,8 +7021,6 @@ export const TEXT: { [k: number]: HexText } = {
         victory is achieved. But in abolishing abuses one must not be too hasty.
         This would turn out badly because the abuses have been in existence so
         long.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7488,8 +7038,6 @@ export const TEXT: { [k: number]: HexText } = {
         most secret thoughts. In this way we realize that there is no longer any
         hope of improvement, and thus we are enabled to leave the scene of
         disaster before the storm breaks.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7513,8 +7061,6 @@ export const TEXT: { [k: number]: HexText } = {
         of darkness. In order to escape danger, they need invincible
         perseverance of spirit and redoubled caution in their dealings with the
         world.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7533,7 +7079,6 @@ export const TEXT: { [k: number]: HexText } = {
         good and of the light. But in the end it perishes of its own darkness,
         for evil must itself fall at the very moment when it has wholly overcome
         the good, and thus consumed the energy to which it owed its duration.
-        <br />
       </>,
     ],
   },
@@ -7623,8 +7168,6 @@ export const TEXT: { [k: number]: HexText } = {
         and consistent conduct will make such an impression on others that they
         can adapt and conform to it. If words and conduct are not in accord and
         not consistent, they will have no effect.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -7649,8 +7192,6 @@ export const TEXT: { [k: number]: HexText } = {
         disappears again, and everything rights itself. For there is nothing
         more easily avoided and more difficult to carry through than “breaking a
         child’s will.”
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7676,8 +7217,6 @@ export const TEXT: { [k: number]: HexText } = {
         In relation to general conditions, the counsel given here is to seek
         nothing by means of force, but quietly to confine oneself to the duties
         at hand.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7702,8 +7241,6 @@ export const TEXT: { [k: number]: HexText } = {
         instances too great severity, despite occasional mistakes, is
         preferable, because it preserves discipline in the family, whereas too
         great weakness leads to disgrace.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7720,8 +7257,6 @@ export const TEXT: { [k: number]: HexText } = {
         balanced. This leads to great good fortune. In the sphere of public
         life, this line refers to the faithful steward whose measures further
         the general welfare.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7739,8 +7274,6 @@ export const TEXT: { [k: number]: HexText } = {
         does nothing to make himself feared; on the contrary, the whole family
         can trust him, because love governs their intercourse. His character of
         itself exercises the right influence.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7757,7 +7290,6 @@ export const TEXT: { [k: number]: HexText } = {
         works impressively through the force of inner truth, all goes well with
         the family. In a ruling position one must of his own accord assume
         responsibility.
-        <br />
       </>,
     ],
   },
@@ -7819,8 +7351,6 @@ export const TEXT: { [k: number]: HexText } = {
         or vulgarity through intercourse or community of interests with persons
         of another sort; regardless of all commingling, he will always preserve
         his individuality.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -7853,8 +7383,6 @@ export const TEXT: { [k: number]: HexText } = {
         important thing is to avoid mistakes. We must not try to shake off these
         evil men by force; this would give rise to real hostility. We must
         simply endure them. They will eventually withdraw of their own accord.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7870,8 +7398,6 @@ export const TEXT: { [k: number]: HexText } = {
         who by nature belong together to meet in the correct way. This being so,
         an accidental meeting under informal circumstances may serve the
         purpose, provided there is an inner affinity between them.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7892,8 +7418,6 @@ export const TEXT: { [k: number]: HexText } = {
         dishonored. However, he must not let himself be misled; despite this
         opposition, he must cleave to the man with whom he knows he belongs.
         Thus, notwithstanding the bad beginning, the matter will end well.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7915,8 +7439,6 @@ export const TEXT: { [k: number]: HexText } = {
         kin to him, and whom he can trust completely, he overcomes all the
         dangers of isolation. His will achieves its aim, and he becomes free of
         faults.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7937,8 +7459,6 @@ export const TEXT: { [k: number]: HexText } = {
         wrappings that are causing the separation. When such a companion thus
         reveals himself in his true character, it is one’s duty to go to meet
         him and to work with him.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -7970,7 +7490,6 @@ export const TEXT: { [k: number]: HexText } = {
         just as falling rain relieves the sultriness preceding a thunderstorm.
         All goes well, for just when opposition reaches its climax it changes
         over to its antithesis.
-        <br />
       </>,
     ],
   },
@@ -8034,8 +7553,6 @@ export const TEXT: { [k: number]: HexText } = {
         fate, the superior man seeks the error within himself, and through this
         introspection the external obstacle becomes for him an occasion for
         inner enrichment and education.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -8054,8 +7571,6 @@ export const TEXT: { [k: number]: HexText } = {
         strive blindly to go ahead, for this only leads to complications. The
         correct thing is, on the contrary, to retreat for the time being, not in
         order to give up the struggle but to await the right moment for action.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8075,8 +7590,6 @@ export const TEXT: { [k: number]: HexText } = {
         and seek out danger in the service of a higher cause. Then he may do it
         without compunction, because it is not through any fault of his that he
         is putting himself in this difficult situation.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8094,8 +7607,6 @@ export const TEXT: { [k: number]: HexText } = {
         danger, it would be a useless act, because those entrusted to his care
         cannot get along by themselves. But if he withdraws and turns back to
         his own, they welcome him with great joy.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8116,8 +7627,6 @@ export const TEXT: { [k: number]: HexText } = {
         it is better, therefore, to hold back for the time being and to gather
         together trustworthy companions who can be counted upon for help in
         overcoming the obstructions.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8135,8 +7644,6 @@ export const TEXT: { [k: number]: HexText } = {
         his spirit is strong enough to attract helpers whom he can effectively
         organize, so that through the well-directed co-operation of all
         participants the obstruction is overcome.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8160,7 +7667,6 @@ export const TEXT: { [k: number]: HexText } = {
         something both great and complete that brings good fortune. And it is
         favorable to see the great man in alliance with whom one can achieve the
         work of rescue.
-        <br />
       </>,
     ],
   },
@@ -8226,8 +7732,6 @@ export const TEXT: { [k: number]: HexText } = {
         them; he simply passes over mistakes, the unintentional transgressions,
         just as thunder dies away. He forgives misdeeds, the intentional
         transgressions, just as water washes everything clean.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -8243,8 +7747,6 @@ export const TEXT: { [k: number]: HexText } = {
         past, deliverance has come. One recuperates in peace and keeps still.
         This is the right thing to do in times when difficulties have been
         overcome.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8267,8 +7769,6 @@ export const TEXT: { [k: number]: HexText } = {
         signifies the straight course. If one devotes himself wholeheartedly to
         the task of deliverance, he develops so much inner strength from his
         rectitude that it acts as a weapon against all that is false and low.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8298,8 +7798,6 @@ export const TEXT: { [k: number]: HexText } = {
         those below him, robbers plot to attack him. Carelessness in guarding
         things tempts thieves to steal. Sumptuous ornaments worn by a maiden are
         an enticement to rob her of her virtue.”
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8322,8 +7820,6 @@ export const TEXT: { [k: number]: HexText } = {
         connection. For otherwise the friends who share his views, on whom he
         could really rely and together with whom he could accomplish something,
         mistrust him and stay away.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8341,8 +7837,6 @@ export const TEXT: { [k: number]: HexText } = {
         driven off by prohibitions or any external means. If one desires to be
         rid of them, he must first break completely with them in his own mind;
         they will see for themselves that he is in earnest and will withdraw.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8368,7 +7862,6 @@ export const TEXT: { [k: number]: HexText } = {
         and is free. Therefore all he has to do is to go forth, and he takes his
         quarry. This is how a man fares who acts after he has made ready the
         means.”
-        <br />
       </>,
     ],
   },
@@ -8448,8 +7941,6 @@ export const TEXT: { [k: number]: HexText } = {
         still, the instincts must be curbed by restriction. By this decrease of
         the lower powers of the psyche, the higher aspects of the soul are
         enriched.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -8472,8 +7963,6 @@ export const TEXT: { [k: number]: HexText } = {
         can accept without doing the helpful servant or friend real harm. Only
         where such delicacy of feeling exists can one give oneself
         unconditionally and without hesitation.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8495,8 +7984,6 @@ export const TEXT: { [k: number]: HexText } = {
         superior diminishes his own position without thereby giving lasting
         benefit to the other. This is wrong. To render true service of lasting
         value to another, one must serve him without relinquishing oneself.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8516,8 +8003,6 @@ export const TEXT: { [k: number]: HexText } = {
         have to go. A very close bond is possible only between two people. But
         when one man is lonely, he is certain to find a companion who
         complements him.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8537,8 +8022,6 @@ export const TEXT: { [k: number]: HexText } = {
         giving them up, he frees his well-disposed friends from an inner
         pressure and causes them to approach the more quickly, and there is
         mutual joy.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8556,8 +8039,6 @@ export const TEXT: { [k: number]: HexText } = {
         fail. All oracles—as for instance those that are read from the shells of
         tortoises—are bound to concur in giving him favorable signs. He need
         fear nothing, because his luck is ordained from on high.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8583,7 +8064,6 @@ export const TEXT: { [k: number]: HexText } = {
         zealous work a man wins success and finds helpers as they are needed.
         But what he accomplishes is not a limited private advantage; it is a
         public good and available to everyone.
-        <br />
       </>,
     ],
   },
@@ -8647,8 +8127,6 @@ export const TEXT: { [k: number]: HexText } = {
         on earth his own. If he perceives something bad in himself, let him rid
         himself of it. In this way he becomes free of evil. This ethical change
         represents the most important increase of personality.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -8667,8 +8145,6 @@ export const TEXT: { [k: number]: HexText } = {
         have found energy, or readiness to take responsibility. Great good
         fortune is produced by selflessness, and in bringing about great good
         fortune, he remains free of reproach.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8695,8 +8171,6 @@ export const TEXT: { [k: number]: HexText } = {
         him heedless; he must make it his own through inner strength and
         steadfastness. Then he acquires meaning before God and man, and can
         accomplish something for the good of the world.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8717,8 +8191,6 @@ export const TEXT: { [k: number]: HexText } = {
         affected by them. These persons become free of error, and by acting in
         harmony with truth they gain such inner authority that they exert
         influence as if sanctioned by letter and seal.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8744,8 +8216,6 @@ export const TEXT: { [k: number]: HexText } = {
         who also exercises a good influence on the leader, is especially
         important in times when it is a matter of great undertakings, decisive
         for the future and requiring the inner assent of all concerned.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8763,8 +8233,6 @@ export const TEXT: { [k: number]: HexText } = {
         acts from inner necessity. And such a truly kind heart finds itself
         rewarded in being recognized, and thus the beneficent influence will
         spread unhindered.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8796,7 +8264,6 @@ export const TEXT: { [k: number]: HexText } = {
         no echo in others. If he asks for something without having first
         established relations, it will not be given to him. If no one is with
         him, those who would harm him draw near.”
-        <br />
       </>,
     ],
   },
@@ -8881,8 +8348,6 @@ export const TEXT: { [k: number]: HexText } = {
         developing his character he takes care not to become hardened in
         obstinacy but to remain receptive to impressions by help of strict and
         continuous self-examination.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -8904,8 +8369,6 @@ export const TEXT: { [k: number]: HexText } = {
         we can go with certainty of success. To plunge blindly ahead is wrong,
         because it is precisely at the beginning that an unexpected setback can
         have the most disastrous results.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8927,8 +8390,6 @@ export const TEXT: { [k: number]: HexText } = {
         a man develops his character, people submit to him of their own accord.
         If reason triumphs, the passions withdraw of themselves. To be
         circumspect and not to forget one’s armor is the right way to security.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8964,8 +8425,6 @@ export const TEXT: { [k: number]: HexText } = {
         the inferior man will sully him in the eyes of the multitude, and they
         will turn against him, grumbling. But he can endure this lack of
         appreciation and makes no mistake, because he remains true to himself.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -8992,8 +8451,6 @@ export const TEXT: { [k: number]: HexText } = {
         his will. If he would desist from this obstinacy, everything would go
         well. But this advice, like so much other good counsel, will be ignored.
         For obstinacy makes a man unable to hear, for all that he has ears.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9015,8 +8472,6 @@ export const TEXT: { [k: number]: HexText } = {
         that one may give up the struggle as hopeless. But this must not be. One
         must go on resolutely and not allow himself to be deflected from his
         course. Only in this way does one remain free of blame.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9037,7 +8492,6 @@ export const TEXT: { [k: number]: HexText } = {
         own character, one must go to work with thoroughness. If out of
         carelessness anything were to be overlooked, new evil would arise from
         it.
-        <br />
       </>,
     ],
   },
@@ -9114,8 +8568,6 @@ export const TEXT: { [k: number]: HexText } = {
         but it sets them in motion by means of the wind. The ruler is far from
         his people, but he sets them in motion by means of his commands and
         decrees.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -9140,8 +8592,6 @@ export const TEXT: { [k: number]: HexText } = {
         temptation to underrate it. A pig that is still young and lean cannot
         rage around much, but after it has eaten its fill and become strong, its
         true nature comes out if it has not previously been curbed.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9157,8 +8607,6 @@ export const TEXT: { [k: number]: HexText } = {
         gentle control. Then nothing evil is to be feared. But care must be
         taken not to let it come in contact with those further away, because
         once free it would unfold its evil aspects unchecked.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9179,8 +8627,6 @@ export const TEXT: { [k: number]: HexText } = {
         would like to do it, but cannot. This leads to painful indecision in
         behavior. But if we gain clear insight into the danger of the situation,
         we shall at least avoid more serious mistakes.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9197,8 +8643,6 @@ export const TEXT: { [k: number]: HexText } = {
         become alienated from them and do not meet them halfway, they turn their
         backs on us and are not at our disposal when we need them. But this is
         our own fault.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9222,8 +8666,6 @@ export const TEXT: { [k: number]: HexText } = {
         trust in the transforming power of a strong and upright personality. And
         behold! Fate is favorable. His inferiors respond to his influence and
         fall to his disposition like ripe fruit.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9242,7 +8684,6 @@ export const TEXT: { [k: number]: HexText } = {
         distant, but since active duties no longer hold them to the world, this
         does not greatly matter. They know how to bear the dislike of the masses
         with composure.
-        <br />
       </>,
     ],
   },
@@ -9321,8 +8762,6 @@ export const TEXT: { [k: number]: HexText } = {
         the unexpected. Human woes usually come as a result of unexpected events
         against which we are not forearmed. If we are prepared, they can be
         prevented.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -9350,8 +8789,6 @@ export const TEXT: { [k: number]: HexText } = {
         from the leader is enough to turn away all distress. Therefore they must
         not allow themselves to be led astray. It is undoubtedly right that they
         should attach themselves to this leader.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9374,8 +8811,6 @@ export const TEXT: { [k: number]: HexText } = {
         formalities are necessary. People understand one another forthwith, just
         as the Divinity graciously accepts a small offering if it comes from the
         heart.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9398,8 +8833,6 @@ export const TEXT: { [k: number]: HexText } = {
         stands nearer to the center of the group, and can help him to gain
         admission to the closed circle. This is not a mistake, even though at
         first his position as an outsider is somewhat humiliating.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9413,8 +8846,6 @@ export const TEXT: { [k: number]: HexText } = {
         ruler. Since he is not striving for any special advantages for himself
         but is working unselfishly to bring about general unity, his work is
         crowned with success, and everything becomes as it should be.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9440,8 +8871,6 @@ export const TEXT: { [k: number]: HexText } = {
         with such people is to gain their confidence through steadfastness and
         intensified, unswerving devotion to duty. In this way secret mistrust
         will gradually be overcome, and there will be no occasion for regret.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9458,7 +8887,6 @@ export const TEXT: { [k: number]: HexText } = {
         and laments. But this is the right course. For it may cause the other
         person to come to his senses, so that the alliance that has been sought
         and so painfully missed is after all achieved.
-        <br />
       </>,
     ],
   },
@@ -9522,8 +8950,6 @@ export const TEXT: { [k: number]: HexText } = {
         Adapting itself to obstacles and bending around them, wood in the earth
         grows upward without haste and without rest. Thus too the superior man
         is devoted in character and never pauses in his progress.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -9542,8 +8968,6 @@ export const TEXT: { [k: number]: HexText } = {
         lowest place, so the power to rise comes from this low and obscure
         station. But there is a spiritual affinity with the rulers above, and
         this solidarity creates the confidence needed to accomplish something.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9564,8 +8988,6 @@ export const TEXT: { [k: number]: HexText } = {
         the outcome of sound qualities of character, whereas in the
         corresponding line of the preceding hexagram it is the result of innate
         humility.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9583,8 +9005,6 @@ export const TEXT: { [k: number]: HexText } = {
         wise not to yield to such misgivings, because they only inhibit one’s
         power. Instead, the point is to profit by the propitiousness of the
         time.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9606,8 +9026,6 @@ export const TEXT: { [k: number]: HexText } = {
         and men, is received into the circle of those who foster the spiritual
         life of the nation, and thereby attains a significance that endures
         beyond time.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9624,8 +9042,6 @@ export const TEXT: { [k: number]: HexText } = {
         success it is necessary to remain sober and not to try to skip any
         stages; he must go on slowly, step by step, as though hesitant. Only
         such calm, steady progress, overleaping nothing, leads to the goal.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9644,7 +9060,6 @@ export const TEXT: { [k: number]: HexText } = {
         constantly mindful that one must be conscientious and consistent and
         must remain so. Only thus does one become free of blind impulse, which
         is always harmful.
-        <br />
       </>,
     ],
   },
@@ -9710,8 +9125,6 @@ export const TEXT: { [k: number]: HexText } = {
         In such times there is nothing a man can do but acquiesce in his fate
         and remain true to himself. This concerns the deepest stratum of his
         being, for this alone is superior to all external fate.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -9734,8 +9147,6 @@ export const TEXT: { [k: number]: HexText } = {
         melancholy. This makes the situation only more and more hopeless. Such
         an attitude comes from an inner delusion that he must by all means
         overcome.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9762,8 +9173,6 @@ export const TEXT: { [k: number]: HexText } = {
         realm by offerings and prayer. To set forth without being prepared would
         be disastrous, though not morally wrong. Here a disagreeable situation
         must be overcome by patience of spirit.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9795,8 +9204,6 @@ export const TEXT: { [k: number]: HexText } = {
         upon which one cannot lean, his life will certainly be endangered. For
         him who is in disgrace and danger, the hour of death draws near; how can
         he then still see his wife?”
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9816,8 +9223,6 @@ export const TEXT: { [k: number]: HexText } = {
         them. Hence he finds himself in great embarrassment. But the trouble is
         transitory. The original strength of his nature offsets the mistake he
         has made, and the goal is reached.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9840,8 +9245,6 @@ export const TEXT: { [k: number]: HexText } = {
         little, things take a turn for the better. Until that time, he should
         turn to God, firm in his inner composure, and pray and offer sacrifice
         for the general well-being.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9864,7 +9267,6 @@ export const TEXT: { [k: number]: HexText } = {
         the previous condition and fears that he may have cause for regret if he
         makes a move. But as soon as he grasps the situation, changes this
         mental attitude, and makes a firm decision, he masters the oppression.
-        <br />
       </>,
     ],
   },
@@ -9955,8 +9357,6 @@ export const TEXT: { [k: number]: HexText } = {
         action of the well, which benefits all parts of the plant, the superior
         man organizes human society, so that, as in a plant organism, its parts
         co-operate for the benefit of the whole.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -9974,8 +9374,6 @@ export const TEXT: { [k: number]: HexText } = {
         mud. Such a man loses all significance for mankind. He who throws
         himself away is no longer sought out by others. In the end no one
         troubles about him any more.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -9997,8 +9395,6 @@ export const TEXT: { [k: number]: HexText } = {
         but neglects them. No one bothers about him. As a result he deteriorates
         in mind. He associates with inferior men and can no longer accomplish
         anything worthwhile.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10020,8 +9416,6 @@ export const TEXT: { [k: number]: HexText } = {
         drinkable. But no use is made of him. This is the sorrow of those who
         know him. One wishes that the prince might learn about it; this would be
         good fortune for all concerned.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10038,8 +9432,6 @@ export const TEXT: { [k: number]: HexText } = {
         his work is nonetheless valuable, because by enhancing his powers and
         abilities through inner development, he can accomplish all the more
         later on.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10059,8 +9451,6 @@ export const TEXT: { [k: number]: HexText } = {
         refreshment as long as it is not brought up. So too with leaders of
         mankind: it is all-important that one should drink from the spring of
         their words and translate them into life.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10082,7 +9472,6 @@ export const TEXT: { [k: number]: HexText } = {
         blessing to the whole land. The same is true of the really great man,
         whose inner wealth is inexhaustible; the more that people draw from him,
         the greater his wealth becomes.
-        <br />
       </>,
     ],
   },
@@ -10163,8 +9552,6 @@ export const TEXT: { [k: number]: HexText } = {
         clarity appear in the apparently chaotic changes of the seasons, and man
         is able to adjust himself in advance to the demands of the different
         times.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -10182,8 +9569,6 @@ export const TEXT: { [k: number]: HexText } = {
         mean, and the cow is the symbol of docility—and refrain from doing
         anything for the time being, because any premature offensive will bring
         evil results.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10205,8 +9590,6 @@ export const TEXT: { [k: number]: HexText } = {
         first thing to be considered is our inner attitude toward the new
         condition that will inevitably come. We have to go out to meet it, as it
         were. Only in this way can it be prepared for.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10232,8 +9615,6 @@ export const TEXT: { [k: number]: HexText } = {
         a hearing. When talk of change has come to one’s ears three times, and
         has been pondered well, he may believe and acquiesce in it. Then he will
         meet with belief and will accomplish something.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10252,8 +9633,6 @@ export const TEXT: { [k: number]: HexText } = {
         such inner truth, the results are bad, and it has no success. For in the
         end men will support only those undertakings which they feel
         instinctively to be just.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10272,8 +9651,6 @@ export const TEXT: { [k: number]: HexText } = {
         brought about by a great man: large, clear guiding lines become visible,
         understandable to everyone. Therefore he need not first consult the
         oracle, for he wins the spontaneous support of the people.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10300,7 +9677,6 @@ export const TEXT: { [k: number]: HexText } = {
         unrest and misfortune. For the object of a great revolution is the
         attainment of clarified, secure conditions ensuring a general
         stabilization on the basis of what is possible at the moment.
-        <br />
       </>,
     ],
   },
@@ -10384,8 +9760,6 @@ export const TEXT: { [k: number]: HexText } = {
         puts his fate on a firm footing. These words contain hints about the
         fostering of life as handed on by oral tradition in the secret teachings
         of Chinese yoga.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -10414,8 +9788,6 @@ export const TEXT: { [k: number]: HexText } = {
         be, provided he is ready to purify himself, he is accepted. He attains a
         station in which he can prove himself fruitful in accomplishment, and as
         a result he gains recognition.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10436,8 +9808,6 @@ export const TEXT: { [k: number]: HexText } = {
         real undertakings, he may indeed experience envy and disfavor, but that
         is not dangerous. The more he limits himself to his actual achievements,
         the less harm can the envious inflict on him.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10468,8 +9838,6 @@ export const TEXT: { [k: number]: HexText } = {
         sooner or later, when the difficulties will be resolved and all will go
         well. The fall of rain symbolizes here, as in other instances, release
         of tension.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10494,8 +9862,6 @@ export const TEXT: { [k: number]: HexText } = {
         K'ung Fu-tzu says about this line: “Weak character coupled with honored
         place, meager knowledge with large plans, limited powers with heavy
         responsibility, will seldom escape disaster.”
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10512,8 +9878,6 @@ export const TEXT: { [k: number]: HexText } = {
         and able helpers who complement and aid him in his work. Having achieved
         this attitude, which requires constant self-abnegation, it is important
         for him to hold to it and not to let himself be led astray.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10535,7 +9899,6 @@ export const TEXT: { [k: number]: HexText } = {
         imparting it, he will be mild and pure, like precious jade. Thus the
         work finds favor in the eyes of the Deity, who dispenses great good
         fortune, and becomes pleasing to men, wherefore all goes well.
-        <br />
       </>,
     ],
   },
@@ -10600,8 +9963,6 @@ export const TEXT: { [k: number]: HexText } = {
         his life in order and searches his heart, lest it harbor any secret
         opposition to the will of God. Thus reverence is the foundation of true
         culture.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -10622,8 +9983,6 @@ export const TEXT: { [k: number]: HexText } = {
         against others. But this is only transitory. When the ordeal is over, he
         experiences relief, and thus the very terror he had to endure at the
         outset brings good fortune in the long run.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10651,8 +10010,6 @@ export const TEXT: { [k: number]: HexText } = {
         When the time of shock and upheaval that has robbed him of his
         possessions has passed, he will get them back again without going in
         pursuit of them.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10673,8 +10030,6 @@ export const TEXT: { [k: number]: HexText } = {
         overlooks all opportunities for action and mutely lets fate take its
         course. But if he allows the shocks of fate to induce movement within
         his mind, he will overcome these external blows with little effort.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10688,8 +10043,6 @@ export const TEXT: { [k: number]: HexText } = {
         circumstances. If there is neither a resistance that might be vigorously
         combated, nor yet a yielding that permits of victory—if, instead,
         everything is tough and inert like mire—movement is crippled.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10709,8 +10062,6 @@ export const TEXT: { [k: number]: HexText } = {
         breathing space between. Nonetheless, the shock causes no loss, because
         one takes care to stay in the center of movement and in this way to be
         spared the fate of being helplessly tossed hither and thither.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10740,7 +10091,6 @@ export const TEXT: { [k: number]: HexText } = {
         injury. But his comrades, who no longer heed any warning, will in their
         excitement certainly be displeased with him. However, he must not take
         this into account.
-        <br />
       </>,
     ],
   },
@@ -10818,8 +10168,6 @@ export const TEXT: { [k: number]: HexText } = {
         of the heart—that is, a man’s thoughts—should restrict themselves to the
         immediate situation. All thinking that goes beyond this only makes the
         heart sore.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -10842,8 +10190,6 @@ export const TEXT: { [k: number]: HexText } = {
         halts at the beginning, so long as he has not yet abandoned truth, finds
         the right way. But persisting firmness is needed to keep one from
         drifting irresolutely.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10867,8 +10213,6 @@ export const TEXT: { [k: number]: HexText } = {
         wrongdoing, he can no longer check the other in his powerful movement.
         Where the master presses forward, the servant, no matter how good his
         intentions, cannot save him.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10891,8 +10235,6 @@ export const TEXT: { [k: number]: HexText } = {
         to try to force results. Rather, calmness must develop naturally out of
         a state of inner composure. If one tries to induce calmness by means of
         artificial rigidity, meditation will lead to very unwholesome results.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10914,8 +10256,6 @@ export const TEXT: { [k: number]: HexText } = {
         at this point one does not yet remain free from all the dangers of doubt
         and unrest, this frame of mind is not a mistake, as it leads ultimately
         to that other, higher level.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10935,8 +10275,6 @@ export const TEXT: { [k: number]: HexText } = {
         much cause for regret. However, if a man is reserved in speech, his
         words take ever more definite form, and every occasion for regret
         vanishes.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -10953,7 +10291,6 @@ export const TEXT: { [k: number]: HexText } = {
         of detail, but one has also a general resignation in regard to life as a
         whole, and this confers peace and good fortune in relation to every
         individual matter.
-        <br />
       </>,
     ],
   },
@@ -11032,8 +10369,6 @@ export const TEXT: { [k: number]: HexText } = {
         it is necessary for the personality to acquire influence and weight.
         This comes about through careful and constant work on one’s own moral
         development.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -11062,8 +10397,6 @@ export const TEXT: { [k: number]: HexText } = {
         hesitant, and he is surrounded by danger. Naturally he is subjected to
         much criticism. But these very difficulties keep him from being too
         hasty, and his progress is successful.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11088,8 +10421,6 @@ export const TEXT: { [k: number]: HexText } = {
         finds food; this is the symbol of peace and concord in good fortune. A
         man does not want to keep his good luck for himself only, but is ready
         to share it with others.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11119,8 +10450,6 @@ export const TEXT: { [k: number]: HexText } = {
         transgressing the law of natural development. If one does not willfully
         provoke a conflict, but confines himself to vigorously maintaining his
         own position and to warding off unjustified attacks, all goes well.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11139,8 +10468,6 @@ export const TEXT: { [k: number]: HexText } = {
         danger. Then it is important to be sensible and yielding. This enables
         him to discover a safe place in which life can go on, although he may be
         surrounded by danger.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11164,8 +10491,6 @@ export const TEXT: { [k: number]: HexText } = {
         accomplished. But in the course of further development, such
         misunderstandings are cleared away, and reconciliation is achieved after
         all.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11186,7 +10511,6 @@ export const TEXT: { [k: number]: HexText } = {
         as ornaments in the sacred dance pantomimes performed in the temples.
         Thus the life of a man who has perfected himself is a bright light for
         the people of the earth, who look up to him as an example.
-        <br />
       </>,
     ],
   },
@@ -11262,8 +10586,6 @@ export const TEXT: { [k: number]: HexText } = {
         parted again as the day may determine. If on the other hand a man fixes
         his mind on an end that endures, he will succeed in avoiding the reefs
         that confront the closer relationships of people.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -11299,8 +10621,6 @@ export const TEXT: { [k: number]: HexText } = {
         behind the official ministers of state, but, although he is hampered by
         this status, as if he were lame, he can nevertheless accomplish
         something through the kindliness of his nature.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11318,8 +10638,6 @@ export const TEXT: { [k: number]: HexText } = {
         either has become unfaithful or has died. But she does not lose the
         inner light of loyalty. Though the other eye is gone, she maintains her
         loyalty even in loneliness.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11340,8 +10658,6 @@ export const TEXT: { [k: number]: HexText } = {
         altogether compatible with self-esteem. Neither judgment nor warning is
         added to this line; it merely lays bare the actual situation, so that
         everyone may draw a lesson from it.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11357,8 +10673,6 @@ export const TEXT: { [k: number]: HexText } = {
         allows the customary time for marriage to slip by. However, there is no
         harm in this; she is rewarded for her purity and, even though belatedly,
         finds the husband intended for her.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11391,8 +10705,6 @@ export const TEXT: { [k: number]: HexText } = {
         situation. She is free of all vanity of outer adornment, and forgetting
         her rank in her marriage, takes a place below that of her husband, just
         as the moon, before it is quite full, does not directly face the sun.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11412,7 +10724,6 @@ export const TEXT: { [k: number]: HexText } = {
         woman takes an empty basket and the man stabs a sheep slaughtered
         beforehand—solely to preserve the forms. This impious, irreverent
         attitude bodes no good for a marriage.
-        <br />
       </>,
     ],
   },
@@ -11472,8 +10783,6 @@ export const TEXT: { [k: number]: HexText } = {
         applied and enforced. Clarity [Li] within makes it possible to
         investigate the facts exactly, and shock [Chên] without ensures a strict
         and precise carrying out of punishments.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -11497,8 +10806,6 @@ export const TEXT: { [k: number]: HexText } = {
         together during the period of abundance, it will not be too long, nor is
         it a mistake. Therefore one may go forth, in order to make one’s
         influence felt; it will meet with recognition.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11526,8 +10833,6 @@ export const TEXT: { [k: number]: HexText } = {
         thing then is to hold inwardly to the power of truth, which in the end
         is so strong that it exerts an invisible influence on the ruler, so that
         all goes well.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11552,8 +10857,6 @@ export const TEXT: { [k: number]: HexText } = {
         might be the right hand of the ruler, to undertake anything. It is as
         though his arm were broken, but he is not to blame for being thus
         hindered in action.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11575,8 +10878,6 @@ export const TEXT: { [k: number]: HexText } = {
         complementary factor postulated here is the reverse of the one in the
         first line. In the latter, wisdom is to be complemented by energy, while
         here energy is complemented by wisdom.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11593,8 +10894,6 @@ export const TEXT: { [k: number]: HexText } = {
         The ruler is modest and therefore open to the counsel of able men. Thus
         he is surrounded by men who suggest to him the lines of action. This
         brings blessing, fame, and good fortune to him and all the people.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11619,7 +10918,6 @@ export const TEXT: { [k: number]: HexText } = {
         his dwelling. He wishes at all odds to be master in his house, which so
         alienates his family that in the end he finds himself completely
         isolated.
-        <br />
       </>,
     ],
   },
@@ -11683,8 +10981,6 @@ export const TEXT: { [k: number]: HexText } = {
         dragged out indefinitely. Prisons ought to be places where people are
         lodged only temporarily, as guests are. They must not become dwelling
         places.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -11704,8 +11000,6 @@ export const TEXT: { [k: number]: HexText } = {
         stranger is mistaken if he hopes to find a friendly reception through
         lending himself to jokes and buffoonery. The result will be only
         contempt and insulting treatment.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11725,8 +11019,6 @@ export const TEXT: { [k: number]: HexText } = {
         persons further him, so that he can acquire property. Moreover, he wins
         the allegiance of a faithful and trustworthy servant—a thing of
         inestimable value to a wanderer.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11745,8 +11037,6 @@ export const TEXT: { [k: number]: HexText } = {
         resting place. He treats his servant with aloofness and arrogance; thus
         he loses the man’s loyalty. When a stranger in a strange land has no one
         left on whom he can rely, the situation becomes very dangerous.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11766,8 +11056,6 @@ export const TEXT: { [k: number]: HexText } = {
         property, but even with this he is not secure. He must be always on
         guard, ready to defend himself with arms. Hence he is not at ease. He is
         persistently conscious of being a stranger in a strange land.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11792,8 +11080,6 @@ export const TEXT: { [k: number]: HexText } = {
         knows how to meet the situation and how to introduce himself in the
         right way, he may find a circle of friends and a sphere of activity even
         in a strange country.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11818,7 +11104,6 @@ export const TEXT: { [k: number]: HexText } = {
         wanderer, he will later have cause to weep and lament. For if through
         carelessness a man loses his cow—i.e., his modesty and adaptability—evil
         will result.
-        <br />
       </>,
     ],
   },
@@ -11889,8 +11174,6 @@ export const TEXT: { [k: number]: HexText } = {
         Only when the command has been assimilated by the people is action in
         accordance with it possible. Action without preparation of the ground
         only frightens and repels.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -11910,8 +11193,6 @@ export const TEXT: { [k: number]: HexText } = {
         to and fro. In such a situation, a military decisiveness is the proper
         thing, so that one resolutely does what order demands. Resolute
         discipline is far better than irresolute license.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11935,8 +11216,6 @@ export const TEXT: { [k: number]: HexText } = {
         indefatigable effort, but this is well worth while. For when such
         elusive influences are brought into the light and branded, they lose
         their power over people.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11951,8 +11230,6 @@ export const TEXT: { [k: number]: HexText } = {
         essential to form a decision and to act. Repeated deliberation brings
         fresh doubts and scruples, and thereby humiliation, because one shows
         oneself unable to act.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -11972,8 +11249,6 @@ export const TEXT: { [k: number]: HexText } = {
         for feasting guests, and for everyday consumption. When the catch
         answered all three purposes, the hunt was considered especially
         successful.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12007,8 +11282,6 @@ export const TEXT: { [k: number]: HexText } = {
         made, it is necessary to note carefully for some time after how the
         improvements bear the test of actuality. Such careful work is
         accompanied by good fortune.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12026,7 +11299,6 @@ export const TEXT: { [k: number]: HexText } = {
         injurious influences into the most secret corners. But he no longer has
         the strength to combat them decisively. In this case any attempt to
         penetrate into the personal domain of darkness would only bring harm.
-        <br />
       </>,
     ],
   },
@@ -12094,8 +11366,6 @@ export const TEXT: { [k: number]: HexText } = {
         becomes many-sided and takes on a cheerful lightness, whereas there is
         always something ponderous and one-sided about the learning of the
         self-taught.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -12111,8 +11381,6 @@ export const TEXT: { [k: number]: HexText } = {
         resting content with everything, remains free of all egotistic likes and
         dislikes. In this freedom lies good fortune, because it harbors the
         quiet security of a heart fortified within itself.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12132,8 +11400,6 @@ export const TEXT: { [k: number]: HexText } = {
         swerve, so that he does not find such ways agreeable, not even dubious
         companions will venture to proffer any base pleasures, because he would
         not enjoy them. Thus every cause for regret is removed.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12150,8 +11416,6 @@ export const TEXT: { [k: number]: HexText } = {
         indulgence. They attract external pleasures by the emptiness of their
         natures. Thus they lose themselves more and more, which of course has
         bad results.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12170,8 +11434,6 @@ export const TEXT: { [k: number]: HexText } = {
         turn away from the lower pleasures and to strive for the higher. Once
         this decision is sealed, he finds true joy and peace, and inner conflict
         is overcome.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12186,8 +11448,6 @@ export const TEXT: { [k: number]: HexText } = {
         acts slowly but surely, and inevitably brings dangers in its train. But
         if he recognizes the situation and can comprehend the danger, he knows
         how to protect himself and remains unharmed.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12204,7 +11464,6 @@ export const TEXT: { [k: number]: HexText } = {
         question of danger, of good fortune or misfortune. He has given up
         direction of his own life, and what becomes of him depends upon chance
         and external influences.
-        <br />
       </>,
     ],
   },
@@ -12284,8 +11543,6 @@ export const TEXT: { [k: number]: HexText } = {
         eternity—stirred with an intuition of the One Creator of all living
         beings, and united through the strong feeling of fellowship experienced
         in the ritual of divine worship.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -12305,8 +11562,6 @@ export const TEXT: { [k: number]: HexText } = {
         temper make themselves felt and lead to mutual misunderstandings, we
         must take quick and vigorous action to dissolve the misunderstandings
         and mutual distrust.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12327,8 +11582,6 @@ export const TEXT: { [k: number]: HexText } = {
         moderate and just judgment of men, linked with good will. If he regains
         this unobstructed outlook on humanity, while at the same time all
         saturnine ill humor is dissolved, all occasion for remorse disappears.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12344,8 +11597,6 @@ export const TEXT: { [k: number]: HexText } = {
         barrier against others. Only on the basis of a great renunciation can he
         obtain the strength for great achievements. By setting his goal in a
         great task outside himself, he can attain this standpoint.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12367,8 +11618,6 @@ export const TEXT: { [k: number]: HexText } = {
         to forego what is near wins what is afar. But in order to comprehend
         this standpoint, one must have a wide view of the interrelationships of
         life, such as only unusual men attain.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12386,8 +11635,6 @@ export const TEXT: { [k: number]: HexText } = {
         true salvation in times of general deadlock. It gives the people a
         rallying point—a man in a ruling position who can dispel
         misunderstandings.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12408,7 +11655,6 @@ export const TEXT: { [k: number]: HexText } = {
         danger comes, or to keep at a distance from an existing danger, or to
         find a way out of a danger that is already upon them. In this way he
         does what is right.
-        <br />
       </>,
     ],
   },
@@ -12484,8 +11730,6 @@ export const TEXT: { [k: number]: HexText } = {
         individual attains significance as a free spirit only by surrounding
         himself with these limitations and by determining for himself what his
         duty is.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -12513,8 +11757,6 @@ export const TEXT: { [k: number]: HexText } = {
         loses his life. If germinating things are not handled with discretion,
         the perfecting of them is impeded. Therefore the superior man is careful
         to maintain silence and does not go forth.”
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12533,8 +11775,6 @@ export const TEXT: { [k: number]: HexText } = {
         not come, but no longer. Once the obstacles to action have been removed,
         anxious hesitation is a mistake that is bound to bring disaster, because
         one misses one’s opportunity.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12554,8 +11794,6 @@ export const TEXT: { [k: number]: HexText } = {
         with accompanying regret. He must not seek to lay the blame on others.
         Only when we realize that our mistakes are of our own making will such
         disagreeable experiences free us of errors.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12572,8 +11810,6 @@ export const TEXT: { [k: number]: HexText } = {
         means a saving of energy. The energy that otherwise would be consumed in
         a vain struggle with the object, is applied wholly to the benefit of the
         matter in hand, and success is assured.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12593,8 +11829,6 @@ export const TEXT: { [k: number]: HexText } = {
         associated with him, and with modest means manages to achieve something,
         good fortune is the result. Where such an example occurs, it meets with
         emulation, so that whatever is undertaken must succeed.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12617,7 +11851,6 @@ export const TEXT: { [k: number]: HexText } = {
         guilt and remorse. In such situations ruthlessness toward oneself is the
         only means of saving one’s soul, which otherwise would succumb to
         irresolution and temptation.
-        <br />
       </>,
     ],
   },
@@ -12710,8 +11943,6 @@ export const TEXT: { [k: number]: HexText } = {
         without success, for its aim was to make so strong a moral impression
         that there was no reason to fear abuse of such mildness. For it sprang
         not from weakness but from a superior clarity.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -12733,8 +11964,6 @@ export const TEXT: { [k: number]: HexText } = {
         more uneasy and anxious he will become as to whether these secret ties
         are really tenable. In this way inner peace and the force of inner truth
         are lost.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12779,8 +12008,6 @@ export const TEXT: { [k: number]: HexText } = {
         hinge and bowspring of the superior man. As hinge and bowspring move,
         they bring honor or disgrace. Through words and deeds the superior man
         moves heaven and earth. Must one not, then, be cautious?”
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12803,8 +12030,6 @@ export const TEXT: { [k: number]: HexText } = {
         that this is so. Whether this condition is felt to be an affliction or
         the supreme happiness of love, is left to the subjective verdict of the
         person concerned.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12828,8 +12053,6 @@ export const TEXT: { [k: number]: HexText } = {
         renounce factionalism among men. Only by pursuing one’s course like a
         horse that goes straight ahead without looking sidewise at its mate, can
         one retain the inner freedom that helps one onward.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12848,8 +12071,6 @@ export const TEXT: { [k: number]: HexText } = {
         knit together and unite all his adherents. Without this central force,
         all external unity is only deception and breaks down at the decisive
         moment.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -12865,7 +12086,6 @@ export const TEXT: { [k: number]: HexText } = {
         heaven. It just crows. A man may count on mere words to awaken faith.
         This may succeed now and then, but if persisted in, it will have bad
         consequences.
-        <br />
       </>,
     ],
   },
@@ -12960,8 +12180,6 @@ export const TEXT: { [k: number]: HexText } = {
         the masses, all this makes him stand out as exceptional. But the
         essential significance of his attitude lies in the fact that in external
         matters he is on the side of the lowly.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -12978,8 +12196,6 @@ export const TEXT: { [k: number]: HexText } = {
         resorted to only when all else fails. At first we ought to put up with
         traditional ways as long as possible; otherwise we exhaust ourselves and
         our energy and still achieve nothing.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13016,8 +12232,6 @@ export const TEXT: { [k: number]: HexText } = {
         exceptional times. (The rule is that every official should first have an
         audience with the prince by whom he is appointed. Here the appointment
         is made by the minister.)
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13040,8 +12254,6 @@ export const TEXT: { [k: number]: HexText } = {
         is not unavoidable; one can escape it if he understands that the time
         demands that he pay especial attention to small and insignificant
         things.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13061,8 +12273,6 @@ export const TEXT: { [k: number]: HexText } = {
         And if one were to go on, endeavoring to force his way to the goal, he
         would be endangered. Therefore one must be on guard and not act but
         continue inwardly to persevere.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13087,8 +12297,6 @@ export const TEXT: { [k: number]: HexText } = {
         their fame nor their great names but their genuine achievements that are
         important. Through such modesty the right man is found, and the
         exceptional task is carried out in spite of all difficulties.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13110,7 +12318,6 @@ export const TEXT: { [k: number]: HexText } = {
         does not know how to call a halt, but restlessly seeks to press on and
         on, draws upon himself misfortune at the hands of gods and men, because
         he deviates from the order of nature.
-        <br />
       </>,
     ],
   },
@@ -13191,8 +12398,6 @@ export const TEXT: { [k: number]: HexText } = {
         seems to be in the best of order. In such times only the sage recognizes
         the moments that bode danger and knows how to banish it by means of
         timely precautions.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -13218,8 +12423,6 @@ export const TEXT: { [k: number]: HexText } = {
         only from behind like a fox that, having crossed the water, at the last
         minute gets its tail wet. He will not suffer any real harm, because his
         behavior has been correct.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13251,8 +12454,6 @@ export const TEXT: { [k: number]: HexText } = {
         Times change. When the six stages of the hexagram have passed, the new
         era dawns. That which is a man’s own cannot be permanently lost. It
         comes to him of its own accord. He need only be able to wait.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13286,8 +12487,6 @@ export const TEXT: { [k: number]: HexText } = {
         large matters, because it is not only rising states that carry on a
         colonial policy; the urge to expand, with its accompanying dangers, is
         part and parcel of every ambitious undertaking.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13307,8 +12506,6 @@ export const TEXT: { [k: number]: HexText } = {
         more. However, to the thoughtful man such occurrences are grave omens
         that he does not neglect. This is the only way of averting evil
         consequences.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13333,8 +12530,6 @@ export const TEXT: { [k: number]: HexText } = {
         looks into the heart. Therefore a simple sacrifice offered with real
         piety holds a greater blessing than an impressive service without
         warmth.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13351,7 +12546,6 @@ export const TEXT: { [k: number]: HexText } = {
         a peril overcome. However, such vain self-admiration brings misfortune.
         It leads only to danger, and unless one finally resolves to go forward
         without pausing, one falls a victim to this danger.
-        <br />
       </>,
     ],
   },
@@ -13424,8 +12618,6 @@ export const TEXT: { [k: number]: HexText } = {
         in order to handle external forces properly, we must above all arrive at
         the correct standpoint ourselves, for only from this vantage can we work
         correctly.
-        <br />
-        <br />
       </>
     ),
     lines: [
@@ -13444,8 +12636,6 @@ export const TEXT: { [k: number]: HexText } = {
         enthusiasm leads only to failure and humiliation if the time for
         achievement has not yet arrived. In such a time it is wise to spare
         ourselves the opprobrium of failure by holding back.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13466,8 +12656,6 @@ export const TEXT: { [k: number]: HexText } = {
         putting brakes on strength. Therefore he must not fall asleep and lose
         sight of the goal. If he remains strong and steadfast in his resolve,
         all goes well in the end.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13485,8 +12673,6 @@ export const TEXT: { [k: number]: HexText } = {
         done? A new situation must be created; one must engage the energies of
         able helpers and in this fellowship take the decisive step—cross the
         great water. Then completion will become possible.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13509,8 +12695,6 @@ export const TEXT: { [k: number]: HexText } = {
         the Devil’s Country, the forces of decadence. But the struggle also has
         its reward. Now is the time to lay the foundations of power and mastery
         for the future.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13535,8 +12719,6 @@ export const TEXT: { [k: number]: HexText } = {
         rain, or as a forest grows more freshly green from charred ruins after a
         fire, so the new era appears all the more glorious by contrast with the
         misery of the old.
-        <br />
-        <br />
       </>,
       <>
         <p className="smallCaps">
@@ -13566,7 +12748,6 @@ export const TEXT: { [k: number]: HexText } = {
         This hexagram comes at the end of the Book of Changes. It points to the
         fact that every end contains a new beginning. Thus it gives hope to men.
         The Book of Changes is a book of the future.
-        <br />
       </>,
     ],
   },

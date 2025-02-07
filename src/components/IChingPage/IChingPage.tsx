@@ -73,15 +73,23 @@ const IChingPage = () => {
         <br />
         <br />
         {hexagram.text}
+        <br />
+        <br />
         {changingHex ? (
           <>
-            <p className={styles.linesHeader}>Changing Lines</p> {/* <ul> */}
+            {/* <br />
+            <br /> */}
+            <p className={styles.linesHeader}>Changing Lines</p>
+            <br />
             {hexagram.changingLinesText.map((line, i) => (
               // eslint-disable-next-line react/jsx-key
               <p>
                 {line}
+                {/* add break(s) here, delete from text */}
                 {i !== hexagram.changingLinesText.length - 1 && (
                   <>
+                    <br />
+                    <br />
                     <hr style={{ margin: '0 auto', width: '25%' }} />
                   </>
                 )}
@@ -95,6 +103,7 @@ const IChingPage = () => {
 
         {changingHex && (
           <>
+            <br />
             <hr />
             <br />
           </>
@@ -105,6 +114,7 @@ const IChingPage = () => {
             <br />
             <br />
             {changingHex.text}
+            <br />
             <br />
           </>
         )}
