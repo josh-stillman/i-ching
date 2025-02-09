@@ -8,6 +8,7 @@ import { Hexagram } from '@utils/utils';
 import { Hex } from '@components/Hex/Hex';
 // import { useViewport } from '../../hooks/useViewport';
 import { useSearchParams } from 'next/navigation';
+import { HexTextDisplay } from '../TextDisplay/HexTextDisplay/HexTextDisplay';
 
 const IChingPage = () => {
   const searchParams = useSearchParams();
@@ -69,23 +70,17 @@ const IChingPage = () => {
         {changingHex && <Hex hexagram={changingHex} />}
       </section>
       <section className={styles.textContainer}>
-        {hexagram.hexagramTitleText}
-        <br />
-        <br />
-        {hexagram.text}
-        <br />
-        <br />
+        <HexTextDisplay hexagram={hexagram} />
+
         {changingHex ? (
           <>
-            {/* <br />
-            <br /> */}
             <p className={styles.linesHeader}>Changing Lines</p>
             <br />
             {hexagram.changingLinesText.map((line, i) => (
               // eslint-disable-next-line react/jsx-key
               <p>
                 {line}
-                {/* add break(s) here, delete from text */}
+
                 {i !== hexagram.changingLinesText.length - 1 && (
                   <>
                     <br />
@@ -106,16 +101,7 @@ const IChingPage = () => {
             <br />
             <hr />
             <br />
-          </>
-        )}
-        {changingHex && (
-          <>
-            {changingHex.hexagramTitleText}
-            <br />
-            <br />
-            {changingHex.text}
-            <br />
-            <br />
+            <HexTextDisplay hexagram={changingHex} />
           </>
         )}
       </section>
