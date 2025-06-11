@@ -41,7 +41,7 @@ const IChingPage = () => {
       const rc = roughAnimated.svg(svgRef.current);
 
       svgRef.current.replaceChildren(
-        rc.rectangle(0, 0, width, height, {
+        rc.rectangle(0, 0, width * 1.33, height * 1.33, {
           animate: false,
           fillStyle: 'hachure',
           hachureGap: 1.5,
