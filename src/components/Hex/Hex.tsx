@@ -1,14 +1,13 @@
 import { Hexagram, Line } from '@utils/utils';
 import { HexLine } from '../HexLine/HexLine';
 import styles from './Hex.module.css';
-import { useViewport } from '../../hooks/useViewport';
 
 interface Props {
   hexagram: Hexagram;
 }
 
 export const Hex = ({ hexagram }: Props) => {
-  const { width } = useViewport();
+  const { innerWidth: width } = window;
 
   const gap = width * 0.075;
   const padding = width * 0.05 * 2;
