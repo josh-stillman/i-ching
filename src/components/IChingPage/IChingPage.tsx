@@ -6,7 +6,6 @@ import roughAnimated from 'rough-animated';
 import styles from './IChingPage.module.css';
 import { Hexagram } from '@utils/utils';
 import { Hex } from '@components/Hex/Hex';
-import { useViewport } from '../../hooks/useViewport';
 import { useSearchParams } from 'next/navigation';
 import { HexTextDisplay } from '../TextDisplay/HexTextDisplay/HexTextDisplay';
 
@@ -30,7 +29,8 @@ const IChingPage = () => {
 
   const changingHex = hexagram.getChangingHex();
   const svgRef = useRef<SVGSVGElement>(null);
-  const { height, width } = useViewport();
+
+  const { innerWidth: width, innerHeight: height } = window;
 
   useEffect(() => {
     const resetShape = () => {
