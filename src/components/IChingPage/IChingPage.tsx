@@ -31,6 +31,8 @@ const IChingPage = () => {
   const svgRef = useRef<SVGSVGElement>(null);
 
   const { innerWidth: width, innerHeight: height } = window;
+  const svgWidth = innerWidth * 1.5;
+  const svgHeight = innerHeight * 1.5;
 
   useEffect(() => {
     const resetShape = () => {
@@ -41,7 +43,7 @@ const IChingPage = () => {
       const rc = roughAnimated.svg(svgRef.current);
 
       svgRef.current.replaceChildren(
-        rc.rectangle(0, 0, width * 1.33, height * 1.33, {
+        rc.rectangle(0, 0, svgWidth, svgHeight, {
           animate: false,
           fillStyle: 'hachure',
           hachureGap: 1.5,
@@ -59,8 +61,8 @@ const IChingPage = () => {
       {height && width && (
         <svg
           className="background"
-          width={width}
-          height={height}
+          width={svgWidth}
+          height={svgHeight}
           ref={svgRef}
         ></svg>
       )}
