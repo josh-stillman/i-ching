@@ -32,7 +32,7 @@ const IChingPage = () => {
 
   const { innerWidth: width, innerHeight: height } = window;
   const svgWidth = innerWidth * 2.5;
-  const svgHeight = innerHeight * 1.5;
+  const svgHeight = innerHeight * 2.5;
 
   useEffect(() => {
     const resetShape = () => {
