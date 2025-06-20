@@ -31,7 +31,7 @@ const IChingPage = () => {
   const svgRef = useRef<SVGSVGElement>(null);
 
   const { innerWidth: width, innerHeight: height } = window;
-  const svgWidth = innerWidth * 1.5;
+  const svgWidth = innerWidth * 2.5;
   const svgHeight = innerHeight * 1.5;
 
   useEffect(() => {
