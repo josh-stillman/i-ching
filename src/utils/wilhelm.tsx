@@ -5295,8 +5295,6 @@ export const TEXT: { [k: number]: HexText } = {
         <p className="smallCaps">
           Nine at the beginning means:
           <br />
-          Nine at the beginning means:
-          <br />
           You let your magic tortoise go,
           <br />
           And look at me with the corners of your mouth drooping.
