@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import roughAnimated from 'rough-animated';
 
 import styles from './IChingPage.module.css';
@@ -8,31 +8,35 @@ import { Hexagram } from '@utils/utils';
 import { Hex } from '@components/Hex/Hex';
 import { useSearchParams } from 'next/navigation';
 import { HexTextDisplay } from '../TextDisplay/HexTextDisplay/HexTextDisplay';
+import { useRouter } from 'next/navigation';
 
 const IChingPage = () => {
   const searchParams = useSearchParams();
 
-  const forceHexagramNumber = searchParams.get('hex')
-    ? parseInt(searchParams.get('hex')!)
-    : null;
+  const router = useRouter();
 
-  const forceChangingLines = searchParams
-    .get('lines')
-    ?.split(',')
-    .map(l => +l)
-    .filter(l => +l >= 1 && +l <= 6);
+  const [hexagram, setHexagram] = useState<Hexagram>();
+  const changingHex = useMemo(() => hexagram?.getChangingHex(), [hexagram]);
 
-  const hexagram = new Hexagram({
-    forceHexagramNumber,
-    forceChangingLines,
-  });
-
-  const changingHex = hexagram.getChangingHex();
   const svgRef = useRef<SVGSVGElement>(null);
 
   const { innerWidth: width, innerHeight: height } = window;
   const svgWidth = innerWidth * 2.5;
   const svgHeight = innerHeight * 2.5;
+
+  useEffect(() => {
+    const forceHexagramNumber = searchParams.get('hex')
+      ? parseInt(searchParams.get('hex')!)
+      : null;
+
+    const forceChangingLines = searchParams
+      .get('lines')
+      ?.split(',')
+      .map(l => +l)
+      .filter(l => +l >= 1 && +l <= 6);
+
+    castHexagram(forceHexagramNumber, forceChangingLines);
+  }, []);
 
   useEffect(() => {
     const resetShape = () => {
@@ -56,6 +60,22 @@ const IChingPage = () => {
     resetShape();
   }, []);
 
+  const castHexagram = (
+    forceHexagramNumber?: number | null,
+    forceChangingLines?: number[]
+  ) => {
+    const newHexagram = new Hexagram({
+      forceHexagramNumber,
+      forceChangingLines,
+    });
+
+    setHexagram(newHexagram);
+
+    router.replace(
+      `/?hex=${newHexagram.hexagramNumber}${newHexagram.changingLines.length ? `&lines=${newHexagram.changingLines.join(',')}` : ''}`
+    );
+  };
+
   return (
     <main className={styles.iChingPageWrapper}>
       {height && width && (
@@ -66,47 +86,57 @@ const IChingPage = () => {
           ref={svgRef}
         ></svg>
       )}
-      <section className={styles.hexContainer}>
-        <Hex hexagram={hexagram} />
+      {hexagram && (
+        <>
+          <section className={styles.hexContainer}>
+            <Hex hexagram={hexagram} />
 
-        {changingHex && <Hex hexagram={changingHex} />}
-      </section>
-      <section className={styles.textContainer}>
-        <HexTextDisplay hexagram={hexagram} />
+            {changingHex && <Hex hexagram={changingHex} />}
+          </section>
+          <section className={styles.textContainer}>
+            <HexTextDisplay hexagram={hexagram} />
 
-        {changingHex ? (
-          <>
-            <p className={styles.linesHeader}>Changing Lines</p>
-            <br />
-            {hexagram.changingLinesText.map((line, i) => (
-              // eslint-disable-next-line react/jsx-key
-              <p>
-                {line}
-
-                {i !== hexagram.changingLinesText.length - 1 && (
-                  <>
-                    <br />
-                    <br />
-                    <hr style={{ margin: '0 auto', width: '25%' }} />
-                  </>
-                )}
+            {changingHex ? (
+              <>
+                <p className={styles.linesHeader}>Changing Lines</p>
                 <br />
-              </p>
-            ))}
-          </>
-        ) : (
-          ''
-        )}
+                {hexagram.changingLinesText.map((line, i) => (
+                  // eslint-disable-next-line react/jsx-key
+                  <p>
+                    {line}
 
-        {changingHex && (
-          <>
-            <br />
-            <hr />
-            <br />
-            <HexTextDisplay hexagram={changingHex} />
-          </>
-        )}
-      </section>
+                    {i !== hexagram.changingLinesText.length - 1 && (
+                      <>
+                        <br />
+                        <br />
+                        <hr style={{ margin: '0 auto', width: '25%' }} />
+                      </>
+                    )}
+                    <br />
+                  </p>
+                ))}
+              </>
+            ) : (
+              ''
+            )}
+
+            {changingHex && (
+              <>
+                <br />
+                <hr />
+                <br />
+                <HexTextDisplay hexagram={changingHex} />
+              </>
+            )}
+          </section>
+          <button
+            className={styles.recastButton}
+            onClick={() => castHexagram()}
+          >
+            Cast Again
+          </button>
+        </>
+      )}
     </main>
   );
 };

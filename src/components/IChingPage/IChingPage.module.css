@@ -44,3 +44,10 @@
   font-size: 1.75rem;
   font-variant: small-caps;
 }
+
+.recastButton {
+  margin-top: 18px;
+  font-size: 22px;
+  padding: 4px;
+  font-family: times new roman;
+}
