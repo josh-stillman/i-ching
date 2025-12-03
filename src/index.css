@@ -1,7 +1,6 @@
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-
-  /* line-height: 1.5; */
+  line-height: 1.5;
   font-weight: 400;
   color-scheme: light dark;
   color: rgb(255 255 255 / 87%);
@@ -12,6 +11,12 @@
 
   /* stylelint-disable-next-line value-keyword-case */
   --font-serif: 'Times New Roman', Times, serif;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 a {
