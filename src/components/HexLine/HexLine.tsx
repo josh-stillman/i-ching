@@ -1,5 +1,5 @@
 import React from 'react';
-import { Line } from '@utils/utils';
+import { Line } from '../../utils/utils';
 
 import styles from './Hexline.module.css';
 import { AnimatedRectangle } from '../Rectangle/Rectangle';

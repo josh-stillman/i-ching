@@ -1,10 +1,4 @@
-/*
-TODO:
-1. organize/break into files
-2. SEO
-*/
-
-import { ReactElement } from 'react';
+import type { ReactElement } from 'react';
 import { TEXT } from './wilhelm';
 
 enum Coin {

@@ -4,16 +4,16 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import roughAnimated from 'rough-animated';
 
 import styles from './IChingPage.module.css';
-import { Hexagram } from '@utils/utils';
-import { Hex } from '@components/Hex/Hex';
-import { useSearchParams } from 'next/navigation';
+import { Hexagram } from '../../utils/utils';
+import { Hex } from '../Hex/Hex';
+// import { useSearchParams } from 'next/navigation';
 import { HexTextDisplay } from '../TextDisplay/HexTextDisplay/HexTextDisplay';
-import { useRouter } from 'next/navigation';
+// import { useRouter } from 'next/navigation';
 
 const IChingPage = () => {
-  const searchParams = useSearchParams();
+  // const searchParams = useSearchParams();
 
-  const router = useRouter();
+  // const router = useRouter();
 
   const [hexagram, setHexagram] = useState<Hexagram>();
   const changingHex = useMemo(() => hexagram?.getChangingHex(), [hexagram]);
@@ -25,17 +25,18 @@ const IChingPage = () => {
   const svgHeight = innerHeight * 2.5;
 
   useEffect(() => {
-    const forceHexagramNumber = searchParams.get('hex')
-      ? parseInt(searchParams.get('hex')!)
-      : null;
+    //   const forceHexagramNumber = searchParams.get('hex')
+    //     ? parseInt(searchParams.get('hex')!)
+    //     : null;
 
-    const forceChangingLines = searchParams
-      .get('lines')
-      ?.split(',')
-      .map(l => +l)
-      .filter(l => +l >= 1 && +l <= 6);
+    //   const forceChangingLines = searchParams
+    //     .get('lines')
+    //     ?.split(',')
+    //     .map(l => +l)
+    //     .filter(l => +l >= 1 && +l <= 6);
 
-    castHexagram(forceHexagramNumber, forceChangingLines);
+    //   castHexagram(forceHexagramNumber, forceChangingLines);
+    castHexagram();
   }, []);
 
   useEffect(() => {
@@ -71,9 +72,9 @@ const IChingPage = () => {
 
     setHexagram(newHexagram);
 
-    router.replace(
-      `/?hex=${newHexagram.hexagramNumber}${newHexagram.changingLines.length ? `&lines=${newHexagram.changingLines.join(',')}` : ''}`
-    );
+    // router.replace(
+    //   `/?hex=${newHexagram.hexagramNumber}${newHexagram.changingLines.length ? `&lines=${newHexagram.changingLines.join(',')}` : ''}`
+    // );
   };
 
   return (

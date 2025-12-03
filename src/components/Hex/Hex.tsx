@@ -1,4 +1,4 @@
-import { Hexagram, Line } from '@utils/utils';
+import { Hexagram, Line } from '../../utils/utils';
 import { HexLine } from '../HexLine/HexLine';
 import styles from './Hex.module.css';
 
