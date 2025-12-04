@@ -10,7 +10,7 @@
   font-size: 28px;
   line-height: 100%;
   text-align: center;
-
+  font-variant: petite-caps;
   grid-row: 1;
 
   @media (width <= 500px) {

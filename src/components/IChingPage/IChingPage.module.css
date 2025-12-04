@@ -54,4 +54,7 @@
   font-family: var(--font-serif);
   border-radius: 8px;
   padding: 10px 12px;
+  font-variant: petite-caps;
+  background-color: rgb(230 217 224 / 100%);
+  border: 0.5px solid blue;
 }
