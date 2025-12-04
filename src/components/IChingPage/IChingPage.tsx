@@ -6,15 +6,9 @@ import roughAnimated from 'rough-animated';
 import styles from './IChingPage.module.css';
 import { Hexagram } from '../../utils/utils';
 import { Hex } from '../Hex/Hex';
-// import { useSearchParams } from 'next/navigation';
 import { HexTextDisplay } from '../TextDisplay/HexTextDisplay/HexTextDisplay';
-// import { useRouter } from 'next/navigation';
 
 const IChingPage = () => {
-  // const searchParams = useSearchParams();
-
-  // const router = useRouter();
-
   const [hexagram, setHexagram] = useState<Hexagram>();
   const changingHex = useMemo(() => hexagram?.getChangingHex(), [hexagram]);
 
@@ -24,19 +18,38 @@ const IChingPage = () => {
   const svgWidth = innerWidth * 2.5;
   const svgHeight = innerHeight * 2.5;
 
+  const castHexagram = (
+    forceHexagramNumber?: number | null,
+    forceChangingLines?: number[]
+  ) => {
+    const newHexagram = new Hexagram({
+      forceHexagramNumber,
+      forceChangingLines,
+    });
+
+    setHexagram(newHexagram);
+
+    history.pushState(
+      {},
+      '',
+      `/?hex=${newHexagram.hexagramNumber}${newHexagram.changingLines.length ? `&lines=${newHexagram.changingLines.join(',')}` : ''}`
+    );
+  };
+
   useEffect(() => {
-    //   const forceHexagramNumber = searchParams.get('hex')
-    //     ? parseInt(searchParams.get('hex')!)
-    //     : null;
+    const searchParams = new URLSearchParams(window.location.search);
+    const forceHexagramNumber = searchParams.get('hex')
+      ? parseInt(searchParams.get('hex')!)
+      : null;
 
-    //   const forceChangingLines = searchParams
-    //     .get('lines')
-    //     ?.split(',')
-    //     .map(l => +l)
-    //     .filter(l => +l >= 1 && +l <= 6);
+    const forceChangingLines = searchParams
+      .get('lines')
+      ?.split(',')
+      .map(l => +l)
+      .filter(l => +l >= 1 && +l <= 6);
 
-    //   castHexagram(forceHexagramNumber, forceChangingLines);
-    castHexagram();
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    castHexagram(forceHexagramNumber, forceChangingLines);
   }, []);
 
   useEffect(() => {
@@ -60,22 +73,6 @@ const IChingPage = () => {
 
     resetShape();
   }, []);
-
-  const castHexagram = (
-    forceHexagramNumber?: number | null,
-    forceChangingLines?: number[]
-  ) => {
-    const newHexagram = new Hexagram({
-      forceHexagramNumber,
-      forceChangingLines,
-    });
-
-    setHexagram(newHexagram);
-
-    // router.replace(
-    //   `/?hex=${newHexagram.hexagramNumber}${newHexagram.changingLines.length ? `&lines=${newHexagram.changingLines.join(',')}` : ''}`
-    // );
-  };
 
   return (
     <main className={styles.iChingPageWrapper}>
