@@ -27,6 +27,7 @@ export const HexLine = ({ line, order, duration, width }: Props) => {
       return (
         <BrokenLine
           fill="black"
+          ariaLabel="Broken Line"
           roughness={INITIAL_ROUGHNESS}
           order={order}
           duration={duration}
@@ -38,6 +39,7 @@ export const HexLine = ({ line, order, duration, width }: Props) => {
       return (
         <BrokenLine
           fill="tomato"
+          ariaLabel="Changing Broken Line"
           fillWeight={CHANGING_FILL_WEIGHT}
           roughness={INITIAL_ROUGHNESS}
           order={order}
@@ -51,6 +53,7 @@ export const HexLine = ({ line, order, duration, width }: Props) => {
       return (
         <StraightLine
           fill="black"
+          ariaLabel="Unbroken Line"
           roughness={INITIAL_ROUGHNESS}
           order={order}
           duration={duration}
@@ -62,6 +65,7 @@ export const HexLine = ({ line, order, duration, width }: Props) => {
       return (
         <StraightLine
           fill="tomato"
+          ariaLabel="Changing Unbroken Line"
           fillWeight={CHANGING_FILL_WEIGHT}
           roughness={INITIAL_ROUGHNESS}
           order={order}
@@ -85,8 +89,10 @@ const BrokenLine = ({
   duration,
   width,
   height,
+  ariaLabel,
 }: {
   roughness: number;
+  ariaLabel: string;
   fill: string;
   fillWeight?: number;
   order: number;
@@ -103,6 +109,7 @@ const BrokenLine = ({
     <div
       className={`${styles.line__container} ${className}`}
       style={{ '--order': order } as React.CSSProperties}
+      aria-label={ariaLabel}
     >
       <AnimatedRectangle
         width={width * 0.375}
@@ -137,6 +144,7 @@ const StraightLine = ({
   duration,
   width,
   height,
+  ariaLabel,
 }: {
   roughness: number;
   fill: string;
@@ -146,10 +154,12 @@ const StraightLine = ({
   className?: string;
   width: number;
   height: number;
+  ariaLabel: string;
 }) => (
   <div
     className={`${styles.line__container} ${className ? className : ''}`}
     style={{ '--order': order } as React.CSSProperties}
+    aria-label={ariaLabel}
   >
     <AnimatedRectangle
       width={width}
