@@ -12,11 +12,13 @@ interface Props {
   hachureGap?: number;
   animationDuration?: number;
   animationDurationFillPercentage?: number;
+  stroke: string;
 }
 
 export const AnimatedRectangle = ({
   width,
   height,
+  stroke = 'black',
   fill = 'black',
   fillStyle = 'hachure',
   fillWeight = 1,
@@ -52,6 +54,7 @@ export const AnimatedRectangle = ({
         fillWeight,
         hachureGap,
         fill,
+        stroke,
       })
     );
   };

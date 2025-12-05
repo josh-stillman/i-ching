@@ -60,12 +60,16 @@ const IChingPage = () => {
 
       const rc = roughAnimated.svg(svgRef.current);
 
+      const darkMode = window.matchMedia(
+        '(prefers-color-scheme: dark)'
+      ).matches;
+
       svgRef.current.replaceChildren(
         rc.rectangle(0, 0, svgWidth, svgHeight, {
           animate: false,
           fillStyle: 'hachure',
-          hachureGap: 1.5,
-          fill: '#e1e5eb',
+          hachureGap: darkMode ? 0.5 : 1.5,
+          fill: darkMode ? 'rgb(94,94,94)' : '#e1e5eb',
           stroke: 'none',
         })
       );

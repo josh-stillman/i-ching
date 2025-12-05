@@ -22,11 +22,18 @@ export const HexLine = ({ line, order, duration, width }: Props) => {
 
   const height = width * ASPECT_RATIO;
 
+  const darkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  const defaultFill = darkMode ? 'rgb(215,215,215)' : 'black';
+
+  const defaultStroke = darkMode ? 'rgb(233,233,233)' : 'black';
+
   switch (line) {
     case Line.Broken:
       return (
         <BrokenLine
-          fill="black"
+          fill={defaultFill}
+          stroke={defaultStroke}
           ariaLabel="Broken Line"
           roughness={INITIAL_ROUGHNESS}
           order={order}
@@ -39,6 +46,7 @@ export const HexLine = ({ line, order, duration, width }: Props) => {
       return (
         <BrokenLine
           fill="tomato"
+          stroke={darkMode ? 'tomato' : 'black'}
           ariaLabel="Changing Broken Line"
           fillWeight={CHANGING_FILL_WEIGHT}
           roughness={INITIAL_ROUGHNESS}
@@ -52,7 +60,8 @@ export const HexLine = ({ line, order, duration, width }: Props) => {
     case Line.Straight:
       return (
         <StraightLine
-          fill="black"
+          fill={defaultFill}
+          stroke={defaultStroke}
           ariaLabel="Unbroken Line"
           roughness={INITIAL_ROUGHNESS}
           order={order}
@@ -65,6 +74,7 @@ export const HexLine = ({ line, order, duration, width }: Props) => {
       return (
         <StraightLine
           fill="tomato"
+          stroke={darkMode ? 'tomato' : 'black'}
           ariaLabel="Changing Unbroken Line"
           fillWeight={CHANGING_FILL_WEIGHT}
           roughness={INITIAL_ROUGHNESS}
@@ -90,6 +100,7 @@ const BrokenLine = ({
   width,
   height,
   ariaLabel,
+  stroke,
 }: {
   roughness: number;
   ariaLabel: string;
@@ -100,6 +111,7 @@ const BrokenLine = ({
   duration: number;
   width: number;
   height: number;
+  stroke: string;
 }) => {
   const segmentDuration = duration / 2;
   const firstSegmentDelay = duration * order;
@@ -120,6 +132,7 @@ const BrokenLine = ({
         fillStyle={FILL_STYLE}
         animationDuration={segmentDuration}
         animationDelay={firstSegmentDelay}
+        stroke={stroke}
       />
       <AnimatedRectangle
         width={width * 0.375}
@@ -130,6 +143,7 @@ const BrokenLine = ({
         fillStyle={FILL_STYLE}
         animationDuration={segmentDuration}
         animationDelay={secondSegmentDelay}
+        stroke={stroke}
       />
     </div>
   );
@@ -145,6 +159,7 @@ const StraightLine = ({
   width,
   height,
   ariaLabel,
+  stroke,
 }: {
   roughness: number;
   fill: string;
@@ -155,6 +170,7 @@ const StraightLine = ({
   width: number;
   height: number;
   ariaLabel: string;
+  stroke: string;
 }) => (
   <div
     className={`${styles.line__container} ${className ? className : ''}`}
@@ -169,6 +185,7 @@ const StraightLine = ({
       animationDelay={duration * order}
       animationDuration={duration}
       roughness={roughness}
+      stroke={stroke}
     />
   </div>
 );
