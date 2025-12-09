@@ -33,31 +33,32 @@ export const AnimatedRectangle = ({
   const PADDING = 4;
 
   useEffect(() => {
+    const resetShape = () => {
+      if (!svgRef.current) {
+        return;
+      }
+
+      const rc = roughAnimated.svg(svgRef.current);
+
+      svgRef.current.replaceChildren(
+        rc.rectangle(PADDING, PADDING, width, height, {
+          animate: true,
+          roughness,
+          animationDelay,
+          animationDuration,
+          animationDurationFillPercentage,
+          fillStyle,
+          fillWeight,
+          hachureGap,
+          fill,
+          stroke,
+        })
+      );
+    };
+
     resetShape();
-  }, []);
-
-  const resetShape = () => {
-    if (!svgRef.current) {
-      return;
-    }
-
-    const rc = roughAnimated.svg(svgRef.current);
-
-    svgRef.current.replaceChildren(
-      rc.rectangle(PADDING, PADDING, width, height, {
-        animate: true,
-        roughness,
-        animationDelay,
-        animationDuration,
-        animationDurationFillPercentage,
-        fillStyle,
-        fillWeight,
-        hachureGap,
-        fill,
-        stroke,
-      })
-    );
-  };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [fill, stroke]);
 
   return (
     <svg

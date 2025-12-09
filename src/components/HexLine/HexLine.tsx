@@ -9,6 +9,7 @@ interface Props {
   order: number;
   duration: number;
   width: number;
+  darkMode: boolean;
 }
 
 const FILL_STYLE = 'none';
@@ -17,12 +18,10 @@ const CHANGING_FILL_WEIGHT = 2;
 
 const INITIAL_ROUGHNESS = 2;
 
-export const HexLine = ({ line, order, duration, width }: Props) => {
+export const HexLine = ({ line, order, duration, width, darkMode }: Props) => {
   const ASPECT_RATIO = 30 / 200;
 
   const height = width * ASPECT_RATIO;
-
-  const darkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
   const defaultFill = darkMode ? 'rgb(215,215,215)' : 'black';
 

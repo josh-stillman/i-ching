@@ -11,12 +11,20 @@ import { HexTextDisplay } from '../TextDisplay/HexTextDisplay/HexTextDisplay';
 const IChingPage = () => {
   const [hexagram, setHexagram] = useState<Hexagram>();
   const changingHex = useMemo(() => hexagram?.getChangingHex(), [hexagram]);
+  const [darkMode, setDarkMode] = useState(
+    window.matchMedia('(prefers-color-scheme: dark)').matches
+  );
 
   const svgRef = useRef<SVGSVGElement>(null);
 
   const { innerWidth: width, innerHeight: height } = window;
   const svgWidth = innerWidth * 2.5;
   const svgHeight = innerHeight * 2.5;
+
+  const toggleDarkMode = () => {
+    document.documentElement.style.colorScheme = darkMode ? 'light' : 'dark';
+    setDarkMode(d => !d);
+  };
 
   const castHexagram = (
     forceHexagramNumber?: number | null,
@@ -48,7 +56,6 @@ const IChingPage = () => {
       .map(l => +l)
       .filter(l => +l >= 1 && +l <= 6);
 
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     castHexagram(forceHexagramNumber, forceChangingLines);
   }, []);
 
@@ -60,9 +67,8 @@ const IChingPage = () => {
 
       const rc = roughAnimated.svg(svgRef.current);
 
-      const darkMode = window.matchMedia(
-        '(prefers-color-scheme: dark)'
-      ).matches;
+      // const darkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      console.log({ darkMode });
 
       svgRef.current.replaceChildren(
         rc.rectangle(0, 0, svgWidth, svgHeight, {
@@ -74,9 +80,8 @@ const IChingPage = () => {
         })
       );
     };
-
     resetShape();
-  }, []);
+  }, [darkMode, svgHeight, svgWidth]);
 
   return (
     <main className={styles.iChingPageWrapper}>
@@ -91,9 +96,9 @@ const IChingPage = () => {
       {hexagram && (
         <>
           <section className={styles.hexContainer}>
-            <Hex hexagram={hexagram} />
+            <Hex hexagram={hexagram} darkMode={darkMode} />
 
-            {changingHex && <Hex hexagram={changingHex} />}
+            {changingHex && <Hex hexagram={changingHex} darkMode={darkMode} />}
           </section>
           <section className={styles.textContainer}>
             <HexTextDisplay hexagram={hexagram} />
@@ -137,6 +142,7 @@ const IChingPage = () => {
           >
             Cast Again
           </button>
+          <button onClick={toggleDarkMode}>toggle dark mode</button>
         </>
       )}
     </main>
