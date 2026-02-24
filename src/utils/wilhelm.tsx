@@ -2054,7 +2054,7 @@ export const TEXT: { [k: number]: HexText } = {
         necessarily differences of elevation; it is impossible to bring about
         universal equality. But it is important that differences in social rank
         should not be arbitrary and unjust, for if this occurs, envy and class
-        struggle are the inevitable consequences. If, on the other band,
+        struggle are the inevitable consequences. If, on the other hand,
         external differences in rank correspond with differences in inner worth,
         and if inner worth forms the criterion of external rank, people
         acquiesce and order reigns in society.
