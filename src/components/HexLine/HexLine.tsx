@@ -119,7 +119,12 @@ const BrokenLine = ({
   return (
     <div
       className={`${styles.line__container} ${className}`}
-      style={{ '--order': order } as React.CSSProperties}
+      style={
+        {
+          '--order': order,
+          width: width,
+        } as React.CSSProperties
+      }
       aria-label={ariaLabel}
     >
       <AnimatedRectangle
@@ -173,11 +178,16 @@ const StraightLine = ({
 }) => (
   <div
     className={`${styles.line__container} ${className ? className : ''}`}
-    style={{ '--order': order } as React.CSSProperties}
+    style={
+      {
+        '--order': order,
+        width,
+      } as React.CSSProperties
+    }
     aria-label={ariaLabel}
   >
     <AnimatedRectangle
-      width={width}
+      width={width - 8}
       height={height}
       fill={fill}
       fillWeight={fillWeight}
