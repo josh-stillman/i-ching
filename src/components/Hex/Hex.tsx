@@ -1,12 +1,13 @@
-import { Hexagram, Line } from '@utils/utils';
+import { Hexagram, Line } from '../../utils/utils';
 import { HexLine } from '../HexLine/HexLine';
 import styles from './Hex.module.css';
 
 interface Props {
   hexagram: Hexagram;
+  darkMode: boolean;
 }
 
-export const Hex = ({ hexagram }: Props) => {
+export const Hex = ({ hexagram, darkMode }: Props) => {
   const { innerWidth: width } = window;
 
   const gap = width * 0.075;
@@ -46,6 +47,7 @@ export const Hex = ({ hexagram }: Props) => {
             key={hexagram.hexagramNumber + i}
             order={orderOffset - i}
             duration={TOTAL_DURATION / 6}
+            darkMode={darkMode}
           />
         ))}
       </div>
